@@ -1,12 +1,11 @@
 
 
 import java.io.*;
-import java.util.*;
 
 public class Werkstatt {
 	
-	private final int anzahlGeschenke = 1000;
-	private final int anzahlWichtel = 30;
+	private final int anzahlGeschenke = 500;
+	private final int anzahlWichtel = 25;
 	
 	// Die gesamte Wunschliste
 	private Geschenk[] geschenke;
@@ -24,10 +23,10 @@ public class Werkstatt {
 	public Werkstatt(){
 		
 		// Wir leiten die ganze Ausgabe in eine Datei um.
-//		try{
-//			System.setOut(new PrintStream(new FileOutputStream("Werkstattlog.txt")));
-//		}
-//		catch (Exception e) {System.out.println(e);}
+		try{
+			System.setOut(new PrintStream(new FileOutputStream("Werkstattlog.txt")));
+		}
+		catch (Exception e) {System.out.println(e);}
 
 		geschenke = WerkstattTools.generiereGeschenke(anzahlGeschenke);
 		wichtel = WerkstattTools.generiereWichtel(anzahlWichtel);
@@ -86,21 +85,32 @@ public class Werkstatt {
 	 * https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.html
 	 */
 	private void sortiere(){
-		Wichtel tempWichtel; //temporäres Wichtel zum Vertauschen
+		Wichtel tmpWichtel; //temporäres Wichtel zum Vertauschen
 		for ( int i = 0; i < wichtel.length-1; i++ ){
 			for ( int j = i+1; j < wichtel.length; j++ ){
 				// wenn das andere Wichtel "größer" ist ...
-				if (wichtel[i].compareTo(wichtel[j]) < 0 ){
+				if (wichtel[i].compareTo(wichtel[j]) > 0 ){
 					// vertausche die beiden Wichtel im Array
-					tempWichtel	= wichtel[i];
+					tmpWichtel	= wichtel[i];
 					wichtel[i] 	= wichtel[j];
-					wichtel[j] 	= tempWichtel;
+					wichtel[j] 	= tmpWichtel;
 				}
 			}
 		}
 
 	}
 
+    private Wichtel getHighPerformerIndex (String color){
+        int index=0;
+	    switch (color) {
+            case "rot": for (int i=0; wichtel[i] instanceof RoterWichtel; i++ ) index = i;
+                        return wichtel[index];
+            case "blau": for (int i=0; wichtel[i] instanceof BlauerWichtel; i++ ) index = i;
+                        return wichtel[index];
+            case "gelb": for (int i=0; wichtel[i] instanceof GelberWichtel; i++ ) index = i;
+                        return wichtel[index];
+            }
+    }
 
 	
 	// Eine Werkstatt wird angelegt, dann werden alle Geschenke bearbeitet, 
@@ -116,9 +126,13 @@ public class Werkstatt {
 		werkstatt.zeigeLeistungen();
 		
 		// TODO e): Klonen der drei besten Wichtel
-		// Wichtel roterSuperWichtel = ...;
-		// Wichtel blauerSuperWichtel = ...;
-		// Wichtel gelberSuperWichtel = ...;
+
+        Wichtel roterSuperWichtel  = new RoterWichtel;
+        roterSuperWichtel = wichtel[getHighPerformerIndex("rot")];
+        Wichtel blauerSuperWichtel = wichtel[getHighPerformerIndex("blau")];
+        Wichtel gelberSuperWichtel = wichtel[getHighPerformerIndex("gelb")];
+
+        System.out.print(roterSuperWichtel.toString()+" "+roterSuperWichtel.getName()+" "+gelberSuperWichtel.getName());
 	}
 	
 }
