@@ -7,13 +7,13 @@ public class Essbares extends Geschenk {
 
     // Attribute
     private boolean gesund = false;
-    private int MAX_SCHWIERIGKEIT = 15;
+
 
     // Konstruktor
     public Essbares(){
         super();
         this.name = Zufall.essbares();
-        this.schwierigkeit = Zufall.schwierigkeit(this.MAX_SCHWIERIGKEIT);
+        this.schwierigkeit = Zufall.schwierigkeit(15); // maximale Schwierigkeit vom Spielzeug ist 15
         if ((int)this.schwierigkeit%2 == 0) this.gesund = true;
     }
 
@@ -25,7 +25,7 @@ public class Essbares extends Geschenk {
      */
     public String toString() {
 
-        return this.name  + " ["+ Math.round(this.schwierigkeit*100.)/100. + "] "+ "(" + (this.gesund==true?"Ziemlich gesund)":"nicht unbedingt gesund)");
+        return this.name  + " ["+ (int)(this.schwierigkeit*100)/100. + "] "+ "(" + (this.gesund?"Ziemlich gesund)":"nicht unbedingt gesund)");
     }
 
 }

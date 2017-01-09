@@ -7,13 +7,12 @@ public class Spielzeug extends Geschenk {
 
     // Attribute
     private double spannung;
-    private int MAX_SCHWIERIGKEIT = 10;
 
     // Konstruktor
     public Spielzeug(){
         super();
         this.name = Zufall.spielzeug();
-        this.schwierigkeit = Zufall.schwierigkeit(this.MAX_SCHWIERIGKEIT);
+        this.schwierigkeit = Zufall.schwierigkeit(10); // maximale Schwierigkeit vom Spielzeug ist 10
         this.spannung = this.schwierigkeit * this.name.length() / 10;
     }
 
@@ -25,8 +24,7 @@ public class Spielzeug extends Geschenk {
      */
     @Override
     public String toString() {
-
-        return this.name  + " ["+ Math.round(this.schwierigkeit*100.)/100. + "] "+ "(Spannung: " + Math.round(this.spannung*10.)/10. +")";
+        return this.name  + " ["+ (int)(this.schwierigkeit*100)/100. + "] "+ "(Spannung: " + (int)(this.spannung*10)/10. +")";
     }
 
 }

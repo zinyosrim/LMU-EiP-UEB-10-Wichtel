@@ -31,7 +31,7 @@ public class WerkstattTools {
                 case 3:
                     g[i] = new Spielzeug();
             }
-            System.out.println("Geschenk Nr. "+ i + ": " + g[i].toString()+ " ist zum Packen bereit.");
+            System.out.println("Geschenk Nr. "+ i + " generiert | " + g[i].toString());
         }
         System.out.println("Es wurden " + anzahl + " Geschenke erzeugt.");
         System.out.println("----------------------------------------");

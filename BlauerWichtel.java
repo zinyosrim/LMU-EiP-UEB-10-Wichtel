@@ -12,6 +12,10 @@ public class BlauerWichtel extends Wichtel {
         super();
     }
 
+    public BlauerWichtel(Wichtel w){
+        super();
+    }
+
     // Methoden
 
     // Überschriebene Objektmethoden
@@ -37,6 +41,8 @@ public class BlauerWichtel extends Wichtel {
         this.dauer = (int) g.getSchwierigkeit();
         if (g instanceof Essbares) this.dauer = this.dauer / 2;
         else this.dauer += 3;
+        this.gearbeiteteZeit += this.dauer;
+        this.anzahlgefertigterGeschenke++;
     }
 
     // Interface Implemetierungen

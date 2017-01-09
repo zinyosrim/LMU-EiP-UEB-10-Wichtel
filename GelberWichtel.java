@@ -36,6 +36,8 @@ public class GelberWichtel extends Wichtel {
         this.dauer = (int) g.getSchwierigkeit();
         if (g instanceof Kleidung) this.dauer += 2;
         else this.dauer += 1;
+        this.gearbeiteteZeit += this.dauer;
+        this.anzahlgefertigterGeschenke++;
     }
 
 

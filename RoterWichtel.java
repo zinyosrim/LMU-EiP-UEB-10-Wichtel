@@ -35,13 +35,15 @@ public class RoterWichtel extends Wichtel {
     public void arbeite(Geschenk g) {
         this.dauer = (int) g.getSchwierigkeit();
         if (!(g instanceof Spielzeug)) this.dauer = this.dauer - 2;
+        this.gearbeiteteZeit += dauer;
+        this.anzahlgefertigterGeschenke++;
     }
 
     // Interface Implemetierungen
 
 
     @Override
-    public int compareTo(Wichtel anotherWichtel) {
+    public int compareTo(Wichtel andererWichtel) {
         if (this.effizienz() > andererWichtel.effizienz()) {
             return 1;
         } else if (this.effizienz() < andererWichtel.effizienz()) {

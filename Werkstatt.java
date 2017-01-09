@@ -100,17 +100,17 @@ public class Werkstatt {
 
 	}
 
-    private Wichtel getHighPerformerIndex (String color){
-        int index=0;
-	    switch (color) {
-            case "rot": for (int i=0; wichtel[i] instanceof RoterWichtel; i++ ) index = i;
-                        return wichtel[index];
-            case "blau": for (int i=0; wichtel[i] instanceof BlauerWichtel; i++ ) index = i;
-                        return wichtel[index];
-            case "gelb": for (int i=0; wichtel[i] instanceof GelberWichtel; i++ ) index = i;
-                        return wichtel[index];
-            }
-    }
+//    private Wichtel getHighPerformerIndex (String color){
+//        int index=0;
+//	    switch (color) {
+//            case "rot": for (int i=0; wichtel[i] instanceof RoterWichtel; i++ ) index = i;
+//                        return wichtel[index];
+//            case "blau": for (int i=0; wichtel[i] instanceof BlauerWichtel; i++ ) index = i;
+//                        return wichtel[index];
+//            case "gelb": for (int i=0; wichtel[i] instanceof GelberWichtel; i++ ) index = i;
+//                        return wichtel[index];
+//            }
+//    }
 
 	
 	// Eine Werkstatt wird angelegt, dann werden alle Geschenke bearbeitet, 
@@ -127,12 +127,12 @@ public class Werkstatt {
 		
 		// TODO e): Klonen der drei besten Wichtel
 
-        Wichtel roterSuperWichtel  = new RoterWichtel;
-        roterSuperWichtel = wichtel[getHighPerformerIndex("rot")];
-        Wichtel blauerSuperWichtel = wichtel[getHighPerformerIndex("blau")];
-        Wichtel gelberSuperWichtel = wichtel[getHighPerformerIndex("gelb")];
-
-        System.out.print(roterSuperWichtel.toString()+" "+roterSuperWichtel.getName()+" "+gelberSuperWichtel.getName());
+//        Wichtel roterSuperWichtel  = new RoterWichtel();
+//        Wichtel roterSuperWichtel = wichtel[getHighPerformerIndex("rot")];
+//        Wichtel blauerSuperWichtel = wichtel[getHighPerformerIndex("blau")];
+//        Wichtel gelberSuperWichtel = wichtel[getHighPerformerIndex("gelb")];
+//
+//        System.out.print(roterSuperWichtel.toString()+" "+roterSuperWichtel.getName()+" "+gelberSuperWichtel.getName());
 	}
 	
 }

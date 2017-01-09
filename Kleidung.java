@@ -7,12 +7,11 @@ public class Kleidung extends Geschenk {
 
     // Attribute
     private int eleganz;
-    private int MAX_SCHWIERIGKEIT = 5;
 
     // Konstruktor
     public Kleidung(){
         this.name = Zufall.kleidung();
-        this.schwierigkeit = Zufall.schwierigkeit(this.MAX_SCHWIERIGKEIT);
+        this.schwierigkeit = Zufall.schwierigkeit(5); // maximale Schwierigkeit vom Spielzeug ist 5
         this.eleganz = this.name.length();
     }
 
@@ -23,8 +22,7 @@ public class Kleidung extends Geschenk {
      */
     @Override
     public String toString() {
-
-        return this.name  + " ["+ Math.round(this.schwierigkeit*100.)/100. + "] "+ "(Eleganz: "+this.eleganz+")";
+        return this.name  + " ["+ (int)(this.schwierigkeit*100)/100. + "] "+ "(Eleganz: "+this.eleganz+")";
     }
 
 
