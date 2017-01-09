@@ -1,0 +1,3593 @@
+Generiere Wunschliste mit 1000 Wuenschen...
+Geschenk generiert: #0 | Dicker Pullover [0.34](Eleganz: 15)
+Geschenk generiert: #1 | Spannendes Buch [4.93]
+Geschenk generiert: #2 | Robuster Nussknacker [6.16]
+Geschenk generiert: #3 | Stacheliger Kaktus [12.61]
+Geschenk generiert: #4 | Robuster Nussknacker [20.04]
+Geschenk generiert: #5 | Spannendes Buch [14.02]
+Geschenk generiert: #6 | Spannendes Buch [8.75]
+Geschenk generiert: #7 | Interessantes Brettspiel [7.72](Spannung: 16.8)
+Geschenk generiert: #8 | Zipfelige Muetze [3.13](Eleganz: 16)
+Geschenk generiert: #9 | Interessantes Brettspiel [5.11](Spannung: 12.0)
+Geschenk generiert: #10 | Spannendes Buch [8.25]
+Geschenk generiert: #11 | Schoko-Nikolaus [5.33](Gesund: Nein)
+Geschenk generiert: #12 | Thermo-Ski-Unterwaesche [2.38](Eleganz: 23)
+Geschenk generiert: #13 | Niedliche Puppe [6.04](Spannung: 9.0)
+Geschenk generiert: #14 | Niedliche Puppe [3.59](Spannung: 4.5)
+Geschenk generiert: #15 | Kuscheliger Schal [4.73](Eleganz: 17)
+Geschenk generiert: #16 | Spannendes Buch [19.51]
+Geschenk generiert: #17 | Thermo-Ski-Unterwaesche [1.5](Eleganz: 23)
+Geschenk generiert: #18 | Kuscheliger Schal [0.62](Eleganz: 17)
+Geschenk generiert: #19 | Knusprige Kekse [4.23](Gesund: Ja)
+Geschenk generiert: #20 | Knusprige Kekse [8.22](Gesund: Ja)
+Geschenk generiert: #21 | Interessantes Brettspiel [0.56](Spannung: 0.0)
+Geschenk generiert: #22 | Knusprige Kekse [7.74](Gesund: Nein)
+Geschenk generiert: #23 | Dicker Pullover [2.17](Eleganz: 15)
+Geschenk generiert: #24 | Niedliche Puppe [3.56](Spannung: 4.5)
+Geschenk generiert: #25 | Schoko-Nikolaus [2.8](Gesund: Ja)
+Geschenk generiert: #26 | Aromatischer Tee [10.17](Gesund: Ja)
+Geschenk generiert: #27 | Schnelles Auto [15.51]
+Geschenk generiert: #28 | Rote Unterbuxe [2.4](Eleganz: 14)
+Geschenk generiert: #29 | Schoko-Nikolaus [4.55](Gesund: Ja)
+Geschenk generiert: #30 | Thermo-Ski-Unterwaesche [1.54](Eleganz: 23)
+Geschenk generiert: #31 | Knusprige Kekse [3.14](Gesund: Nein)
+Geschenk generiert: #32 | Thermo-Ski-Unterwaesche [0.16](Eleganz: 23)
+Geschenk generiert: #33 | Knusprige Kekse [11.68](Gesund: Nein)
+Geschenk generiert: #34 | Interessantes Brettspiel [3.56](Spannung: 7.2)
+Geschenk generiert: #35 | Knusprige Kekse [3.9](Gesund: Nein)
+Geschenk generiert: #36 | Niedliche Puppe [1.24](Spannung: 1.5)
+Geschenk generiert: #37 | Interessantes Brettspiel [3.03](Spannung: 7.2)
+Geschenk generiert: #38 | Zipfelige Muetze [4.46](Eleganz: 16)
+Geschenk generiert: #39 | Interessantes Brettspiel [8.01](Spannung: 19.2)
+Geschenk generiert: #40 | Stacheliger Kaktus [4.73]
+Geschenk generiert: #41 | Niedliche Puppe [2.74](Spannung: 3.0)
+Geschenk generiert: #42 | Bequeme Hose [4.14](Eleganz: 12)
+Geschenk generiert: #43 | Dicker Pullover [2.73](Eleganz: 15)
+Geschenk generiert: #44 | Interessantes Brettspiel [4.67](Spannung: 9.6)
+Geschenk generiert: #45 | Spannendes Buch [7.7]
+Geschenk generiert: #46 | Spannendes Buch [19.17]
+Geschenk generiert: #47 | Stacheliger Kaktus [2.53]
+Geschenk generiert: #48 | Aromatischer Tee [1.36](Gesund: Nein)
+Geschenk generiert: #49 | Schoko-Nikolaus [1.03](Gesund: Nein)
+Geschenk generiert: #50 | Schoko-Nikolaus [0.51](Gesund: Ja)
+Geschenk generiert: #51 | Lange Struempfe [1.2](Eleganz: 15)
+Geschenk generiert: #52 | Stacheliger Kaktus [20.86]
+Geschenk generiert: #53 | Niedliche Puppe [7.78](Spannung: 10.5)
+Geschenk generiert: #54 | Interessantes Brettspiel [7.79](Spannung: 16.8)
+Geschenk generiert: #55 | Spannendes Buch [9.54]
+Geschenk generiert: #56 | Kuscheliger Schal [4.55](Eleganz: 17)
+Geschenk generiert: #57 | Spannendes Buch [11.11]
+Geschenk generiert: #58 | Schnelles Auto [6.91]
+Geschenk generiert: #59 | Knusprige Kekse [0.87](Gesund: Ja)
+Geschenk generiert: #60 | Aromatischer Tee [0.44](Gesund: Ja)
+Geschenk generiert: #61 | Knusprige Kekse [12.36](Gesund: Ja)
+Geschenk generiert: #62 | Bequeme Hose [1.65](Eleganz: 12)
+Geschenk generiert: #63 | Kuscheliger Schal [1.91](Eleganz: 17)
+Geschenk generiert: #64 | Niedliche Puppe [5.87](Spannung: 7.5)
+Geschenk generiert: #65 | Schoko-Nikolaus [4.42](Gesund: Ja)
+Geschenk generiert: #66 | Interessantes Brettspiel [3.66](Spannung: 7.2)
+Geschenk generiert: #67 | Interessantes Brettspiel [5.37](Spannung: 12.0)
+Geschenk generiert: #68 | Bequeme Hose [0.9](Eleganz: 12)
+Geschenk generiert: #69 | Bequeme Hose [4.3](Eleganz: 12)
+Geschenk generiert: #70 | Dicker Pullover [0.64](Eleganz: 15)
+Geschenk generiert: #71 | Warme Socken [4.22](Eleganz: 12)
+Geschenk generiert: #72 | Warme Socken [2.49](Eleganz: 12)
+Geschenk generiert: #73 | Dicker Pullover [4.69](Eleganz: 15)
+Geschenk generiert: #74 | Lange Struempfe [0.11](Eleganz: 15)
+Geschenk generiert: #75 | Niedliche Puppe [2.92](Spannung: 3.0)
+Geschenk generiert: #76 | Knusprige Kekse [5.04](Gesund: Nein)
+Geschenk generiert: #77 | Stacheliger Kaktus [16.31]
+Geschenk generiert: #78 | Zipfelige Muetze [1.9](Eleganz: 16)
+Geschenk generiert: #79 | Robuster Nussknacker [2.66]
+Geschenk generiert: #80 | Knusprige Kekse [3.52](Gesund: Nein)
+Geschenk generiert: #81 | Stacheliger Kaktus [7.42]
+Geschenk generiert: #82 | Stacheliger Kaktus [12.71]
+Geschenk generiert: #83 | Knusprige Kekse [8.47](Gesund: Ja)
+Geschenk generiert: #84 | Knusprige Kekse [11.72](Gesund: Nein)
+Geschenk generiert: #85 | Zipfelige Muetze [1.12](Eleganz: 16)
+Geschenk generiert: #86 | Robuster Nussknacker [15.41]
+Geschenk generiert: #87 | Stacheliger Kaktus [2.53]
+Geschenk generiert: #88 | Aromatischer Tee [13.92](Gesund: Nein)
+Geschenk generiert: #89 | Schnelles Auto [12.72]
+Geschenk generiert: #90 | Robuster Nussknacker [19.25]
+Geschenk generiert: #91 | Aromatischer Tee [12.7](Gesund: Ja)
+Geschenk generiert: #92 | Aromatischer Tee [11.81](Gesund: Nein)
+Geschenk generiert: #93 | Thermo-Ski-Unterwaesche [4.9](Eleganz: 23)
+Geschenk generiert: #94 | Schoko-Nikolaus [10.94](Gesund: Ja)
+Geschenk generiert: #95 | Niedliche Puppe [9.4](Spannung: 13.5)
+Geschenk generiert: #96 | Robuster Nussknacker [6.91]
+Geschenk generiert: #97 | Interessantes Brettspiel [9.36](Spannung: 21.6)
+Geschenk generiert: #98 | Stacheliger Kaktus [16.27]
+Geschenk generiert: #99 | Schoko-Nikolaus [4.21](Gesund: Ja)
+Geschenk generiert: #100 | Warme Socken [2.73](Eleganz: 12)
+Geschenk generiert: #101 | Aromatischer Tee [11.46](Gesund: Nein)
+Geschenk generiert: #102 | Spannendes Buch [9.9]
+Geschenk generiert: #103 | Schnelles Auto [21.61]
+Geschenk generiert: #104 | Niedliche Puppe [8.55](Spannung: 12.0)
+Geschenk generiert: #105 | Knusprige Kekse [1.7](Gesund: Nein)
+Geschenk generiert: #106 | Knusprige Kekse [8.03](Gesund: Ja)
+Geschenk generiert: #107 | Dicker Pullover [3.6](Eleganz: 15)
+Geschenk generiert: #108 | Aromatischer Tee [6.06](Gesund: Ja)
+Geschenk generiert: #109 | Aromatischer Tee [5.38](Gesund: Nein)
+Geschenk generiert: #110 | Schoko-Nikolaus [3.54](Gesund: Nein)
+Geschenk generiert: #111 | Aromatischer Tee [11.58](Gesund: Nein)
+Geschenk generiert: #112 | Interessantes Brettspiel [8.12](Spannung: 19.2)
+Geschenk generiert: #113 | Stacheliger Kaktus [4.71]
+Geschenk generiert: #114 | Niedliche Puppe [5.53](Spannung: 7.5)
+Geschenk generiert: #115 | Knusprige Kekse [9.62](Gesund: Nein)
+Geschenk generiert: #116 | Spannendes Buch [13.34]
+Geschenk generiert: #117 | Niedliche Puppe [7.49](Spannung: 10.5)
+Geschenk generiert: #118 | Schoko-Nikolaus [11.1](Gesund: Nein)
+Geschenk generiert: #119 | Schoko-Nikolaus [8.32](Gesund: Ja)
+Geschenk generiert: #120 | Thermo-Ski-Unterwaesche [1.53](Eleganz: 23)
+Geschenk generiert: #121 | Spannendes Buch [2.29]
+Geschenk generiert: #122 | Interessantes Brettspiel [5.58](Spannung: 12.0)
+Geschenk generiert: #123 | Schoko-Nikolaus [8.78](Gesund: Ja)
+Geschenk generiert: #124 | Knusprige Kekse [0.69](Gesund: Ja)
+Geschenk generiert: #125 | Niedliche Puppe [6.31](Spannung: 9.0)
+Geschenk generiert: #126 | Rote Unterbuxe [0.48](Eleganz: 14)
+Geschenk generiert: #127 | Schoko-Nikolaus [11.1](Gesund: Nein)
+Geschenk generiert: #128 | Knusprige Kekse [14.21](Gesund: Ja)
+Geschenk generiert: #129 | Interessantes Brettspiel [0.02](Spannung: 0.0)
+Geschenk generiert: #130 | Interessantes Brettspiel [9.45](Spannung: 21.6)
+Geschenk generiert: #131 | Bequeme Hose [2.74](Eleganz: 12)
+Geschenk generiert: #132 | Bequeme Hose [4.41](Eleganz: 12)
+Geschenk generiert: #133 | Spannendes Buch [8.71]
+Geschenk generiert: #134 | Niedliche Puppe [1.52](Spannung: 1.5)
+Geschenk generiert: #135 | Schnelles Auto [10.03]
+Geschenk generiert: #136 | Stacheliger Kaktus [8.57]
+Geschenk generiert: #137 | Niedliche Puppe [7.82](Spannung: 10.5)
+Geschenk generiert: #138 | Robuster Nussknacker [17.34]
+Geschenk generiert: #139 | Warme Socken [4.89](Eleganz: 12)
+Geschenk generiert: #140 | Schoko-Nikolaus [12.87](Gesund: Ja)
+Geschenk generiert: #141 | Schnelles Auto [4.08]
+Geschenk generiert: #142 | Stacheliger Kaktus [4.0]
+Geschenk generiert: #143 | Warme Socken [1.48](Eleganz: 12)
+Geschenk generiert: #144 | Spannendes Buch [7.83]
+Geschenk generiert: #145 | Interessantes Brettspiel [3.85](Spannung: 7.2)
+Geschenk generiert: #146 | Rote Unterbuxe [3.82](Eleganz: 14)
+Geschenk generiert: #147 | Spannendes Buch [5.89]
+Geschenk generiert: #148 | Knusprige Kekse [11.83](Gesund: Nein)
+Geschenk generiert: #149 | Warme Socken [0.26](Eleganz: 12)
+Geschenk generiert: #150 | Schnelles Auto [13.53]
+Geschenk generiert: #151 | Niedliche Puppe [0.48](Spannung: 0.0)
+Geschenk generiert: #152 | Lange Struempfe [2.91](Eleganz: 15)
+Geschenk generiert: #153 | Knusprige Kekse [2.3](Gesund: Ja)
+Geschenk generiert: #154 | Interessantes Brettspiel [2.51](Spannung: 4.8)
+Geschenk generiert: #155 | Niedliche Puppe [2.02](Spannung: 3.0)
+Geschenk generiert: #156 | Schnelles Auto [1.84]
+Geschenk generiert: #157 | Rote Unterbuxe [4.62](Eleganz: 14)
+Geschenk generiert: #158 | Stacheliger Kaktus [22.1]
+Geschenk generiert: #159 | Niedliche Puppe [2.99](Spannung: 3.0)
+Geschenk generiert: #160 | Niedliche Puppe [7.49](Spannung: 10.5)
+Geschenk generiert: #161 | Dicker Pullover [3.8](Eleganz: 15)
+Geschenk generiert: #162 | Spannendes Buch [16.23]
+Geschenk generiert: #163 | Aromatischer Tee [4.01](Gesund: Ja)
+Geschenk generiert: #164 | Stacheliger Kaktus [23.5]
+Geschenk generiert: #165 | Zipfelige Muetze [4.46](Eleganz: 16)
+Geschenk generiert: #166 | Rote Unterbuxe [0.79](Eleganz: 14)
+Geschenk generiert: #167 | Rote Unterbuxe [0.64](Eleganz: 14)
+Geschenk generiert: #168 | Aromatischer Tee [14.36](Gesund: Ja)
+Geschenk generiert: #169 | Dicker Pullover [0.08](Eleganz: 15)
+Geschenk generiert: #170 | Dicker Pullover [0.05](Eleganz: 15)
+Geschenk generiert: #171 | Robuster Nussknacker [0.86]
+Geschenk generiert: #172 | Zipfelige Muetze [2.49](Eleganz: 16)
+Geschenk generiert: #173 | Thermo-Ski-Unterwaesche [2.95](Eleganz: 23)
+Geschenk generiert: #174 | Schnelles Auto [15.62]
+Geschenk generiert: #175 | Kuscheliger Schal [3.68](Eleganz: 17)
+Geschenk generiert: #176 | Aromatischer Tee [1.03](Gesund: Nein)
+Geschenk generiert: #177 | Knusprige Kekse [9.93](Gesund: Nein)
+Geschenk generiert: #178 | Bequeme Hose [3.21](Eleganz: 12)
+Geschenk generiert: #179 | Spannendes Buch [9.87]
+Geschenk generiert: #180 | Schnelles Auto [8.75]
+Geschenk generiert: #181 | Spannendes Buch [14.58]
+Geschenk generiert: #182 | Robuster Nussknacker [9.17]
+Geschenk generiert: #183 | Stacheliger Kaktus [5.41]
+Geschenk generiert: #184 | Interessantes Brettspiel [1.41](Spannung: 2.4)
+Geschenk generiert: #185 | Interessantes Brettspiel [8.01](Spannung: 19.2)
+Geschenk generiert: #186 | Interessantes Brettspiel [1.3](Spannung: 2.4)
+Geschenk generiert: #187 | Niedliche Puppe [6.12](Spannung: 9.0)
+Geschenk generiert: #188 | Interessantes Brettspiel [2.28](Spannung: 4.8)
+Geschenk generiert: #189 | Interessantes Brettspiel [8.56](Spannung: 19.2)
+Geschenk generiert: #190 | Interessantes Brettspiel [5.86](Spannung: 12.0)
+Geschenk generiert: #191 | Stacheliger Kaktus [12.73]
+Geschenk generiert: #192 | Schoko-Nikolaus [6.03](Gesund: Ja)
+Geschenk generiert: #193 | Robuster Nussknacker [3.14]
+Geschenk generiert: #194 | Zipfelige Muetze [4.46](Eleganz: 16)
+Geschenk generiert: #195 | Niedliche Puppe [9.06](Spannung: 13.5)
+Geschenk generiert: #196 | Knusprige Kekse [14.72](Gesund: Ja)
+Geschenk generiert: #197 | Thermo-Ski-Unterwaesche [3.34](Eleganz: 23)
+Geschenk generiert: #198 | Niedliche Puppe [8.73](Spannung: 12.0)
+Geschenk generiert: #199 | Schoko-Nikolaus [11.73](Gesund: Nein)
+Geschenk generiert: #200 | Schoko-Nikolaus [12.47](Gesund: Ja)
+Geschenk generiert: #201 | Rote Unterbuxe [4.86](Eleganz: 14)
+Geschenk generiert: #202 | Interessantes Brettspiel [7.87](Spannung: 16.8)
+Geschenk generiert: #203 | Dicker Pullover [0.12](Eleganz: 15)
+Geschenk generiert: #204 | Robuster Nussknacker [20.15]
+Geschenk generiert: #205 | Knusprige Kekse [4.1](Gesund: Ja)
+Geschenk generiert: #206 | Niedliche Puppe [0.46](Spannung: 0.0)
+Geschenk generiert: #207 | Interessantes Brettspiel [4.7](Spannung: 9.6)
+Geschenk generiert: #208 | Lange Struempfe [4.85](Eleganz: 15)
+Geschenk generiert: #209 | Robuster Nussknacker [1.51]
+Geschenk generiert: #210 | Dicker Pullover [4.06](Eleganz: 15)
+Geschenk generiert: #211 | Schnelles Auto [14.89]
+Geschenk generiert: #212 | Niedliche Puppe [2.39](Spannung: 3.0)
+Geschenk generiert: #213 | Knusprige Kekse [7.57](Gesund: Nein)
+Geschenk generiert: #214 | Robuster Nussknacker [3.8]
+Geschenk generiert: #215 | Robuster Nussknacker [11.92]
+Geschenk generiert: #216 | Thermo-Ski-Unterwaesche [4.89](Eleganz: 23)
+Geschenk generiert: #217 | Interessantes Brettspiel [3.96](Spannung: 7.2)
+Geschenk generiert: #218 | Knusprige Kekse [5.11](Gesund: Nein)
+Geschenk generiert: #219 | Stacheliger Kaktus [15.24]
+Geschenk generiert: #220 | Niedliche Puppe [0.3](Spannung: 0.0)
+Geschenk generiert: #221 | Rote Unterbuxe [2.39](Eleganz: 14)
+Geschenk generiert: #222 | Spannendes Buch [5.66]
+Geschenk generiert: #223 | Spannendes Buch [2.46]
+Geschenk generiert: #224 | Rote Unterbuxe [2.74](Eleganz: 14)
+Geschenk generiert: #225 | Kuscheliger Schal [0.63](Eleganz: 17)
+Geschenk generiert: #226 | Kuscheliger Schal [2.65](Eleganz: 17)
+Geschenk generiert: #227 | Bequeme Hose [2.04](Eleganz: 12)
+Geschenk generiert: #228 | Spannendes Buch [23.63]
+Geschenk generiert: #229 | Kuscheliger Schal [0.63](Eleganz: 17)
+Geschenk generiert: #230 | Rote Unterbuxe [3.03](Eleganz: 14)
+Geschenk generiert: #231 | Interessantes Brettspiel [0.12](Spannung: 0.0)
+Geschenk generiert: #232 | Warme Socken [0.55](Eleganz: 12)
+Geschenk generiert: #233 | Interessantes Brettspiel [0.86](Spannung: 0.0)
+Geschenk generiert: #234 | Aromatischer Tee [4.97](Gesund: Ja)
+Geschenk generiert: #235 | Stacheliger Kaktus [17.7]
+Geschenk generiert: #236 | Aromatischer Tee [0.37](Gesund: Ja)
+Geschenk generiert: #237 | Niedliche Puppe [6.09](Spannung: 9.0)
+Geschenk generiert: #238 | Bequeme Hose [3.89](Eleganz: 12)
+Geschenk generiert: #239 | Interessantes Brettspiel [9.26](Spannung: 21.6)
+Geschenk generiert: #240 | Bequeme Hose [2.64](Eleganz: 12)
+Geschenk generiert: #241 | Knusprige Kekse [8.15](Gesund: Ja)
+Geschenk generiert: #242 | Warme Socken [3.62](Eleganz: 12)
+Geschenk generiert: #243 | Rote Unterbuxe [0.67](Eleganz: 14)
+Geschenk generiert: #244 | Thermo-Ski-Unterwaesche [2.25](Eleganz: 23)
+Geschenk generiert: #245 | Knusprige Kekse [2.67](Gesund: Ja)
+Geschenk generiert: #246 | Zipfelige Muetze [0.92](Eleganz: 16)
+Geschenk generiert: #247 | Niedliche Puppe [5.03](Spannung: 7.5)
+Geschenk generiert: #248 | Lange Struempfe [4.48](Eleganz: 15)
+Geschenk generiert: #249 | Knusprige Kekse [8.72](Gesund: Ja)
+Geschenk generiert: #250 | Interessantes Brettspiel [0.93](Spannung: 0.0)
+Geschenk generiert: #251 | Knusprige Kekse [1.36](Gesund: Nein)
+Geschenk generiert: #252 | Niedliche Puppe [3.99](Spannung: 4.5)
+Geschenk generiert: #253 | Zipfelige Muetze [0.93](Eleganz: 16)
+Geschenk generiert: #254 | Thermo-Ski-Unterwaesche [0.19](Eleganz: 23)
+Geschenk generiert: #255 | Knusprige Kekse [1.96](Gesund: Nein)
+Geschenk generiert: #256 | Rote Unterbuxe [4.51](Eleganz: 14)
+Geschenk generiert: #257 | Niedliche Puppe [7.84](Spannung: 10.5)
+Geschenk generiert: #258 | Schoko-Nikolaus [5.37](Gesund: Nein)
+Geschenk generiert: #259 | Spannendes Buch [14.43]
+Geschenk generiert: #260 | Warme Socken [1.32](Eleganz: 12)
+Geschenk generiert: #261 | Schnelles Auto [11.9]
+Geschenk generiert: #262 | Spannendes Buch [9.68]
+Geschenk generiert: #263 | Spannendes Buch [13.38]
+Geschenk generiert: #264 | Knusprige Kekse [14.71](Gesund: Ja)
+Geschenk generiert: #265 | Stacheliger Kaktus [9.01]
+Geschenk generiert: #266 | Lange Struempfe [3.58](Eleganz: 15)
+Geschenk generiert: #267 | Stacheliger Kaktus [18.09]
+Geschenk generiert: #268 | Spannendes Buch [9.03]
+Geschenk generiert: #269 | Aromatischer Tee [8.25](Gesund: Ja)
+Geschenk generiert: #270 | Dicker Pullover [1.76](Eleganz: 15)
+Geschenk generiert: #271 | Schnelles Auto [22.48]
+Geschenk generiert: #272 | Robuster Nussknacker [0.14]
+Geschenk generiert: #273 | Interessantes Brettspiel [8.6](Spannung: 19.2)
+Geschenk generiert: #274 | Robuster Nussknacker [17.05]
+Geschenk generiert: #275 | Interessantes Brettspiel [4.15](Spannung: 9.6)
+Geschenk generiert: #276 | Schnelles Auto [6.95]
+Geschenk generiert: #277 | Knusprige Kekse [8.44](Gesund: Ja)
+Geschenk generiert: #278 | Schoko-Nikolaus [9.95](Gesund: Nein)
+Geschenk generiert: #279 | Schnelles Auto [23.15]
+Geschenk generiert: #280 | Zipfelige Muetze [4.25](Eleganz: 16)
+Geschenk generiert: #281 | Stacheliger Kaktus [20.01]
+Geschenk generiert: #282 | Knusprige Kekse [9.0](Gesund: Nein)
+Geschenk generiert: #283 | Aromatischer Tee [3.01](Gesund: Nein)
+Geschenk generiert: #284 | Schoko-Nikolaus [7.26](Gesund: Nein)
+Geschenk generiert: #285 | Spannendes Buch [21.86]
+Geschenk generiert: #286 | Interessantes Brettspiel [6.65](Spannung: 14.4)
+Geschenk generiert: #287 | Warme Socken [2.85](Eleganz: 12)
+Geschenk generiert: #288 | Niedliche Puppe [7.65](Spannung: 10.5)
+Geschenk generiert: #289 | Dicker Pullover [3.41](Eleganz: 15)
+Geschenk generiert: #290 | Schnelles Auto [4.45]
+Geschenk generiert: #291 | Aromatischer Tee [0.8](Gesund: Ja)
+Geschenk generiert: #292 | Schnelles Auto [16.01]
+Geschenk generiert: #293 | Rote Unterbuxe [4.25](Eleganz: 14)
+Geschenk generiert: #294 | Niedliche Puppe [9.34](Spannung: 13.5)
+Geschenk generiert: #295 | Lange Struempfe [4.8](Eleganz: 15)
+Geschenk generiert: #296 | Niedliche Puppe [3.73](Spannung: 4.5)
+Geschenk generiert: #297 | Interessantes Brettspiel [4.9](Spannung: 9.6)
+Geschenk generiert: #298 | Knusprige Kekse [3.74](Gesund: Nein)
+Geschenk generiert: #299 | Schoko-Nikolaus [13.45](Gesund: Nein)
+Geschenk generiert: #300 | Zipfelige Muetze [2.14](Eleganz: 16)
+Geschenk generiert: #301 | Interessantes Brettspiel [5.09](Spannung: 12.0)
+Geschenk generiert: #302 | Spannendes Buch [12.25]
+Geschenk generiert: #303 | Interessantes Brettspiel [7.88](Spannung: 16.8)
+Geschenk generiert: #304 | Niedliche Puppe [7.56](Spannung: 10.5)
+Geschenk generiert: #305 | Kuscheliger Schal [3.68](Eleganz: 17)
+Geschenk generiert: #306 | Spannendes Buch [23.37]
+Geschenk generiert: #307 | Schnelles Auto [13.56]
+Geschenk generiert: #308 | Schoko-Nikolaus [3.75](Gesund: Nein)
+Geschenk generiert: #309 | Knusprige Kekse [2.29](Gesund: Ja)
+Geschenk generiert: #310 | Stacheliger Kaktus [6.27]
+Geschenk generiert: #311 | Schoko-Nikolaus [13.33](Gesund: Nein)
+Geschenk generiert: #312 | Thermo-Ski-Unterwaesche [1.57](Eleganz: 23)
+Geschenk generiert: #313 | Zipfelige Muetze [0.23](Eleganz: 16)
+Geschenk generiert: #314 | Niedliche Puppe [9.97](Spannung: 13.5)
+Geschenk generiert: #315 | Thermo-Ski-Unterwaesche [2.49](Eleganz: 23)
+Geschenk generiert: #316 | Rote Unterbuxe [2.91](Eleganz: 14)
+Geschenk generiert: #317 | Aromatischer Tee [9.08](Gesund: Nein)
+Geschenk generiert: #318 | Interessantes Brettspiel [6.4](Spannung: 14.4)
+Geschenk generiert: #319 | Interessantes Brettspiel [7.95](Spannung: 16.8)
+Geschenk generiert: #320 | Robuster Nussknacker [19.09]
+Geschenk generiert: #321 | Spannendes Buch [19.86]
+Geschenk generiert: #322 | Kuscheliger Schal [4.57](Eleganz: 17)
+Geschenk generiert: #323 | Stacheliger Kaktus [4.55]
+Geschenk generiert: #324 | Stacheliger Kaktus [21.48]
+Geschenk generiert: #325 | Aromatischer Tee [9.74](Gesund: Nein)
+Geschenk generiert: #326 | Interessantes Brettspiel [8.48](Spannung: 19.2)
+Geschenk generiert: #327 | Zipfelige Muetze [1.32](Eleganz: 16)
+Geschenk generiert: #328 | Schnelles Auto [16.27]
+Geschenk generiert: #329 | Schoko-Nikolaus [6.63](Gesund: Ja)
+Geschenk generiert: #330 | Niedliche Puppe [8.14](Spannung: 12.0)
+Geschenk generiert: #331 | Schoko-Nikolaus [14.61](Gesund: Ja)
+Geschenk generiert: #332 | Interessantes Brettspiel [6.72](Spannung: 14.4)
+Geschenk generiert: #333 | Lange Struempfe [2.85](Eleganz: 15)
+Geschenk generiert: #334 | Dicker Pullover [2.41](Eleganz: 15)
+Geschenk generiert: #335 | Schoko-Nikolaus [8.86](Gesund: Ja)
+Geschenk generiert: #336 | Kuscheliger Schal [1.57](Eleganz: 17)
+Geschenk generiert: #337 | Aromatischer Tee [2.69](Gesund: Ja)
+Geschenk generiert: #338 | Interessantes Brettspiel [0.92](Spannung: 0.0)
+Geschenk generiert: #339 | Knusprige Kekse [2.28](Gesund: Ja)
+Geschenk generiert: #340 | Spannendes Buch [9.15]
+Geschenk generiert: #341 | Interessantes Brettspiel [3.81](Spannung: 7.2)
+Geschenk generiert: #342 | Niedliche Puppe [3.29](Spannung: 4.5)
+Geschenk generiert: #343 | Zipfelige Muetze [0.35](Eleganz: 16)
+Geschenk generiert: #344 | Knusprige Kekse [7.88](Gesund: Nein)
+Geschenk generiert: #345 | Niedliche Puppe [1.13](Spannung: 1.5)
+Geschenk generiert: #346 | Lange Struempfe [2.83](Eleganz: 15)
+Geschenk generiert: #347 | Thermo-Ski-Unterwaesche [1.0](Eleganz: 23)
+Geschenk generiert: #348 | Niedliche Puppe [1.1](Spannung: 1.5)
+Geschenk generiert: #349 | Schnelles Auto [11.49]
+Geschenk generiert: #350 | Interessantes Brettspiel [8.64](Spannung: 19.2)
+Geschenk generiert: #351 | Stacheliger Kaktus [15.4]
+Geschenk generiert: #352 | Lange Struempfe [4.91](Eleganz: 15)
+Geschenk generiert: #353 | Zipfelige Muetze [3.42](Eleganz: 16)
+Geschenk generiert: #354 | Aromatischer Tee [10.98](Gesund: Ja)
+Geschenk generiert: #355 | Interessantes Brettspiel [4.11](Spannung: 9.6)
+Geschenk generiert: #356 | Zipfelige Muetze [0.68](Eleganz: 16)
+Geschenk generiert: #357 | Robuster Nussknacker [23.85]
+Geschenk generiert: #358 | Spannendes Buch [3.57]
+Geschenk generiert: #359 | Lange Struempfe [3.84](Eleganz: 15)
+Geschenk generiert: #360 | Lange Struempfe [2.73](Eleganz: 15)
+Geschenk generiert: #361 | Spannendes Buch [12.02]
+Geschenk generiert: #362 | Rote Unterbuxe [3.81](Eleganz: 14)
+Geschenk generiert: #363 | Schnelles Auto [11.77]
+Geschenk generiert: #364 | Stacheliger Kaktus [3.27]
+Geschenk generiert: #365 | Niedliche Puppe [7.62](Spannung: 10.5)
+Geschenk generiert: #366 | Niedliche Puppe [4.84](Spannung: 6.0)
+Geschenk generiert: #367 | Aromatischer Tee [6.14](Gesund: Ja)
+Geschenk generiert: #368 | Interessantes Brettspiel [4.39](Spannung: 9.6)
+Geschenk generiert: #369 | Knusprige Kekse [8.68](Gesund: Ja)
+Geschenk generiert: #370 | Knusprige Kekse [9.46](Gesund: Nein)
+Geschenk generiert: #371 | Lange Struempfe [3.83](Eleganz: 15)
+Geschenk generiert: #372 | Robuster Nussknacker [20.54]
+Geschenk generiert: #373 | Stacheliger Kaktus [6.05]
+Geschenk generiert: #374 | Knusprige Kekse [10.09](Gesund: Ja)
+Geschenk generiert: #375 | Thermo-Ski-Unterwaesche [4.99](Eleganz: 23)
+Geschenk generiert: #376 | Interessantes Brettspiel [2.5](Spannung: 4.8)
+Geschenk generiert: #377 | Niedliche Puppe [9.64](Spannung: 13.5)
+Geschenk generiert: #378 | Schnelles Auto [20.3]
+Geschenk generiert: #379 | Kuscheliger Schal [2.21](Eleganz: 17)
+Geschenk generiert: #380 | Spannendes Buch [5.39]
+Geschenk generiert: #381 | Aromatischer Tee [5.6](Gesund: Nein)
+Geschenk generiert: #382 | Schoko-Nikolaus [0.61](Gesund: Ja)
+Geschenk generiert: #383 | Spannendes Buch [0.9]
+Geschenk generiert: #384 | Niedliche Puppe [0.31](Spannung: 0.0)
+Geschenk generiert: #385 | Dicker Pullover [3.87](Eleganz: 15)
+Geschenk generiert: #386 | Robuster Nussknacker [0.95]
+Geschenk generiert: #387 | Rote Unterbuxe [0.29](Eleganz: 14)
+Geschenk generiert: #388 | Stacheliger Kaktus [6.89]
+Geschenk generiert: #389 | Schnelles Auto [20.16]
+Geschenk generiert: #390 | Warme Socken [0.91](Eleganz: 12)
+Geschenk generiert: #391 | Aromatischer Tee [11.82](Gesund: Nein)
+Geschenk generiert: #392 | Knusprige Kekse [14.45](Gesund: Ja)
+Geschenk generiert: #393 | Schoko-Nikolaus [1.12](Gesund: Nein)
+Geschenk generiert: #394 | Knusprige Kekse [9.92](Gesund: Nein)
+Geschenk generiert: #395 | Bequeme Hose [4.78](Eleganz: 12)
+Geschenk generiert: #396 | Aromatischer Tee [12.86](Gesund: Ja)
+Geschenk generiert: #397 | Niedliche Puppe [1.78](Spannung: 1.5)
+Geschenk generiert: #398 | Interessantes Brettspiel [6.05](Spannung: 14.4)
+Geschenk generiert: #399 | Niedliche Puppe [5.36](Spannung: 7.5)
+Geschenk generiert: #400 | Stacheliger Kaktus [17.07]
+Geschenk generiert: #401 | Interessantes Brettspiel [9.64](Spannung: 21.6)
+Geschenk generiert: #402 | Robuster Nussknacker [13.82]
+Geschenk generiert: #403 | Aromatischer Tee [0.06](Gesund: Ja)
+Geschenk generiert: #404 | Knusprige Kekse [8.33](Gesund: Ja)
+Geschenk generiert: #405 | Bequeme Hose [2.84](Eleganz: 12)
+Geschenk generiert: #406 | Robuster Nussknacker [12.67]
+Geschenk generiert: #407 | Interessantes Brettspiel [3.59](Spannung: 7.2)
+Geschenk generiert: #408 | Robuster Nussknacker [5.98]
+Geschenk generiert: #409 | Niedliche Puppe [2.24](Spannung: 3.0)
+Geschenk generiert: #410 | Rote Unterbuxe [3.51](Eleganz: 14)
+Geschenk generiert: #411 | Spannendes Buch [5.01]
+Geschenk generiert: #412 | Niedliche Puppe [9.22](Spannung: 13.5)
+Geschenk generiert: #413 | Interessantes Brettspiel [7.7](Spannung: 16.8)
+Geschenk generiert: #414 | Robuster Nussknacker [6.03]
+Geschenk generiert: #415 | Stacheliger Kaktus [19.15]
+Geschenk generiert: #416 | Interessantes Brettspiel [1.6](Spannung: 2.4)
+Geschenk generiert: #417 | Robuster Nussknacker [16.75]
+Geschenk generiert: #418 | Schoko-Nikolaus [9.13](Gesund: Nein)
+Geschenk generiert: #419 | Niedliche Puppe [3.08](Spannung: 4.5)
+Geschenk generiert: #420 | Niedliche Puppe [9.8](Spannung: 13.5)
+Geschenk generiert: #421 | Niedliche Puppe [3.57](Spannung: 4.5)
+Geschenk generiert: #422 | Stacheliger Kaktus [17.08]
+Geschenk generiert: #423 | Niedliche Puppe [4.76](Spannung: 6.0)
+Geschenk generiert: #424 | Spannendes Buch [20.68]
+Geschenk generiert: #425 | Aromatischer Tee [7.33](Gesund: Nein)
+Geschenk generiert: #426 | Schoko-Nikolaus [11.82](Gesund: Nein)
+Geschenk generiert: #427 | Zipfelige Muetze [3.83](Eleganz: 16)
+Geschenk generiert: #428 | Schoko-Nikolaus [8.41](Gesund: Ja)
+Geschenk generiert: #429 | Kuscheliger Schal [4.96](Eleganz: 17)
+Geschenk generiert: #430 | Aromatischer Tee [11.02](Gesund: Nein)
+Geschenk generiert: #431 | Schoko-Nikolaus [9.16](Gesund: Nein)
+Geschenk generiert: #432 | Spannendes Buch [12.72]
+Geschenk generiert: #433 | Aromatischer Tee [1.11](Gesund: Nein)
+Geschenk generiert: #434 | Warme Socken [3.4](Eleganz: 12)
+Geschenk generiert: #435 | Aromatischer Tee [10.85](Gesund: Ja)
+Geschenk generiert: #436 | Schnelles Auto [11.22]
+Geschenk generiert: #437 | Niedliche Puppe [8.5](Spannung: 12.0)
+Geschenk generiert: #438 | Dicker Pullover [0.31](Eleganz: 15)
+Geschenk generiert: #439 | Interessantes Brettspiel [3.33](Spannung: 7.2)
+Geschenk generiert: #440 | Knusprige Kekse [1.48](Gesund: Nein)
+Geschenk generiert: #441 | Zipfelige Muetze [2.89](Eleganz: 16)
+Geschenk generiert: #442 | Lange Struempfe [4.77](Eleganz: 15)
+Geschenk generiert: #443 | Kuscheliger Schal [4.19](Eleganz: 17)
+Geschenk generiert: #444 | Stacheliger Kaktus [10.52]
+Geschenk generiert: #445 | Schnelles Auto [0.45]
+Geschenk generiert: #446 | Stacheliger Kaktus [0.22]
+Geschenk generiert: #447 | Schoko-Nikolaus [3.41](Gesund: Nein)
+Geschenk generiert: #448 | Rote Unterbuxe [0.19](Eleganz: 14)
+Geschenk generiert: #449 | Schoko-Nikolaus [14.02](Gesund: Ja)
+Geschenk generiert: #450 | Knusprige Kekse [0.47](Gesund: Ja)
+Geschenk generiert: #451 | Interessantes Brettspiel [3.89](Spannung: 7.2)
+Geschenk generiert: #452 | Schoko-Nikolaus [13.43](Gesund: Nein)
+Geschenk generiert: #453 | Knusprige Kekse [14.75](Gesund: Ja)
+Geschenk generiert: #454 | Niedliche Puppe [5.73](Spannung: 7.5)
+Geschenk generiert: #455 | Robuster Nussknacker [22.6]
+Geschenk generiert: #456 | Schnelles Auto [9.25]
+Geschenk generiert: #457 | Knusprige Kekse [14.65](Gesund: Ja)
+Geschenk generiert: #458 | Niedliche Puppe [7.68](Spannung: 10.5)
+Geschenk generiert: #459 | Rote Unterbuxe [2.57](Eleganz: 14)
+Geschenk generiert: #460 | Aromatischer Tee [6.96](Gesund: Ja)
+Geschenk generiert: #461 | Stacheliger Kaktus [10.01]
+Geschenk generiert: #462 | Niedliche Puppe [6.34](Spannung: 9.0)
+Geschenk generiert: #463 | Kuscheliger Schal [3.87](Eleganz: 17)
+Geschenk generiert: #464 | Niedliche Puppe [8.48](Spannung: 12.0)
+Geschenk generiert: #465 | Niedliche Puppe [1.19](Spannung: 1.5)
+Geschenk generiert: #466 | Spannendes Buch [9.61]
+Geschenk generiert: #467 | Niedliche Puppe [8.03](Spannung: 12.0)
+Geschenk generiert: #468 | Niedliche Puppe [9.55](Spannung: 13.5)
+Geschenk generiert: #469 | Niedliche Puppe [6.79](Spannung: 9.0)
+Geschenk generiert: #470 | Schnelles Auto [11.6]
+Geschenk generiert: #471 | Rote Unterbuxe [0.63](Eleganz: 14)
+Geschenk generiert: #472 | Spannendes Buch [1.26]
+Geschenk generiert: #473 | Niedliche Puppe [0.66](Spannung: 0.0)
+Geschenk generiert: #474 | Schoko-Nikolaus [3.09](Gesund: Nein)
+Geschenk generiert: #475 | Warme Socken [0.92](Eleganz: 12)
+Geschenk generiert: #476 | Stacheliger Kaktus [16.52]
+Geschenk generiert: #477 | Rote Unterbuxe [4.39](Eleganz: 14)
+Geschenk generiert: #478 | Aromatischer Tee [5.13](Gesund: Nein)
+Geschenk generiert: #479 | Interessantes Brettspiel [6.87](Spannung: 14.4)
+Geschenk generiert: #480 | Niedliche Puppe [7.43](Spannung: 10.5)
+Geschenk generiert: #481 | Lange Struempfe [3.78](Eleganz: 15)
+Geschenk generiert: #482 | Niedliche Puppe [6.69](Spannung: 9.0)
+Geschenk generiert: #483 | Stacheliger Kaktus [14.47]
+Geschenk generiert: #484 | Spannendes Buch [12.64]
+Geschenk generiert: #485 | Niedliche Puppe [0.59](Spannung: 0.0)
+Geschenk generiert: #486 | Aromatischer Tee [13.71](Gesund: Nein)
+Geschenk generiert: #487 | Interessantes Brettspiel [1.88](Spannung: 2.4)
+Geschenk generiert: #488 | Rote Unterbuxe [3.74](Eleganz: 14)
+Geschenk generiert: #489 | Dicker Pullover [1.43](Eleganz: 15)
+Geschenk generiert: #490 | Schoko-Nikolaus [8.97](Gesund: Ja)
+Geschenk generiert: #491 | Robuster Nussknacker [5.32]
+Geschenk generiert: #492 | Schnelles Auto [4.19]
+Geschenk generiert: #493 | Stacheliger Kaktus [0.62]
+Geschenk generiert: #494 | Rote Unterbuxe [1.08](Eleganz: 14)
+Geschenk generiert: #495 | Kuscheliger Schal [2.67](Eleganz: 17)
+Geschenk generiert: #496 | Knusprige Kekse [1.88](Gesund: Nein)
+Geschenk generiert: #497 | Robuster Nussknacker [9.41]
+Geschenk generiert: #498 | Thermo-Ski-Unterwaesche [3.0](Eleganz: 23)
+Geschenk generiert: #499 | Interessantes Brettspiel [5.48](Spannung: 12.0)
+Geschenk generiert: #500 | Schoko-Nikolaus [2.1](Gesund: Ja)
+Geschenk generiert: #501 | Robuster Nussknacker [14.59]
+Geschenk generiert: #502 | Schoko-Nikolaus [14.52](Gesund: Ja)
+Geschenk generiert: #503 | Dicker Pullover [3.07](Eleganz: 15)
+Geschenk generiert: #504 | Interessantes Brettspiel [4.42](Spannung: 9.6)
+Geschenk generiert: #505 | Interessantes Brettspiel [5.37](Spannung: 12.0)
+Geschenk generiert: #506 | Thermo-Ski-Unterwaesche [4.58](Eleganz: 23)
+Geschenk generiert: #507 | Knusprige Kekse [7.99](Gesund: Nein)
+Geschenk generiert: #508 | Spannendes Buch [8.41]
+Geschenk generiert: #509 | Knusprige Kekse [12.36](Gesund: Ja)
+Geschenk generiert: #510 | Stacheliger Kaktus [14.62]
+Geschenk generiert: #511 | Bequeme Hose [0.4](Eleganz: 12)
+Geschenk generiert: #512 | Niedliche Puppe [7.97](Spannung: 10.5)
+Geschenk generiert: #513 | Spannendes Buch [0.29]
+Geschenk generiert: #514 | Stacheliger Kaktus [1.64]
+Geschenk generiert: #515 | Schoko-Nikolaus [7.19](Gesund: Nein)
+Geschenk generiert: #516 | Schoko-Nikolaus [0.46](Gesund: Ja)
+Geschenk generiert: #517 | Dicker Pullover [2.39](Eleganz: 15)
+Geschenk generiert: #518 | Spannendes Buch [5.04]
+Geschenk generiert: #519 | Warme Socken [4.34](Eleganz: 12)
+Geschenk generiert: #520 | Interessantes Brettspiel [6.96](Spannung: 14.4)
+Geschenk generiert: #521 | Schnelles Auto [0.6]
+Geschenk generiert: #522 | Rote Unterbuxe [4.09](Eleganz: 14)
+Geschenk generiert: #523 | Schnelles Auto [1.47]
+Geschenk generiert: #524 | Spannendes Buch [7.94]
+Geschenk generiert: #525 | Schoko-Nikolaus [14.92](Gesund: Ja)
+Geschenk generiert: #526 | Dicker Pullover [2.82](Eleganz: 15)
+Geschenk generiert: #527 | Warme Socken [1.41](Eleganz: 12)
+Geschenk generiert: #528 | Schoko-Nikolaus [6.03](Gesund: Ja)
+Geschenk generiert: #529 | Dicker Pullover [4.13](Eleganz: 15)
+Geschenk generiert: #530 | Niedliche Puppe [4.53](Spannung: 6.0)
+Geschenk generiert: #531 | Thermo-Ski-Unterwaesche [1.37](Eleganz: 23)
+Geschenk generiert: #532 | Schoko-Nikolaus [6.01](Gesund: Ja)
+Geschenk generiert: #533 | Schoko-Nikolaus [11.71](Gesund: Nein)
+Geschenk generiert: #534 | Knusprige Kekse [3.49](Gesund: Nein)
+Geschenk generiert: #535 | Aromatischer Tee [5.16](Gesund: Nein)
+Geschenk generiert: #536 | Stacheliger Kaktus [1.01]
+Geschenk generiert: #537 | Warme Socken [4.32](Eleganz: 12)
+Geschenk generiert: #538 | Schoko-Nikolaus [3.0](Gesund: Nein)
+Geschenk generiert: #539 | Schoko-Nikolaus [8.57](Gesund: Ja)
+Geschenk generiert: #540 | Interessantes Brettspiel [4.21](Spannung: 9.6)
+Geschenk generiert: #541 | Aromatischer Tee [11.38](Gesund: Nein)
+Geschenk generiert: #542 | Niedliche Puppe [6.59](Spannung: 9.0)
+Geschenk generiert: #543 | Interessantes Brettspiel [8.94](Spannung: 19.2)
+Geschenk generiert: #544 | Schoko-Nikolaus [5.65](Gesund: Nein)
+Geschenk generiert: #545 | Knusprige Kekse [5.49](Gesund: Nein)
+Geschenk generiert: #546 | Aromatischer Tee [9.75](Gesund: Nein)
+Geschenk generiert: #547 | Rote Unterbuxe [1.44](Eleganz: 14)
+Geschenk generiert: #548 | Knusprige Kekse [14.37](Gesund: Ja)
+Geschenk generiert: #549 | Lange Struempfe [4.13](Eleganz: 15)
+Geschenk generiert: #550 | Niedliche Puppe [6.09](Spannung: 9.0)
+Geschenk generiert: #551 | Niedliche Puppe [8.88](Spannung: 12.0)
+Geschenk generiert: #552 | Rote Unterbuxe [3.99](Eleganz: 14)
+Geschenk generiert: #553 | Robuster Nussknacker [24.68]
+Geschenk generiert: #554 | Spannendes Buch [8.09]
+Geschenk generiert: #555 | Niedliche Puppe [5.19](Spannung: 7.5)
+Geschenk generiert: #556 | Niedliche Puppe [9.54](Spannung: 13.5)
+Geschenk generiert: #557 | Interessantes Brettspiel [5.19](Spannung: 12.0)
+Geschenk generiert: #558 | Robuster Nussknacker [2.34]
+Geschenk generiert: #559 | Spannendes Buch [2.33]
+Geschenk generiert: #560 | Thermo-Ski-Unterwaesche [3.18](Eleganz: 23)
+Geschenk generiert: #561 | Knusprige Kekse [2.22](Gesund: Ja)
+Geschenk generiert: #562 | Interessantes Brettspiel [3.57](Spannung: 7.2)
+Geschenk generiert: #563 | Stacheliger Kaktus [23.38]
+Geschenk generiert: #564 | Stacheliger Kaktus [16.83]
+Geschenk generiert: #565 | Niedliche Puppe [2.26](Spannung: 3.0)
+Geschenk generiert: #566 | Niedliche Puppe [8.37](Spannung: 12.0)
+Geschenk generiert: #567 | Spannendes Buch [24.25]
+Geschenk generiert: #568 | Warme Socken [1.98](Eleganz: 12)
+Geschenk generiert: #569 | Aromatischer Tee [4.72](Gesund: Ja)
+Geschenk generiert: #570 | Kuscheliger Schal [3.96](Eleganz: 17)
+Geschenk generiert: #571 | Spannendes Buch [24.53]
+Geschenk generiert: #572 | Niedliche Puppe [4.88](Spannung: 6.0)
+Geschenk generiert: #573 | Interessantes Brettspiel [3.55](Spannung: 7.2)
+Geschenk generiert: #574 | Warme Socken [3.22](Eleganz: 12)
+Geschenk generiert: #575 | Schnelles Auto [24.08]
+Geschenk generiert: #576 | Spannendes Buch [6.18]
+Geschenk generiert: #577 | Spannendes Buch [24.04]
+Geschenk generiert: #578 | Interessantes Brettspiel [1.99](Spannung: 2.4)
+Geschenk generiert: #579 | Thermo-Ski-Unterwaesche [4.55](Eleganz: 23)
+Geschenk generiert: #580 | Warme Socken [3.49](Eleganz: 12)
+Geschenk generiert: #581 | Schoko-Nikolaus [7.88](Gesund: Nein)
+Geschenk generiert: #582 | Zipfelige Muetze [4.62](Eleganz: 16)
+Geschenk generiert: #583 | Robuster Nussknacker [14.85]
+Geschenk generiert: #584 | Kuscheliger Schal [2.3](Eleganz: 17)
+Geschenk generiert: #585 | Robuster Nussknacker [13.59]
+Geschenk generiert: #586 | Niedliche Puppe [1.76](Spannung: 1.5)
+Geschenk generiert: #587 | Lange Struempfe [0.75](Eleganz: 15)
+Geschenk generiert: #588 | Schnelles Auto [0.94]
+Geschenk generiert: #589 | Knusprige Kekse [1.65](Gesund: Nein)
+Geschenk generiert: #590 | Schnelles Auto [7.49]
+Geschenk generiert: #591 | Warme Socken [4.48](Eleganz: 12)
+Geschenk generiert: #592 | Rote Unterbuxe [2.53](Eleganz: 14)
+Geschenk generiert: #593 | Knusprige Kekse [8.7](Gesund: Ja)
+Geschenk generiert: #594 | Robuster Nussknacker [5.32]
+Geschenk generiert: #595 | Stacheliger Kaktus [11.3]
+Geschenk generiert: #596 | Knusprige Kekse [2.92](Gesund: Ja)
+Geschenk generiert: #597 | Stacheliger Kaktus [7.93]
+Geschenk generiert: #598 | Rote Unterbuxe [3.14](Eleganz: 14)
+Geschenk generiert: #599 | Interessantes Brettspiel [0.8](Spannung: 0.0)
+Geschenk generiert: #600 | Schoko-Nikolaus [5.62](Gesund: Nein)
+Geschenk generiert: #601 | Schnelles Auto [22.56]
+Geschenk generiert: #602 | Bequeme Hose [3.06](Eleganz: 12)
+Geschenk generiert: #603 | Bequeme Hose [4.4](Eleganz: 12)
+Geschenk generiert: #604 | Lange Struempfe [3.12](Eleganz: 15)
+Geschenk generiert: #605 | Aromatischer Tee [14.22](Gesund: Ja)
+Geschenk generiert: #606 | Schoko-Nikolaus [13.77](Gesund: Nein)
+Geschenk generiert: #607 | Schnelles Auto [17.58]
+Geschenk generiert: #608 | Bequeme Hose [1.53](Eleganz: 12)
+Geschenk generiert: #609 | Robuster Nussknacker [22.82]
+Geschenk generiert: #610 | Niedliche Puppe [9.31](Spannung: 13.5)
+Geschenk generiert: #611 | Bequeme Hose [0.12](Eleganz: 12)
+Geschenk generiert: #612 | Interessantes Brettspiel [7.78](Spannung: 16.8)
+Geschenk generiert: #613 | Spannendes Buch [22.25]
+Geschenk generiert: #614 | Niedliche Puppe [9.78](Spannung: 13.5)
+Geschenk generiert: #615 | Niedliche Puppe [8.64](Spannung: 12.0)
+Geschenk generiert: #616 | Schoko-Nikolaus [13.82](Gesund: Nein)
+Geschenk generiert: #617 | Schnelles Auto [23.57]
+Geschenk generiert: #618 | Niedliche Puppe [8.74](Spannung: 12.0)
+Geschenk generiert: #619 | Interessantes Brettspiel [5.04](Spannung: 12.0)
+Geschenk generiert: #620 | Dicker Pullover [2.3](Eleganz: 15)
+Geschenk generiert: #621 | Spannendes Buch [17.76]
+Geschenk generiert: #622 | Interessantes Brettspiel [5.15](Spannung: 12.0)
+Geschenk generiert: #623 | Robuster Nussknacker [18.56]
+Geschenk generiert: #624 | Interessantes Brettspiel [3.95](Spannung: 7.2)
+Geschenk generiert: #625 | Knusprige Kekse [1.31](Gesund: Nein)
+Geschenk generiert: #626 | Interessantes Brettspiel [5.56](Spannung: 12.0)
+Geschenk generiert: #627 | Kuscheliger Schal [2.1](Eleganz: 17)
+Geschenk generiert: #628 | Niedliche Puppe [0.65](Spannung: 0.0)
+Geschenk generiert: #629 | Bequeme Hose [3.7](Eleganz: 12)
+Geschenk generiert: #630 | Aromatischer Tee [6.54](Gesund: Ja)
+Geschenk generiert: #631 | Spannendes Buch [21.2]
+Geschenk generiert: #632 | Knusprige Kekse [5.65](Gesund: Nein)
+Geschenk generiert: #633 | Bequeme Hose [3.26](Eleganz: 12)
+Geschenk generiert: #634 | Knusprige Kekse [10.12](Gesund: Ja)
+Geschenk generiert: #635 | Kuscheliger Schal [3.3](Eleganz: 17)
+Geschenk generiert: #636 | Interessantes Brettspiel [9.98](Spannung: 21.6)
+Geschenk generiert: #637 | Knusprige Kekse [14.79](Gesund: Ja)
+Geschenk generiert: #638 | Knusprige Kekse [4.37](Gesund: Ja)
+Geschenk generiert: #639 | Schoko-Nikolaus [0.6](Gesund: Ja)
+Geschenk generiert: #640 | Zipfelige Muetze [3.06](Eleganz: 16)
+Geschenk generiert: #641 | Interessantes Brettspiel [8.13](Spannung: 19.2)
+Geschenk generiert: #642 | Robuster Nussknacker [14.15]
+Geschenk generiert: #643 | Interessantes Brettspiel [5.46](Spannung: 12.0)
+Geschenk generiert: #644 | Knusprige Kekse [2.64](Gesund: Ja)
+Geschenk generiert: #645 | Warme Socken [4.15](Eleganz: 12)
+Geschenk generiert: #646 | Lange Struempfe [3.71](Eleganz: 15)
+Geschenk generiert: #647 | Kuscheliger Schal [4.35](Eleganz: 17)
+Geschenk generiert: #648 | Knusprige Kekse [11.18](Gesund: Nein)
+Geschenk generiert: #649 | Stacheliger Kaktus [16.81]
+Geschenk generiert: #650 | Niedliche Puppe [4.04](Spannung: 6.0)
+Geschenk generiert: #651 | Schnelles Auto [7.93]
+Geschenk generiert: #652 | Thermo-Ski-Unterwaesche [1.5](Eleganz: 23)
+Geschenk generiert: #653 | Schoko-Nikolaus [1.15](Gesund: Nein)
+Geschenk generiert: #654 | Schnelles Auto [16.0]
+Geschenk generiert: #655 | Bequeme Hose [0.9](Eleganz: 12)
+Geschenk generiert: #656 | Dicker Pullover [2.53](Eleganz: 15)
+Geschenk generiert: #657 | Rote Unterbuxe [1.98](Eleganz: 14)
+Geschenk generiert: #658 | Knusprige Kekse [6.95](Gesund: Ja)
+Geschenk generiert: #659 | Knusprige Kekse [0.25](Gesund: Ja)
+Geschenk generiert: #660 | Dicker Pullover [1.96](Eleganz: 15)
+Geschenk generiert: #661 | Spannendes Buch [5.35]
+Geschenk generiert: #662 | Robuster Nussknacker [12.03]
+Geschenk generiert: #663 | Knusprige Kekse [14.12](Gesund: Ja)
+Geschenk generiert: #664 | Robuster Nussknacker [10.74]
+Geschenk generiert: #665 | Interessantes Brettspiel [4.68](Spannung: 9.6)
+Geschenk generiert: #666 | Knusprige Kekse [14.13](Gesund: Ja)
+Geschenk generiert: #667 | Zipfelige Muetze [0.62](Eleganz: 16)
+Geschenk generiert: #668 | Rote Unterbuxe [2.75](Eleganz: 14)
+Geschenk generiert: #669 | Knusprige Kekse [10.27](Gesund: Ja)
+Geschenk generiert: #670 | Niedliche Puppe [3.94](Spannung: 4.5)
+Geschenk generiert: #671 | Schoko-Nikolaus [6.9](Gesund: Ja)
+Geschenk generiert: #672 | Niedliche Puppe [1.17](Spannung: 1.5)
+Geschenk generiert: #673 | Spannendes Buch [22.15]
+Geschenk generiert: #674 | Spannendes Buch [11.88]
+Geschenk generiert: #675 | Niedliche Puppe [0.05](Spannung: 0.0)
+Geschenk generiert: #676 | Robuster Nussknacker [18.84]
+Geschenk generiert: #677 | Zipfelige Muetze [1.5](Eleganz: 16)
+Geschenk generiert: #678 | Schnelles Auto [21.36]
+Geschenk generiert: #679 | Dicker Pullover [0.53](Eleganz: 15)
+Geschenk generiert: #680 | Schnelles Auto [17.63]
+Geschenk generiert: #681 | Schnelles Auto [20.6]
+Geschenk generiert: #682 | Zipfelige Muetze [0.49](Eleganz: 16)
+Geschenk generiert: #683 | Spannendes Buch [21.11]
+Geschenk generiert: #684 | Knusprige Kekse [8.3](Gesund: Ja)
+Geschenk generiert: #685 | Niedliche Puppe [8.5](Spannung: 12.0)
+Geschenk generiert: #686 | Interessantes Brettspiel [5.8](Spannung: 12.0)
+Geschenk generiert: #687 | Lange Struempfe [4.99](Eleganz: 15)
+Geschenk generiert: #688 | Aromatischer Tee [12.47](Gesund: Ja)
+Geschenk generiert: #689 | Bequeme Hose [2.1](Eleganz: 12)
+Geschenk generiert: #690 | Niedliche Puppe [9.01](Spannung: 13.5)
+Geschenk generiert: #691 | Aromatischer Tee [12.04](Gesund: Ja)
+Geschenk generiert: #692 | Kuscheliger Schal [2.67](Eleganz: 17)
+Geschenk generiert: #693 | Schnelles Auto [23.6]
+Geschenk generiert: #694 | Zipfelige Muetze [1.18](Eleganz: 16)
+Geschenk generiert: #695 | Stacheliger Kaktus [21.7]
+Geschenk generiert: #696 | Bequeme Hose [1.14](Eleganz: 12)
+Geschenk generiert: #697 | Bequeme Hose [3.99](Eleganz: 12)
+Geschenk generiert: #698 | Knusprige Kekse [1.5](Gesund: Nein)
+Geschenk generiert: #699 | Spannendes Buch [24.56]
+Geschenk generiert: #700 | Spannendes Buch [20.98]
+Geschenk generiert: #701 | Warme Socken [2.45](Eleganz: 12)
+Geschenk generiert: #702 | Lange Struempfe [4.04](Eleganz: 15)
+Geschenk generiert: #703 | Lange Struempfe [4.4](Eleganz: 15)
+Geschenk generiert: #704 | Dicker Pullover [3.01](Eleganz: 15)
+Geschenk generiert: #705 | Niedliche Puppe [4.33](Spannung: 6.0)
+Geschenk generiert: #706 | Spannendes Buch [13.73]
+Geschenk generiert: #707 | Schnelles Auto [14.54]
+Geschenk generiert: #708 | Spannendes Buch [1.53]
+Geschenk generiert: #709 | Thermo-Ski-Unterwaesche [3.18](Eleganz: 23)
+Geschenk generiert: #710 | Interessantes Brettspiel [3.64](Spannung: 7.2)
+Geschenk generiert: #711 | Lange Struempfe [1.46](Eleganz: 15)
+Geschenk generiert: #712 | Niedliche Puppe [9.65](Spannung: 13.5)
+Geschenk generiert: #713 | Lange Struempfe [4.14](Eleganz: 15)
+Geschenk generiert: #714 | Niedliche Puppe [3.18](Spannung: 4.5)
+Geschenk generiert: #715 | Thermo-Ski-Unterwaesche [0.89](Eleganz: 23)
+Geschenk generiert: #716 | Knusprige Kekse [0.66](Gesund: Ja)
+Geschenk generiert: #717 | Niedliche Puppe [8.74](Spannung: 12.0)
+Geschenk generiert: #718 | Interessantes Brettspiel [2.95](Spannung: 4.8)
+Geschenk generiert: #719 | Kuscheliger Schal [4.45](Eleganz: 17)
+Geschenk generiert: #720 | Robuster Nussknacker [21.24]
+Geschenk generiert: #721 | Rote Unterbuxe [4.49](Eleganz: 14)
+Geschenk generiert: #722 | Stacheliger Kaktus [16.13]
+Geschenk generiert: #723 | Robuster Nussknacker [6.82]
+Geschenk generiert: #724 | Robuster Nussknacker [21.57]
+Geschenk generiert: #725 | Schoko-Nikolaus [7.95](Gesund: Nein)
+Geschenk generiert: #726 | Niedliche Puppe [9.75](Spannung: 13.5)
+Geschenk generiert: #727 | Schnelles Auto [3.93]
+Geschenk generiert: #728 | Thermo-Ski-Unterwaesche [3.69](Eleganz: 23)
+Geschenk generiert: #729 | Knusprige Kekse [0.43](Gesund: Ja)
+Geschenk generiert: #730 | Bequeme Hose [4.25](Eleganz: 12)
+Geschenk generiert: #731 | Schoko-Nikolaus [7.53](Gesund: Nein)
+Geschenk generiert: #732 | Interessantes Brettspiel [7.79](Spannung: 16.8)
+Geschenk generiert: #733 | Robuster Nussknacker [22.37]
+Geschenk generiert: #734 | Interessantes Brettspiel [7.35](Spannung: 16.8)
+Geschenk generiert: #735 | Interessantes Brettspiel [5.33](Spannung: 12.0)
+Geschenk generiert: #736 | Schoko-Nikolaus [8.54](Gesund: Ja)
+Geschenk generiert: #737 | Schnelles Auto [19.39]
+Geschenk generiert: #738 | Aromatischer Tee [12.91](Gesund: Ja)
+Geschenk generiert: #739 | Knusprige Kekse [13.13](Gesund: Nein)
+Geschenk generiert: #740 | Robuster Nussknacker [22.58]
+Geschenk generiert: #741 | Aromatischer Tee [12.48](Gesund: Ja)
+Geschenk generiert: #742 | Knusprige Kekse [14.25](Gesund: Ja)
+Geschenk generiert: #743 | Knusprige Kekse [8.81](Gesund: Ja)
+Geschenk generiert: #744 | Schoko-Nikolaus [7.08](Gesund: Nein)
+Geschenk generiert: #745 | Aromatischer Tee [9.15](Gesund: Nein)
+Geschenk generiert: #746 | Dicker Pullover [3.82](Eleganz: 15)
+Geschenk generiert: #747 | Interessantes Brettspiel [0.4](Spannung: 0.0)
+Geschenk generiert: #748 | Stacheliger Kaktus [10.15]
+Geschenk generiert: #749 | Niedliche Puppe [1.89](Spannung: 1.5)
+Geschenk generiert: #750 | Stacheliger Kaktus [6.65]
+Geschenk generiert: #751 | Bequeme Hose [1.7](Eleganz: 12)
+Geschenk generiert: #752 | Niedliche Puppe [8.74](Spannung: 12.0)
+Geschenk generiert: #753 | Schnelles Auto [5.81]
+Geschenk generiert: #754 | Aromatischer Tee [12.35](Gesund: Ja)
+Geschenk generiert: #755 | Schoko-Nikolaus [7.96](Gesund: Nein)
+Geschenk generiert: #756 | Knusprige Kekse [4.89](Gesund: Ja)
+Geschenk generiert: #757 | Knusprige Kekse [11.62](Gesund: Nein)
+Geschenk generiert: #758 | Schoko-Nikolaus [5.26](Gesund: Nein)
+Geschenk generiert: #759 | Knusprige Kekse [2.77](Gesund: Ja)
+Geschenk generiert: #760 | Robuster Nussknacker [6.54]
+Geschenk generiert: #761 | Robuster Nussknacker [6.27]
+Geschenk generiert: #762 | Stacheliger Kaktus [3.89]
+Geschenk generiert: #763 | Stacheliger Kaktus [22.81]
+Geschenk generiert: #764 | Niedliche Puppe [8.54](Spannung: 12.0)
+Geschenk generiert: #765 | Spannendes Buch [0.8]
+Geschenk generiert: #766 | Aromatischer Tee [14.1](Gesund: Ja)
+Geschenk generiert: #767 | Schnelles Auto [17.55]
+Geschenk generiert: #768 | Zipfelige Muetze [4.66](Eleganz: 16)
+Geschenk generiert: #769 | Thermo-Ski-Unterwaesche [1.65](Eleganz: 23)
+Geschenk generiert: #770 | Spannendes Buch [7.53]
+Geschenk generiert: #771 | Schnelles Auto [10.05]
+Geschenk generiert: #772 | Robuster Nussknacker [5.01]
+Geschenk generiert: #773 | Thermo-Ski-Unterwaesche [3.91](Eleganz: 23)
+Geschenk generiert: #774 | Kuscheliger Schal [3.17](Eleganz: 17)
+Geschenk generiert: #775 | Lange Struempfe [2.6](Eleganz: 15)
+Geschenk generiert: #776 | Niedliche Puppe [9.51](Spannung: 13.5)
+Geschenk generiert: #777 | Schoko-Nikolaus [2.26](Gesund: Ja)
+Geschenk generiert: #778 | Dicker Pullover [4.02](Eleganz: 15)
+Geschenk generiert: #779 | Bequeme Hose [3.91](Eleganz: 12)
+Geschenk generiert: #780 | Niedliche Puppe [4.47](Spannung: 6.0)
+Geschenk generiert: #781 | Rote Unterbuxe [3.98](Eleganz: 14)
+Geschenk generiert: #782 | Interessantes Brettspiel [0.78](Spannung: 0.0)
+Geschenk generiert: #783 | Niedliche Puppe [9.04](Spannung: 13.5)
+Geschenk generiert: #784 | Aromatischer Tee [6.02](Gesund: Ja)
+Geschenk generiert: #785 | Robuster Nussknacker [22.39]
+Geschenk generiert: #786 | Aromatischer Tee [3.72](Gesund: Nein)
+Geschenk generiert: #787 | Rote Unterbuxe [2.41](Eleganz: 14)
+Geschenk generiert: #788 | Niedliche Puppe [2.62](Spannung: 3.0)
+Geschenk generiert: #789 | Spannendes Buch [23.2]
+Geschenk generiert: #790 | Aromatischer Tee [12.9](Gesund: Ja)
+Geschenk generiert: #791 | Interessantes Brettspiel [6.54](Spannung: 14.4)
+Geschenk generiert: #792 | Niedliche Puppe [0.3](Spannung: 0.0)
+Geschenk generiert: #793 | Interessantes Brettspiel [7.33](Spannung: 16.8)
+Geschenk generiert: #794 | Interessantes Brettspiel [1.63](Spannung: 2.4)
+Geschenk generiert: #795 | Zipfelige Muetze [3.03](Eleganz: 16)
+Geschenk generiert: #796 | Bequeme Hose [2.51](Eleganz: 12)
+Geschenk generiert: #797 | Interessantes Brettspiel [8.13](Spannung: 19.2)
+Geschenk generiert: #798 | Schnelles Auto [9.23]
+Geschenk generiert: #799 | Knusprige Kekse [11.61](Gesund: Nein)
+Geschenk generiert: #800 | Niedliche Puppe [1.11](Spannung: 1.5)
+Geschenk generiert: #801 | Niedliche Puppe [7.74](Spannung: 10.5)
+Geschenk generiert: #802 | Warme Socken [4.12](Eleganz: 12)
+Geschenk generiert: #803 | Schnelles Auto [1.7]
+Geschenk generiert: #804 | Aromatischer Tee [8.02](Gesund: Ja)
+Geschenk generiert: #805 | Rote Unterbuxe [4.83](Eleganz: 14)
+Geschenk generiert: #806 | Robuster Nussknacker [3.05]
+Geschenk generiert: #807 | Stacheliger Kaktus [0.46]
+Geschenk generiert: #808 | Robuster Nussknacker [6.31]
+Geschenk generiert: #809 | Aromatischer Tee [11.0](Gesund: Nein)
+Geschenk generiert: #810 | Interessantes Brettspiel [9.61](Spannung: 21.6)
+Geschenk generiert: #811 | Stacheliger Kaktus [13.87]
+Geschenk generiert: #812 | Rote Unterbuxe [0.64](Eleganz: 14)
+Geschenk generiert: #813 | Niedliche Puppe [4.5](Spannung: 6.0)
+Geschenk generiert: #814 | Knusprige Kekse [11.89](Gesund: Nein)
+Geschenk generiert: #815 | Interessantes Brettspiel [9.37](Spannung: 21.6)
+Geschenk generiert: #816 | Aromatischer Tee [3.23](Gesund: Nein)
+Geschenk generiert: #817 | Aromatischer Tee [12.63](Gesund: Ja)
+Geschenk generiert: #818 | Niedliche Puppe [9.23](Spannung: 13.5)
+Geschenk generiert: #819 | Interessantes Brettspiel [4.06](Spannung: 9.6)
+Geschenk generiert: #820 | Thermo-Ski-Unterwaesche [0.33](Eleganz: 23)
+Geschenk generiert: #821 | Spannendes Buch [20.57]
+Geschenk generiert: #822 | Aromatischer Tee [4.77](Gesund: Ja)
+Geschenk generiert: #823 | Robuster Nussknacker [17.48]
+Geschenk generiert: #824 | Niedliche Puppe [0.65](Spannung: 0.0)
+Geschenk generiert: #825 | Interessantes Brettspiel [7.11](Spannung: 16.8)
+Geschenk generiert: #826 | Schnelles Auto [8.1]
+Geschenk generiert: #827 | Stacheliger Kaktus [5.72]
+Geschenk generiert: #828 | Knusprige Kekse [7.55](Gesund: Nein)
+Geschenk generiert: #829 | Interessantes Brettspiel [4.76](Spannung: 9.6)
+Geschenk generiert: #830 | Robuster Nussknacker [24.25]
+Geschenk generiert: #831 | Lange Struempfe [3.84](Eleganz: 15)
+Geschenk generiert: #832 | Aromatischer Tee [8.09](Gesund: Ja)
+Geschenk generiert: #833 | Warme Socken [3.95](Eleganz: 12)
+Geschenk generiert: #834 | Schnelles Auto [1.67]
+Geschenk generiert: #835 | Dicker Pullover [3.58](Eleganz: 15)
+Geschenk generiert: #836 | Schoko-Nikolaus [5.83](Gesund: Nein)
+Geschenk generiert: #837 | Interessantes Brettspiel [3.97](Spannung: 7.2)
+Geschenk generiert: #838 | Schnelles Auto [13.53]
+Geschenk generiert: #839 | Niedliche Puppe [2.35](Spannung: 3.0)
+Geschenk generiert: #840 | Zipfelige Muetze [2.31](Eleganz: 16)
+Geschenk generiert: #841 | Spannendes Buch [0.05]
+Geschenk generiert: #842 | Interessantes Brettspiel [6.27](Spannung: 14.4)
+Geschenk generiert: #843 | Schoko-Nikolaus [2.11](Gesund: Ja)
+Geschenk generiert: #844 | Niedliche Puppe [3.73](Spannung: 4.5)
+Geschenk generiert: #845 | Niedliche Puppe [5.95](Spannung: 7.5)
+Geschenk generiert: #846 | Interessantes Brettspiel [8.88](Spannung: 19.2)
+Geschenk generiert: #847 | Aromatischer Tee [0.43](Gesund: Ja)
+Geschenk generiert: #848 | Schoko-Nikolaus [14.99](Gesund: Ja)
+Geschenk generiert: #849 | Aromatischer Tee [2.88](Gesund: Ja)
+Geschenk generiert: #850 | Robuster Nussknacker [18.49]
+Geschenk generiert: #851 | Warme Socken [2.9](Eleganz: 12)
+Geschenk generiert: #852 | Spannendes Buch [4.35]
+Geschenk generiert: #853 | Schoko-Nikolaus [1.26](Gesund: Nein)
+Geschenk generiert: #854 | Spannendes Buch [20.9]
+Geschenk generiert: #855 | Schnelles Auto [0.19]
+Geschenk generiert: #856 | Robuster Nussknacker [4.62]
+Geschenk generiert: #857 | Dicker Pullover [2.98](Eleganz: 15)
+Geschenk generiert: #858 | Aromatischer Tee [11.55](Gesund: Nein)
+Geschenk generiert: #859 | Niedliche Puppe [5.19](Spannung: 7.5)
+Geschenk generiert: #860 | Warme Socken [2.88](Eleganz: 12)
+Geschenk generiert: #861 | Schoko-Nikolaus [1.81](Gesund: Nein)
+Geschenk generiert: #862 | Warme Socken [1.55](Eleganz: 12)
+Geschenk generiert: #863 | Niedliche Puppe [9.82](Spannung: 13.5)
+Geschenk generiert: #864 | Schnelles Auto [7.7]
+Geschenk generiert: #865 | Rote Unterbuxe [4.52](Eleganz: 14)
+Geschenk generiert: #866 | Schoko-Nikolaus [10.14](Gesund: Ja)
+Geschenk generiert: #867 | Thermo-Ski-Unterwaesche [1.3](Eleganz: 23)
+Geschenk generiert: #868 | Dicker Pullover [3.73](Eleganz: 15)
+Geschenk generiert: #869 | Aromatischer Tee [5.43](Gesund: Nein)
+Geschenk generiert: #870 | Kuscheliger Schal [1.74](Eleganz: 17)
+Geschenk generiert: #871 | Warme Socken [0.67](Eleganz: 12)
+Geschenk generiert: #872 | Schoko-Nikolaus [11.04](Gesund: Nein)
+Geschenk generiert: #873 | Thermo-Ski-Unterwaesche [4.81](Eleganz: 23)
+Geschenk generiert: #874 | Warme Socken [3.29](Eleganz: 12)
+Geschenk generiert: #875 | Stacheliger Kaktus [22.84]
+Geschenk generiert: #876 | Spannendes Buch [11.26]
+Geschenk generiert: #877 | Interessantes Brettspiel [9.44](Spannung: 21.6)
+Geschenk generiert: #878 | Niedliche Puppe [1.89](Spannung: 1.5)
+Geschenk generiert: #879 | Stacheliger Kaktus [15.16]
+Geschenk generiert: #880 | Zipfelige Muetze [4.42](Eleganz: 16)
+Geschenk generiert: #881 | Bequeme Hose [2.28](Eleganz: 12)
+Geschenk generiert: #882 | Kuscheliger Schal [4.97](Eleganz: 17)
+Geschenk generiert: #883 | Rote Unterbuxe [4.3](Eleganz: 14)
+Geschenk generiert: #884 | Spannendes Buch [18.17]
+Geschenk generiert: #885 | Aromatischer Tee [11.58](Gesund: Nein)
+Geschenk generiert: #886 | Aromatischer Tee [6.24](Gesund: Ja)
+Geschenk generiert: #887 | Kuscheliger Schal [0.07](Eleganz: 17)
+Geschenk generiert: #888 | Aromatischer Tee [1.74](Gesund: Nein)
+Geschenk generiert: #889 | Dicker Pullover [3.01](Eleganz: 15)
+Geschenk generiert: #890 | Interessantes Brettspiel [5.77](Spannung: 12.0)
+Geschenk generiert: #891 | Schoko-Nikolaus [11.37](Gesund: Nein)
+Geschenk generiert: #892 | Niedliche Puppe [8.08](Spannung: 12.0)
+Geschenk generiert: #893 | Zipfelige Muetze [0.45](Eleganz: 16)
+Geschenk generiert: #894 | Thermo-Ski-Unterwaesche [4.42](Eleganz: 23)
+Geschenk generiert: #895 | Aromatischer Tee [3.32](Gesund: Nein)
+Geschenk generiert: #896 | Lange Struempfe [0.24](Eleganz: 15)
+Geschenk generiert: #897 | Niedliche Puppe [4.01](Spannung: 6.0)
+Geschenk generiert: #898 | Interessantes Brettspiel [0.1](Spannung: 0.0)
+Geschenk generiert: #899 | Thermo-Ski-Unterwaesche [4.72](Eleganz: 23)
+Geschenk generiert: #900 | Schoko-Nikolaus [14.65](Gesund: Ja)
+Geschenk generiert: #901 | Lange Struempfe [1.36](Eleganz: 15)
+Geschenk generiert: #902 | Bequeme Hose [2.97](Eleganz: 12)
+Geschenk generiert: #903 | Kuscheliger Schal [4.06](Eleganz: 17)
+Geschenk generiert: #904 | Knusprige Kekse [10.3](Gesund: Ja)
+Geschenk generiert: #905 | Lange Struempfe [1.0](Eleganz: 15)
+Geschenk generiert: #906 | Bequeme Hose [3.54](Eleganz: 12)
+Geschenk generiert: #907 | Stacheliger Kaktus [6.3]
+Geschenk generiert: #908 | Schoko-Nikolaus [1.76](Gesund: Nein)
+Geschenk generiert: #909 | Zipfelige Muetze [4.33](Eleganz: 16)
+Geschenk generiert: #910 | Niedliche Puppe [2.78](Spannung: 3.0)
+Geschenk generiert: #911 | Niedliche Puppe [3.35](Spannung: 4.5)
+Geschenk generiert: #912 | Kuscheliger Schal [1.77](Eleganz: 17)
+Geschenk generiert: #913 | Niedliche Puppe [0.01](Spannung: 0.0)
+Geschenk generiert: #914 | Stacheliger Kaktus [12.83]
+Geschenk generiert: #915 | Niedliche Puppe [7.42](Spannung: 10.5)
+Geschenk generiert: #916 | Interessantes Brettspiel [3.5](Spannung: 7.2)
+Geschenk generiert: #917 | Stacheliger Kaktus [16.21]
+Geschenk generiert: #918 | Robuster Nussknacker [9.53]
+Geschenk generiert: #919 | Aromatischer Tee [8.2](Gesund: Ja)
+Geschenk generiert: #920 | Zipfelige Muetze [3.96](Eleganz: 16)
+Geschenk generiert: #921 | Aromatischer Tee [2.98](Gesund: Ja)
+Geschenk generiert: #922 | Thermo-Ski-Unterwaesche [4.44](Eleganz: 23)
+Geschenk generiert: #923 | Kuscheliger Schal [4.41](Eleganz: 17)
+Geschenk generiert: #924 | Robuster Nussknacker [20.9]
+Geschenk generiert: #925 | Spannendes Buch [16.91]
+Geschenk generiert: #926 | Niedliche Puppe [8.83](Spannung: 12.0)
+Geschenk generiert: #927 | Kuscheliger Schal [2.1](Eleganz: 17)
+Geschenk generiert: #928 | Rote Unterbuxe [3.23](Eleganz: 14)
+Geschenk generiert: #929 | Aromatischer Tee [6.21](Gesund: Ja)
+Geschenk generiert: #930 | Stacheliger Kaktus [5.62]
+Geschenk generiert: #931 | Interessantes Brettspiel [5.52](Spannung: 12.0)
+Geschenk generiert: #932 | Interessantes Brettspiel [9.02](Spannung: 21.6)
+Geschenk generiert: #933 | Aromatischer Tee [2.21](Gesund: Ja)
+Geschenk generiert: #934 | Lange Struempfe [1.13](Eleganz: 15)
+Geschenk generiert: #935 | Schoko-Nikolaus [6.84](Gesund: Ja)
+Geschenk generiert: #936 | Niedliche Puppe [6.16](Spannung: 9.0)
+Geschenk generiert: #937 | Lange Struempfe [4.13](Eleganz: 15)
+Geschenk generiert: #938 | Lange Struempfe [4.63](Eleganz: 15)
+Geschenk generiert: #939 | Dicker Pullover [4.52](Eleganz: 15)
+Geschenk generiert: #940 | Robuster Nussknacker [1.81]
+Geschenk generiert: #941 | Warme Socken [1.47](Eleganz: 12)
+Geschenk generiert: #942 | Interessantes Brettspiel [1.25](Spannung: 2.4)
+Geschenk generiert: #943 | Robuster Nussknacker [4.75]
+Geschenk generiert: #944 | Niedliche Puppe [9.68](Spannung: 13.5)
+Geschenk generiert: #945 | Knusprige Kekse [9.36](Gesund: Nein)
+Geschenk generiert: #946 | Warme Socken [0.12](Eleganz: 12)
+Geschenk generiert: #947 | Spannendes Buch [15.73]
+Geschenk generiert: #948 | Rote Unterbuxe [4.61](Eleganz: 14)
+Geschenk generiert: #949 | Interessantes Brettspiel [7.84](Spannung: 16.8)
+Geschenk generiert: #950 | Schoko-Nikolaus [9.79](Gesund: Nein)
+Geschenk generiert: #951 | Dicker Pullover [3.46](Eleganz: 15)
+Geschenk generiert: #952 | Niedliche Puppe [2.7](Spannung: 3.0)
+Geschenk generiert: #953 | Niedliche Puppe [2.15](Spannung: 3.0)
+Geschenk generiert: #954 | Niedliche Puppe [6.73](Spannung: 9.0)
+Geschenk generiert: #955 | Aromatischer Tee [4.0](Gesund: Ja)
+Geschenk generiert: #956 | Schnelles Auto [21.82]
+Geschenk generiert: #957 | Schoko-Nikolaus [12.27](Gesund: Ja)
+Geschenk generiert: #958 | Thermo-Ski-Unterwaesche [4.08](Eleganz: 23)
+Geschenk generiert: #959 | Interessantes Brettspiel [3.2](Spannung: 7.2)
+Geschenk generiert: #960 | Robuster Nussknacker [11.21]
+Geschenk generiert: #961 | Warme Socken [4.54](Eleganz: 12)
+Geschenk generiert: #962 | Stacheliger Kaktus [2.46]
+Geschenk generiert: #963 | Schnelles Auto [10.21]
+Geschenk generiert: #964 | Aromatischer Tee [12.32](Gesund: Ja)
+Geschenk generiert: #965 | Knusprige Kekse [14.28](Gesund: Ja)
+Geschenk generiert: #966 | Interessantes Brettspiel [1.49](Spannung: 2.4)
+Geschenk generiert: #967 | Rote Unterbuxe [1.93](Eleganz: 14)
+Geschenk generiert: #968 | Knusprige Kekse [6.79](Gesund: Ja)
+Geschenk generiert: #969 | Aromatischer Tee [3.21](Gesund: Nein)
+Geschenk generiert: #970 | Kuscheliger Schal [0.31](Eleganz: 17)
+Geschenk generiert: #971 | Spannendes Buch [9.5]
+Geschenk generiert: #972 | Robuster Nussknacker [15.91]
+Geschenk generiert: #973 | Schoko-Nikolaus [14.96](Gesund: Ja)
+Geschenk generiert: #974 | Knusprige Kekse [1.83](Gesund: Nein)
+Geschenk generiert: #975 | Thermo-Ski-Unterwaesche [2.86](Eleganz: 23)
+Geschenk generiert: #976 | Robuster Nussknacker [12.39]
+Geschenk generiert: #977 | Aromatischer Tee [12.37](Gesund: Ja)
+Geschenk generiert: #978 | Robuster Nussknacker [4.71]
+Geschenk generiert: #979 | Interessantes Brettspiel [3.79](Spannung: 7.2)
+Geschenk generiert: #980 | Interessantes Brettspiel [4.32](Spannung: 9.6)
+Geschenk generiert: #981 | Thermo-Ski-Unterwaesche [4.58](Eleganz: 23)
+Geschenk generiert: #982 | Knusprige Kekse [9.47](Gesund: Nein)
+Geschenk generiert: #983 | Rote Unterbuxe [0.13](Eleganz: 14)
+Geschenk generiert: #984 | Niedliche Puppe [0.38](Spannung: 0.0)
+Geschenk generiert: #985 | Interessantes Brettspiel [2.61](Spannung: 4.8)
+Geschenk generiert: #986 | Schnelles Auto [10.71]
+Geschenk generiert: #987 | Interessantes Brettspiel [0.77](Spannung: 0.0)
+Geschenk generiert: #988 | Knusprige Kekse [7.32](Gesund: Nein)
+Geschenk generiert: #989 | Niedliche Puppe [1.81](Spannung: 1.5)
+Geschenk generiert: #990 | Schnelles Auto [20.14]
+Geschenk generiert: #991 | Warme Socken [4.06](Eleganz: 12)
+Geschenk generiert: #992 | Stacheliger Kaktus [2.51]
+Geschenk generiert: #993 | Interessantes Brettspiel [5.02](Spannung: 12.0)
+Geschenk generiert: #994 | Stacheliger Kaktus [0.63]
+Geschenk generiert: #995 | Dicker Pullover [1.4](Eleganz: 15)
+Geschenk generiert: #996 | Stacheliger Kaktus [10.31]
+Geschenk generiert: #997 | Niedliche Puppe [4.07](Spannung: 6.0)
+Geschenk generiert: #998 | Bequeme Hose [0.41](Eleganz: 12)
+Geschenk generiert: #999 | Stacheliger Kaktus [0.53]
+Wunschliste vollstaendig!
+
+Generiere Wichtelmannschaft...
+Blauer Wichtel HATIHATI meldet sich zum Dienst!
+Blauer Wichtel GEROSMU meldet sich zum Dienst!
+Roter Wichtel VARJOLA meldet sich zum Dienst!
+Blauer Wichtel XULLE meldet sich zum Dienst!
+Roter Wichtel SETITAZARI meldet sich zum Dienst!
+Gelber Wichtel ZOTOIOTIWEL meldet sich zum Dienst!
+Gelber Wichtel UMAHATI meldet sich zum Dienst!
+Blauer Wichtel TAZKOLE meldet sich zum Dienst!
+Roter Wichtel IOTIDURZOTO meldet sich zum Dienst!
+Gelber Wichtel MUSETITAZ meldet sich zum Dienst!
+Blauer Wichtel XULVARBOR meldet sich zum Dienst!
+Roter Wichtel YIFIIOTIBOR meldet sich zum Dienst!
+Gelber Wichtel CARUMANOR meldet sich zum Dienst!
+Gelber Wichtel EORLNOR meldet sich zum Dienst!
+Blauer Wichtel NORBOR meldet sich zum Dienst!
+Blauer Wichtel LEEORL meldet sich zum Dienst!
+Blauer Wichtel ARIXUL meldet sich zum Dienst!
+Blauer Wichtel FRITAZ meldet sich zum Dienst!
+Roter Wichtel ARIBOR meldet sich zum Dienst!
+Blauer Wichtel VARUMA meldet sich zum Dienst!
+Roter Wichtel UMAUMAIOTI meldet sich zum Dienst!
+Roter Wichtel SETISETI meldet sich zum Dienst!
+Gelber Wichtel FRIJOLA meldet sich zum Dienst!
+Blauer Wichtel ZOTOXULJOLA meldet sich zum Dienst!
+Gelber Wichtel LEROMI meldet sich zum Dienst!
+Roter Wichtel SETIXUL meldet sich zum Dienst!
+Gelber Wichtel EORLKOROMI meldet sich zum Dienst!
+Gelber Wichtel SETILEFRI meldet sich zum Dienst!
+Roter Wichtel MUWEL meldet sich zum Dienst!
+Roter Wichtel ARIHATIXUL meldet sich zum Dienst!
+Alle Wichtel anwesend!
+
+----------------------------------------
+Runde 1
+Blauer Wichtel HATIHATI bearbeitet nun #0 
+ --> Dicker Pullover [0.34](Eleganz: 15)
+Blauer Wichtel GEROSMU bearbeitet nun #1 
+ --> Spannendes Buch [4.93]
+Roter Wichtel VARJOLA bearbeitet nun #2 
+ --> Robuster Nussknacker [6.16]
+Blauer Wichtel XULLE bearbeitet nun #3 
+ --> Stacheliger Kaktus [12.61]
+Roter Wichtel SETITAZARI bearbeitet nun #4 
+ --> Robuster Nussknacker [20.04]
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #5 
+ --> Spannendes Buch [14.02]
+Gelber Wichtel UMAHATI bearbeitet nun #6 
+ --> Spannendes Buch [8.75]
+Blauer Wichtel TAZKOLE bearbeitet nun #7 
+ --> Interessantes Brettspiel [7.72](Spannung: 16.8)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #8 
+ --> Zipfelige Muetze [3.13](Eleganz: 16)
+Gelber Wichtel MUSETITAZ bearbeitet nun #9 
+ --> Interessantes Brettspiel [5.11](Spannung: 12.0)
+Blauer Wichtel XULVARBOR bearbeitet nun #10 
+ --> Spannendes Buch [8.25]
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #11 
+ --> Schoko-Nikolaus [5.33](Gesund: Nein)
+Gelber Wichtel CARUMANOR bearbeitet nun #12 
+ --> Thermo-Ski-Unterwaesche [2.38](Eleganz: 23)
+Gelber Wichtel EORLNOR bearbeitet nun #13 
+ --> Niedliche Puppe [6.04](Spannung: 9.0)
+Blauer Wichtel NORBOR bearbeitet nun #14 
+ --> Niedliche Puppe [3.59](Spannung: 4.5)
+Blauer Wichtel LEEORL bearbeitet nun #15 
+ --> Kuscheliger Schal [4.73](Eleganz: 17)
+Blauer Wichtel ARIXUL bearbeitet nun #16 
+ --> Spannendes Buch [19.51]
+Blauer Wichtel FRITAZ bearbeitet nun #17 
+ --> Thermo-Ski-Unterwaesche [1.5](Eleganz: 23)
+Roter Wichtel ARIBOR bearbeitet nun #18 
+ --> Kuscheliger Schal [0.62](Eleganz: 17)
+Blauer Wichtel VARUMA bearbeitet nun #19 
+ --> Knusprige Kekse [4.23](Gesund: Ja)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #20 
+ --> Knusprige Kekse [8.22](Gesund: Ja)
+Roter Wichtel SETISETI bearbeitet nun #21 
+ --> Interessantes Brettspiel [0.56](Spannung: 0.0)
+Gelber Wichtel FRIJOLA bearbeitet nun #22 
+ --> Knusprige Kekse [7.74](Gesund: Nein)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #23 
+ --> Dicker Pullover [2.17](Eleganz: 15)
+Gelber Wichtel LEROMI bearbeitet nun #24 
+ --> Niedliche Puppe [3.56](Spannung: 4.5)
+Roter Wichtel SETIXUL bearbeitet nun #25 
+ --> Schoko-Nikolaus [2.8](Gesund: Ja)
+Gelber Wichtel EORLKOROMI bearbeitet nun #26 
+ --> Aromatischer Tee [10.17](Gesund: Ja)
+Gelber Wichtel SETILEFRI bearbeitet nun #27 
+ --> Schnelles Auto [15.51]
+Roter Wichtel MUWEL bearbeitet nun #28 
+ --> Rote Unterbuxe [2.4](Eleganz: 14)
+Roter Wichtel ARIHATIXUL bearbeitet nun #29 
+ --> Schoko-Nikolaus [4.55](Gesund: Ja)
+----------------------------------------
+Runde 2
+Roter Wichtel ARIBOR bearbeitet nun #30 
+ --> Thermo-Ski-Unterwaesche [1.54](Eleganz: 23)
+Roter Wichtel SETISETI bearbeitet nun #31 
+ --> Knusprige Kekse [3.14](Gesund: Nein)
+Roter Wichtel SETIXUL bearbeitet nun #32 
+ --> Thermo-Ski-Unterwaesche [0.16](Eleganz: 23)
+Roter Wichtel MUWEL bearbeitet nun #33 
+ --> Knusprige Kekse [11.68](Gesund: Nein)
+----------------------------------------
+Runde 3
+Roter Wichtel IOTIDURZOTO bearbeitet nun #34 
+ --> Interessantes Brettspiel [3.56](Spannung: 7.2)
+Roter Wichtel ARIBOR bearbeitet nun #35 
+ --> Knusprige Kekse [3.9](Gesund: Nein)
+Roter Wichtel SETIXUL bearbeitet nun #36 
+ --> Niedliche Puppe [1.24](Spannung: 1.5)
+----------------------------------------
+Runde 4
+Roter Wichtel ARIBOR bearbeitet nun #37 
+ --> Interessantes Brettspiel [3.03](Spannung: 7.2)
+Blauer Wichtel VARUMA bearbeitet nun #38 
+ --> Zipfelige Muetze [4.46](Eleganz: 16)
+Roter Wichtel SETISETI bearbeitet nun #39 
+ --> Interessantes Brettspiel [8.01](Spannung: 19.2)
+Roter Wichtel SETIXUL bearbeitet nun #40 
+ --> Stacheliger Kaktus [4.73]
+Roter Wichtel ARIHATIXUL bearbeitet nun #41 
+ --> Niedliche Puppe [2.74](Spannung: 3.0)
+----------------------------------------
+Runde 5
+Blauer Wichtel HATIHATI bearbeitet nun #42 
+ --> Bequeme Hose [4.14](Eleganz: 12)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #43 
+ --> Dicker Pullover [2.73](Eleganz: 15)
+----------------------------------------
+Runde 6
+Roter Wichtel VARJOLA bearbeitet nun #44 
+ --> Interessantes Brettspiel [4.67](Spannung: 9.6)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #45 
+ --> Spannendes Buch [7.7]
+Gelber Wichtel CARUMANOR bearbeitet nun #46 
+ --> Spannendes Buch [19.17]
+Blauer Wichtel FRITAZ bearbeitet nun #47 
+ --> Stacheliger Kaktus [2.53]
+Gelber Wichtel LEROMI bearbeitet nun #48 
+ --> Aromatischer Tee [1.36](Gesund: Nein)
+----------------------------------------
+Runde 7
+Roter Wichtel IOTIDURZOTO bearbeitet nun #49 
+ --> Schoko-Nikolaus [1.03](Gesund: Nein)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #50 
+ --> Schoko-Nikolaus [0.51](Gesund: Ja)
+Roter Wichtel SETIXUL bearbeitet nun #51 
+ --> Lange Struempfe [1.2](Eleganz: 15)
+Roter Wichtel ARIHATIXUL bearbeitet nun #52 
+ --> Stacheliger Kaktus [20.86]
+----------------------------------------
+Runde 8
+Roter Wichtel IOTIDURZOTO bearbeitet nun #53 
+ --> Niedliche Puppe [7.78](Spannung: 10.5)
+Gelber Wichtel MUSETITAZ bearbeitet nun #54 
+ --> Interessantes Brettspiel [7.79](Spannung: 16.8)
+Blauer Wichtel NORBOR bearbeitet nun #55 
+ --> Spannendes Buch [9.54]
+Roter Wichtel ARIBOR bearbeitet nun #56 
+ --> Kuscheliger Schal [4.55](Eleganz: 17)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #57 
+ --> Spannendes Buch [11.11]
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #58 
+ --> Schnelles Auto [6.91]
+Roter Wichtel SETIXUL bearbeitet nun #59 
+ --> Knusprige Kekse [0.87](Gesund: Ja)
+----------------------------------------
+Runde 9
+Blauer Wichtel GEROSMU bearbeitet nun #60 
+ --> Aromatischer Tee [0.44](Gesund: Ja)
+Gelber Wichtel EORLNOR bearbeitet nun #61 
+ --> Knusprige Kekse [12.36](Gesund: Ja)
+Blauer Wichtel LEEORL bearbeitet nun #62 
+ --> Bequeme Hose [1.65](Eleganz: 12)
+Gelber Wichtel LEROMI bearbeitet nun #63 
+ --> Kuscheliger Schal [1.91](Eleganz: 17)
+Roter Wichtel SETIXUL bearbeitet nun #64 
+ --> Niedliche Puppe [5.87](Spannung: 7.5)
+----------------------------------------
+Runde 10
+Blauer Wichtel GEROSMU bearbeitet nun #65 
+ --> Schoko-Nikolaus [4.42](Gesund: Ja)
+Gelber Wichtel FRIJOLA bearbeitet nun #66 
+ --> Interessantes Brettspiel [3.66](Spannung: 7.2)
+----------------------------------------
+Runde 11
+Roter Wichtel VARJOLA bearbeitet nun #67 
+ --> Interessantes Brettspiel [5.37](Spannung: 12.0)
+Gelber Wichtel UMAHATI bearbeitet nun #68 
+ --> Bequeme Hose [0.9](Eleganz: 12)
+Roter Wichtel ARIBOR bearbeitet nun #69 
+ --> Bequeme Hose [4.3](Eleganz: 12)
+----------------------------------------
+Runde 12
+Blauer Wichtel TAZKOLE bearbeitet nun #70 
+ --> Dicker Pullover [0.64](Eleganz: 15)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #71 
+ --> Warme Socken [4.22](Eleganz: 12)
+Blauer Wichtel FRITAZ bearbeitet nun #72 
+ --> Warme Socken [2.49](Eleganz: 12)
+Blauer Wichtel VARUMA bearbeitet nun #73 
+ --> Dicker Pullover [4.69](Eleganz: 15)
+Roter Wichtel MUWEL bearbeitet nun #74 
+ --> Lange Struempfe [0.11](Eleganz: 15)
+----------------------------------------
+Runde 13
+Blauer Wichtel HATIHATI bearbeitet nun #75 
+ --> Niedliche Puppe [2.92](Spannung: 3.0)
+Blauer Wichtel GEROSMU bearbeitet nun #76 
+ --> Knusprige Kekse [5.04](Gesund: Nein)
+Blauer Wichtel XULVARBOR bearbeitet nun #77 
+ --> Stacheliger Kaktus [16.31]
+Roter Wichtel SETISETI bearbeitet nun #78 
+ --> Zipfelige Muetze [1.9](Eleganz: 16)
+Gelber Wichtel LEROMI bearbeitet nun #79 
+ --> Robuster Nussknacker [2.66]
+Gelber Wichtel EORLKOROMI bearbeitet nun #80 
+ --> Knusprige Kekse [3.52](Gesund: Nein)
+Roter Wichtel MUWEL bearbeitet nun #81 
+ --> Stacheliger Kaktus [7.42]
+----------------------------------------
+Runde 14
+Gelber Wichtel UMAHATI bearbeitet nun #82 
+ --> Stacheliger Kaktus [12.71]
+Blauer Wichtel LEEORL bearbeitet nun #83 
+ --> Knusprige Kekse [8.47](Gesund: Ja)
+Roter Wichtel ARIBOR bearbeitet nun #84 
+ --> Knusprige Kekse [11.72](Gesund: Nein)
+Roter Wichtel SETISETI bearbeitet nun #85 
+ --> Zipfelige Muetze [1.12](Eleganz: 16)
+Roter Wichtel SETIXUL bearbeitet nun #86 
+ --> Robuster Nussknacker [15.41]
+----------------------------------------
+Runde 15
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #87 
+ --> Stacheliger Kaktus [2.53]
+Roter Wichtel SETISETI bearbeitet nun #88 
+ --> Aromatischer Tee [13.92](Gesund: Nein)
+Gelber Wichtel FRIJOLA bearbeitet nun #89 
+ --> Schnelles Auto [12.72]
+----------------------------------------
+Runde 16
+Blauer Wichtel GEROSMU bearbeitet nun #90 
+ --> Robuster Nussknacker [19.25]
+Blauer Wichtel TAZKOLE bearbeitet nun #91 
+ --> Aromatischer Tee [12.7](Gesund: Ja)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #92 
+ --> Aromatischer Tee [11.81](Gesund: Nein)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #93 
+ --> Thermo-Ski-Unterwaesche [4.9](Eleganz: 23)
+----------------------------------------
+Runde 17
+Roter Wichtel VARJOLA bearbeitet nun #94 
+ --> Schoko-Nikolaus [10.94](Gesund: Ja)
+Blauer Wichtel XULLE bearbeitet nun #95 
+ --> Niedliche Puppe [9.4](Spannung: 13.5)
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #96 
+ --> Robuster Nussknacker [6.91]
+Gelber Wichtel MUSETITAZ bearbeitet nun #97 
+ --> Interessantes Brettspiel [9.36](Spannung: 21.6)
+Gelber Wichtel LEROMI bearbeitet nun #98 
+ --> Stacheliger Kaktus [16.27]
+----------------------------------------
+Runde 18
+Blauer Wichtel FRITAZ bearbeitet nun #99 
+ --> Schoko-Nikolaus [4.21](Gesund: Ja)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #100 
+ --> Warme Socken [2.73](Eleganz: 12)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #101 
+ --> Aromatischer Tee [11.46](Gesund: Nein)
+Gelber Wichtel EORLKOROMI bearbeitet nun #102 
+ --> Spannendes Buch [9.9]
+Gelber Wichtel SETILEFRI bearbeitet nun #103 
+ --> Schnelles Auto [21.61]
+Roter Wichtel MUWEL bearbeitet nun #104 
+ --> Niedliche Puppe [8.55](Spannung: 12.0)
+----------------------------------------
+Runde 19
+Blauer Wichtel HATIHATI bearbeitet nun #105 
+ --> Knusprige Kekse [1.7](Gesund: Nein)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #106 
+ --> Knusprige Kekse [8.03](Gesund: Ja)
+Blauer Wichtel LEEORL bearbeitet nun #107 
+ --> Dicker Pullover [3.6](Eleganz: 15)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #108 
+ --> Aromatischer Tee [6.06](Gesund: Ja)
+----------------------------------------
+Runde 20
+Blauer Wichtel HATIHATI bearbeitet nun #109 
+ --> Aromatischer Tee [5.38](Gesund: Nein)
+Roter Wichtel SETITAZARI bearbeitet nun #110 
+ --> Schoko-Nikolaus [3.54](Gesund: Nein)
+Blauer Wichtel VARUMA bearbeitet nun #111 
+ --> Aromatischer Tee [11.58](Gesund: Nein)
+----------------------------------------
+Runde 21
+Blauer Wichtel NORBOR bearbeitet nun #112 
+ --> Interessantes Brettspiel [8.12](Spannung: 19.2)
+Blauer Wichtel FRITAZ bearbeitet nun #113 
+ --> Stacheliger Kaktus [4.71]
+----------------------------------------
+Runde 22
+Roter Wichtel SETITAZARI bearbeitet nun #114 
+ --> Niedliche Puppe [5.53](Spannung: 7.5)
+----------------------------------------
+Runde 23
+Blauer Wichtel HATIHATI bearbeitet nun #115 
+ --> Knusprige Kekse [9.62](Gesund: Nein)
+Blauer Wichtel TAZKOLE bearbeitet nun #116 
+ --> Spannendes Buch [13.34]
+Gelber Wichtel EORLNOR bearbeitet nun #117 
+ --> Niedliche Puppe [7.49](Spannung: 10.5)
+----------------------------------------
+Runde 24
+Blauer Wichtel ARIXUL bearbeitet nun #118 
+ --> Schoko-Nikolaus [11.1](Gesund: Nein)
+Roter Wichtel ARIBOR bearbeitet nun #119 
+ --> Schoko-Nikolaus [8.32](Gesund: Ja)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #120 
+ --> Thermo-Ski-Unterwaesche [1.53](Eleganz: 23)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #121 
+ --> Spannendes Buch [2.29]
+----------------------------------------
+Runde 25
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #122 
+ --> Interessantes Brettspiel [5.58](Spannung: 12.0)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #123 
+ --> Schoko-Nikolaus [8.78](Gesund: Ja)
+----------------------------------------
+Runde 26
+Roter Wichtel VARJOLA bearbeitet nun #124 
+ --> Knusprige Kekse [0.69](Gesund: Ja)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #125 
+ --> Niedliche Puppe [6.31](Spannung: 9.0)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #126 
+ --> Rote Unterbuxe [0.48](Eleganz: 14)
+Blauer Wichtel LEEORL bearbeitet nun #127 
+ --> Schoko-Nikolaus [11.1](Gesund: Nein)
+Blauer Wichtel VARUMA bearbeitet nun #128 
+ --> Knusprige Kekse [14.21](Gesund: Ja)
+Roter Wichtel ARIHATIXUL bearbeitet nun #129 
+ --> Interessantes Brettspiel [0.02](Spannung: 0.0)
+----------------------------------------
+Runde 27
+Roter Wichtel VARJOLA bearbeitet nun #130 
+ --> Interessantes Brettspiel [9.45](Spannung: 21.6)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #131 
+ --> Bequeme Hose [2.74](Eleganz: 12)
+Gelber Wichtel CARUMANOR bearbeitet nun #132 
+ --> Bequeme Hose [4.41](Eleganz: 12)
+Roter Wichtel SETISETI bearbeitet nun #133 
+ --> Spannendes Buch [8.71]
+Roter Wichtel MUWEL bearbeitet nun #134 
+ --> Niedliche Puppe [1.52](Spannung: 1.5)
+Roter Wichtel ARIHATIXUL bearbeitet nun #135 
+ --> Schnelles Auto [10.03]
+----------------------------------------
+Runde 28
+Blauer Wichtel HATIHATI bearbeitet nun #136 
+ --> Stacheliger Kaktus [8.57]
+Roter Wichtel SETITAZARI bearbeitet nun #137 
+ --> Niedliche Puppe [7.82](Spannung: 10.5)
+Gelber Wichtel UMAHATI bearbeitet nun #138 
+ --> Robuster Nussknacker [17.34]
+Gelber Wichtel MUSETITAZ bearbeitet nun #139 
+ --> Warme Socken [4.89](Eleganz: 12)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #140 
+ --> Schoko-Nikolaus [12.87](Gesund: Ja)
+Roter Wichtel SETIXUL bearbeitet nun #141 
+ --> Schnelles Auto [4.08]
+----------------------------------------
+Runde 29
+Blauer Wichtel FRITAZ bearbeitet nun #142 
+ --> Stacheliger Kaktus [4.0]
+Gelber Wichtel FRIJOLA bearbeitet nun #143 
+ --> Warme Socken [1.48](Eleganz: 12)
+Gelber Wichtel EORLKOROMI bearbeitet nun #144 
+ --> Spannendes Buch [7.83]
+Roter Wichtel MUWEL bearbeitet nun #145 
+ --> Interessantes Brettspiel [3.85](Spannung: 7.2)
+----------------------------------------
+Runde 30
+Blauer Wichtel XULLE bearbeitet nun #146 
+ --> Rote Unterbuxe [3.82](Eleganz: 14)
+Blauer Wichtel ARIXUL bearbeitet nun #147 
+ --> Spannendes Buch [5.89]
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #148 
+ --> Knusprige Kekse [11.83](Gesund: Nein)
+----------------------------------------
+Runde 31
+Roter Wichtel ARIBOR bearbeitet nun #149 
+ --> Warme Socken [0.26](Eleganz: 12)
+Roter Wichtel SETIXUL bearbeitet nun #150 
+ --> Schnelles Auto [13.53]
+----------------------------------------
+Runde 32
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #151 
+ --> Niedliche Puppe [0.48](Spannung: 0.0)
+Gelber Wichtel EORLNOR bearbeitet nun #152 
+ --> Lange Struempfe [2.91](Eleganz: 15)
+Blauer Wichtel LEEORL bearbeitet nun #153 
+ --> Knusprige Kekse [2.3](Gesund: Ja)
+Roter Wichtel ARIBOR bearbeitet nun #154 
+ --> Interessantes Brettspiel [2.51](Spannung: 4.8)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #155 
+ --> Niedliche Puppe [2.02](Spannung: 3.0)
+----------------------------------------
+Runde 33
+Roter Wichtel IOTIDURZOTO bearbeitet nun #156 
+ --> Schnelles Auto [1.84]
+Blauer Wichtel XULVARBOR bearbeitet nun #157 
+ --> Rote Unterbuxe [4.62](Eleganz: 14)
+Blauer Wichtel NORBOR bearbeitet nun #158 
+ --> Stacheliger Kaktus [22.1]
+Gelber Wichtel FRIJOLA bearbeitet nun #159 
+ --> Niedliche Puppe [2.99](Spannung: 3.0)
+Roter Wichtel MUWEL bearbeitet nun #160 
+ --> Niedliche Puppe [7.49](Spannung: 10.5)
+----------------------------------------
+Runde 34
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #161 
+ --> Dicker Pullover [3.8](Eleganz: 15)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #162 
+ --> Spannendes Buch [16.23]
+Gelber Wichtel CARUMANOR bearbeitet nun #163 
+ --> Aromatischer Tee [4.01](Gesund: Ja)
+Blauer Wichtel LEEORL bearbeitet nun #164 
+ --> Stacheliger Kaktus [23.5]
+Roter Wichtel ARIBOR bearbeitet nun #165 
+ --> Zipfelige Muetze [4.46](Eleganz: 16)
+Blauer Wichtel VARUMA bearbeitet nun #166 
+ --> Rote Unterbuxe [0.79](Eleganz: 14)
+Roter Wichtel SETISETI bearbeitet nun #167 
+ --> Rote Unterbuxe [0.64](Eleganz: 14)
+----------------------------------------
+Runde 35
+Gelber Wichtel MUSETITAZ bearbeitet nun #168 
+ --> Aromatischer Tee [14.36](Gesund: Ja)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #169 
+ --> Dicker Pullover [0.08](Eleganz: 15)
+Roter Wichtel SETISETI bearbeitet nun #170 
+ --> Dicker Pullover [0.05](Eleganz: 15)
+Gelber Wichtel LEROMI bearbeitet nun #171 
+ --> Robuster Nussknacker [0.86]
+----------------------------------------
+Runde 36
+Roter Wichtel VARJOLA bearbeitet nun #172 
+ --> Zipfelige Muetze [2.49](Eleganz: 16)
+Roter Wichtel SETITAZARI bearbeitet nun #173 
+ --> Thermo-Ski-Unterwaesche [2.95](Eleganz: 23)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #174 
+ --> Schnelles Auto [15.62]
+Roter Wichtel SETISETI bearbeitet nun #175 
+ --> Kuscheliger Schal [3.68](Eleganz: 17)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #176 
+ --> Aromatischer Tee [1.03](Gesund: Nein)
+Roter Wichtel ARIHATIXUL bearbeitet nun #177 
+ --> Knusprige Kekse [9.93](Gesund: Nein)
+----------------------------------------
+Runde 37
+Roter Wichtel VARJOLA bearbeitet nun #178 
+ --> Bequeme Hose [3.21](Eleganz: 12)
+Blauer Wichtel XULLE bearbeitet nun #179 
+ --> Spannendes Buch [9.87]
+Roter Wichtel SETITAZARI bearbeitet nun #180 
+ --> Schnelles Auto [8.75]
+Gelber Wichtel EORLNOR bearbeitet nun #181 
+ --> Spannendes Buch [14.58]
+Blauer Wichtel FRITAZ bearbeitet nun #182 
+ --> Robuster Nussknacker [9.17]
+Roter Wichtel ARIBOR bearbeitet nun #183 
+ --> Stacheliger Kaktus [5.41]
+Roter Wichtel SETISETI bearbeitet nun #184 
+ --> Interessantes Brettspiel [1.41](Spannung: 2.4)
+Gelber Wichtel FRIJOLA bearbeitet nun #185 
+ --> Interessantes Brettspiel [8.01](Spannung: 19.2)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #186 
+ --> Interessantes Brettspiel [1.3](Spannung: 2.4)
+Gelber Wichtel LEROMI bearbeitet nun #187 
+ --> Niedliche Puppe [6.12](Spannung: 9.0)
+----------------------------------------
+Runde 38
+Blauer Wichtel VARUMA bearbeitet nun #188 
+ --> Interessantes Brettspiel [2.28](Spannung: 4.8)
+Gelber Wichtel EORLKOROMI bearbeitet nun #189 
+ --> Interessantes Brettspiel [8.56](Spannung: 19.2)
+----------------------------------------
+Runde 39
+Blauer Wichtel GEROSMU bearbeitet nun #190 
+ --> Interessantes Brettspiel [5.86](Spannung: 12.0)
+Roter Wichtel VARJOLA bearbeitet nun #191 
+ --> Stacheliger Kaktus [12.73]
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #192 
+ --> Schoko-Nikolaus [6.03](Gesund: Ja)
+Blauer Wichtel ARIXUL bearbeitet nun #193 
+ --> Robuster Nussknacker [3.14]
+Roter Wichtel SETISETI bearbeitet nun #194 
+ --> Zipfelige Muetze [4.46](Eleganz: 16)
+----------------------------------------
+Runde 40
+Blauer Wichtel HATIHATI bearbeitet nun #195 
+ --> Niedliche Puppe [9.06](Spannung: 13.5)
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #196 
+ --> Knusprige Kekse [14.72](Gesund: Ja)
+Blauer Wichtel TAZKOLE bearbeitet nun #197 
+ --> Thermo-Ski-Unterwaesche [3.34](Eleganz: 23)
+Gelber Wichtel CARUMANOR bearbeitet nun #198 
+ --> Niedliche Puppe [8.73](Spannung: 12.0)
+----------------------------------------
+Runde 41
+Blauer Wichtel XULVARBOR bearbeitet nun #199 
+ --> Schoko-Nikolaus [11.73](Gesund: Nein)
+Roter Wichtel ARIBOR bearbeitet nun #200 
+ --> Schoko-Nikolaus [12.47](Gesund: Ja)
+Gelber Wichtel SETILEFRI bearbeitet nun #201 
+ --> Rote Unterbuxe [4.86](Eleganz: 14)
+Roter Wichtel MUWEL bearbeitet nun #202 
+ --> Interessantes Brettspiel [7.87](Spannung: 16.8)
+----------------------------------------
+Runde 42
+Roter Wichtel SETISETI bearbeitet nun #203 
+ --> Dicker Pullover [0.12](Eleganz: 15)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #204 
+ --> Robuster Nussknacker [20.15]
+----------------------------------------
+Runde 43
+Roter Wichtel SETISETI bearbeitet nun #205 
+ --> Knusprige Kekse [4.1](Gesund: Ja)
+Roter Wichtel SETIXUL bearbeitet nun #206 
+ --> Niedliche Puppe [0.46](Spannung: 0.0)
+----------------------------------------
+Runde 44
+Roter Wichtel SETITAZARI bearbeitet nun #207 
+ --> Interessantes Brettspiel [4.7](Spannung: 9.6)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #208 
+ --> Lange Struempfe [4.85](Eleganz: 15)
+Blauer Wichtel VARUMA bearbeitet nun #209 
+ --> Robuster Nussknacker [1.51]
+Roter Wichtel SETIXUL bearbeitet nun #210 
+ --> Dicker Pullover [4.06](Eleganz: 15)
+Roter Wichtel ARIHATIXUL bearbeitet nun #211 
+ --> Schnelles Auto [14.89]
+----------------------------------------
+Runde 45
+Roter Wichtel SETISETI bearbeitet nun #212 
+ --> Niedliche Puppe [2.39](Spannung: 3.0)
+Gelber Wichtel LEROMI bearbeitet nun #213 
+ --> Knusprige Kekse [7.57](Gesund: Nein)
+----------------------------------------
+Runde 46
+Blauer Wichtel ARIXUL bearbeitet nun #214 
+ --> Robuster Nussknacker [3.8]
+----------------------------------------
+Runde 47
+Gelber Wichtel UMAHATI bearbeitet nun #215 
+ --> Robuster Nussknacker [11.92]
+Blauer Wichtel TAZKOLE bearbeitet nun #216 
+ --> Thermo-Ski-Unterwaesche [4.89](Eleganz: 23)
+Blauer Wichtel XULVARBOR bearbeitet nun #217 
+ --> Interessantes Brettspiel [3.96](Spannung: 7.2)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #218 
+ --> Knusprige Kekse [5.11](Gesund: Nein)
+Gelber Wichtel FRIJOLA bearbeitet nun #219 
+ --> Stacheliger Kaktus [15.24]
+Roter Wichtel SETIXUL bearbeitet nun #220 
+ --> Niedliche Puppe [0.3](Spannung: 0.0)
+----------------------------------------
+Runde 48
+Blauer Wichtel GEROSMU bearbeitet nun #221 
+ --> Rote Unterbuxe [2.39](Eleganz: 14)
+Roter Wichtel SETISETI bearbeitet nun #222 
+ --> Spannendes Buch [5.66]
+Roter Wichtel SETIXUL bearbeitet nun #223 
+ --> Spannendes Buch [2.46]
+Gelber Wichtel EORLKOROMI bearbeitet nun #224 
+ --> Rote Unterbuxe [2.74](Eleganz: 14)
+Gelber Wichtel SETILEFRI bearbeitet nun #225 
+ --> Kuscheliger Schal [0.63](Eleganz: 17)
+----------------------------------------
+Runde 49
+Roter Wichtel SETITAZARI bearbeitet nun #226 
+ --> Kuscheliger Schal [2.65](Eleganz: 17)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #227 
+ --> Bequeme Hose [2.04](Eleganz: 12)
+Blauer Wichtel VARUMA bearbeitet nun #228 
+ --> Spannendes Buch [23.63]
+Roter Wichtel UMAUMAIOTI bearbeitet nun #229 
+ --> Kuscheliger Schal [0.63](Eleganz: 17)
+Roter Wichtel SETIXUL bearbeitet nun #230 
+ --> Rote Unterbuxe [3.03](Eleganz: 14)
+Roter Wichtel MUWEL bearbeitet nun #231 
+ --> Interessantes Brettspiel [0.12](Spannung: 0.0)
+----------------------------------------
+Runde 50
+Roter Wichtel VARJOLA bearbeitet nun #232 
+ --> Warme Socken [0.55](Eleganz: 12)
+Blauer Wichtel XULLE bearbeitet nun #233 
+ --> Interessantes Brettspiel [0.86](Spannung: 0.0)
+Roter Wichtel SETITAZARI bearbeitet nun #234 
+ --> Aromatischer Tee [4.97](Gesund: Ja)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #235 
+ --> Stacheliger Kaktus [17.7]
+Gelber Wichtel CARUMANOR bearbeitet nun #236 
+ --> Aromatischer Tee [0.37](Gesund: Ja)
+Blauer Wichtel FRITAZ bearbeitet nun #237 
+ --> Niedliche Puppe [6.09](Spannung: 9.0)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #238 
+ --> Bequeme Hose [3.89](Eleganz: 12)
+Roter Wichtel MUWEL bearbeitet nun #239 
+ --> Interessantes Brettspiel [9.26](Spannung: 21.6)
+----------------------------------------
+Runde 51
+Roter Wichtel VARJOLA bearbeitet nun #240 
+ --> Bequeme Hose [2.64](Eleganz: 12)
+Gelber Wichtel MUSETITAZ bearbeitet nun #241 
+ --> Knusprige Kekse [8.15](Gesund: Ja)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #242 
+ --> Warme Socken [3.62](Eleganz: 12)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #243 
+ --> Rote Unterbuxe [0.67](Eleganz: 14)
+Roter Wichtel SETIXUL bearbeitet nun #244 
+ --> Thermo-Ski-Unterwaesche [2.25](Eleganz: 23)
+Gelber Wichtel SETILEFRI bearbeitet nun #245 
+ --> Knusprige Kekse [2.67](Gesund: Ja)
+----------------------------------------
+Runde 52
+Roter Wichtel VARJOLA bearbeitet nun #246 
+ --> Zipfelige Muetze [0.92](Eleganz: 16)
+Gelber Wichtel CARUMANOR bearbeitet nun #247 
+ --> Niedliche Puppe [5.03](Spannung: 7.5)
+Roter Wichtel ARIBOR bearbeitet nun #248 
+ --> Lange Struempfe [4.48](Eleganz: 15)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #249 
+ --> Knusprige Kekse [8.72](Gesund: Ja)
+Roter Wichtel SETISETI bearbeitet nun #250 
+ --> Interessantes Brettspiel [0.93](Spannung: 0.0)
+Roter Wichtel SETIXUL bearbeitet nun #251 
+ --> Knusprige Kekse [1.36](Gesund: Nein)
+----------------------------------------
+Runde 53
+Blauer Wichtel HATIHATI bearbeitet nun #252 
+ --> Niedliche Puppe [3.99](Spannung: 4.5)
+Roter Wichtel VARJOLA bearbeitet nun #253 
+ --> Zipfelige Muetze [0.93](Eleganz: 16)
+Roter Wichtel SETITAZARI bearbeitet nun #254 
+ --> Thermo-Ski-Unterwaesche [0.19](Eleganz: 23)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #255 
+ --> Knusprige Kekse [1.96](Gesund: Nein)
+Gelber Wichtel EORLNOR bearbeitet nun #256 
+ --> Rote Unterbuxe [4.51](Eleganz: 14)
+Blauer Wichtel ARIXUL bearbeitet nun #257 
+ --> Niedliche Puppe [7.84](Spannung: 10.5)
+Roter Wichtel SETISETI bearbeitet nun #258 
+ --> Schoko-Nikolaus [5.37](Gesund: Nein)
+Roter Wichtel SETIXUL bearbeitet nun #259 
+ --> Spannendes Buch [14.43]
+Gelber Wichtel EORLKOROMI bearbeitet nun #260 
+ --> Warme Socken [1.32](Eleganz: 12)
+----------------------------------------
+Runde 54
+Blauer Wichtel GEROSMU bearbeitet nun #261 
+ --> Schnelles Auto [11.9]
+Roter Wichtel VARJOLA bearbeitet nun #262 
+ --> Spannendes Buch [9.68]
+Blauer Wichtel XULLE bearbeitet nun #263 
+ --> Spannendes Buch [13.38]
+Roter Wichtel SETITAZARI bearbeitet nun #264 
+ --> Knusprige Kekse [14.71](Gesund: Ja)
+Blauer Wichtel XULVARBOR bearbeitet nun #265 
+ --> Stacheliger Kaktus [9.01]
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #266 
+ --> Lange Struempfe [3.58](Eleganz: 15)
+Gelber Wichtel LEROMI bearbeitet nun #267 
+ --> Stacheliger Kaktus [18.09]
+----------------------------------------
+Runde 55
+Blauer Wichtel TAZKOLE bearbeitet nun #268 
+ --> Spannendes Buch [9.03]
+Roter Wichtel ARIBOR bearbeitet nun #269 
+ --> Aromatischer Tee [8.25](Gesund: Ja)
+Gelber Wichtel SETILEFRI bearbeitet nun #270 
+ --> Dicker Pullover [1.76](Eleganz: 15)
+----------------------------------------
+Runde 56
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #271 
+ --> Schnelles Auto [22.48]
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #272 
+ --> Robuster Nussknacker [0.14]
+----------------------------------------
+Runde 57
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #273 
+ --> Interessantes Brettspiel [8.6](Spannung: 19.2)
+Roter Wichtel SETISETI bearbeitet nun #274 
+ --> Robuster Nussknacker [17.05]
+Gelber Wichtel EORLKOROMI bearbeitet nun #275 
+ --> Interessantes Brettspiel [4.15](Spannung: 9.6)
+Roter Wichtel ARIHATIXUL bearbeitet nun #276 
+ --> Schnelles Auto [6.95]
+----------------------------------------
+Runde 58
+Roter Wichtel UMAUMAIOTI bearbeitet nun #277 
+ --> Knusprige Kekse [8.44](Gesund: Ja)
+----------------------------------------
+Runde 59
+Gelber Wichtel CARUMANOR bearbeitet nun #278 
+ --> Schoko-Nikolaus [9.95](Gesund: Nein)
+Blauer Wichtel NORBOR bearbeitet nun #279 
+ --> Schnelles Auto [23.15]
+Gelber Wichtel SETILEFRI bearbeitet nun #280 
+ --> Zipfelige Muetze [4.25](Eleganz: 16)
+----------------------------------------
+Runde 60
+Blauer Wichtel HATIHATI bearbeitet nun #281 
+ --> Stacheliger Kaktus [20.01]
+Roter Wichtel VARJOLA bearbeitet nun #282 
+ --> Knusprige Kekse [9.0](Gesund: Nein)
+Gelber Wichtel UMAHATI bearbeitet nun #283 
+ --> Aromatischer Tee [3.01](Gesund: Nein)
+Gelber Wichtel EORLNOR bearbeitet nun #284 
+ --> Schoko-Nikolaus [7.26](Gesund: Nein)
+Blauer Wichtel FRITAZ bearbeitet nun #285 
+ --> Spannendes Buch [21.86]
+Roter Wichtel MUWEL bearbeitet nun #286 
+ --> Interessantes Brettspiel [6.65](Spannung: 14.4)
+----------------------------------------
+Runde 61
+Gelber Wichtel MUSETITAZ bearbeitet nun #287 
+ --> Warme Socken [2.85](Eleganz: 12)
+Blauer Wichtel LEEORL bearbeitet nun #288 
+ --> Niedliche Puppe [7.65](Spannung: 10.5)
+----------------------------------------
+Runde 62
+Roter Wichtel ARIBOR bearbeitet nun #289 
+ --> Dicker Pullover [3.41](Eleganz: 15)
+Roter Wichtel ARIHATIXUL bearbeitet nun #290 
+ --> Schnelles Auto [4.45]
+----------------------------------------
+Runde 63
+Gelber Wichtel EORLKOROMI bearbeitet nun #291 
+ --> Aromatischer Tee [0.8](Gesund: Ja)
+----------------------------------------
+Runde 64
+Blauer Wichtel ARIXUL bearbeitet nun #292 
+ --> Schnelles Auto [16.01]
+Roter Wichtel ARIBOR bearbeitet nun #293 
+ --> Rote Unterbuxe [4.25](Eleganz: 14)
+Gelber Wichtel FRIJOLA bearbeitet nun #294 
+ --> Niedliche Puppe [9.34](Spannung: 13.5)
+----------------------------------------
+Runde 65
+Gelber Wichtel UMAHATI bearbeitet nun #295 
+ --> Lange Struempfe [4.8](Eleganz: 15)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #296 
+ --> Niedliche Puppe [3.73](Spannung: 4.5)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #297 
+ --> Interessantes Brettspiel [4.9](Spannung: 9.6)
+Gelber Wichtel EORLKOROMI bearbeitet nun #298 
+ --> Knusprige Kekse [3.74](Gesund: Nein)
+Roter Wichtel ARIHATIXUL bearbeitet nun #299 
+ --> Schoko-Nikolaus [13.45](Gesund: Nein)
+----------------------------------------
+Runde 66
+Roter Wichtel SETITAZARI bearbeitet nun #300 
+ --> Zipfelige Muetze [2.14](Eleganz: 16)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #301 
+ --> Interessantes Brettspiel [5.09](Spannung: 12.0)
+Gelber Wichtel MUSETITAZ bearbeitet nun #302 
+ --> Spannendes Buch [12.25]
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #303 
+ --> Interessantes Brettspiel [7.88](Spannung: 16.8)
+Roter Wichtel SETIXUL bearbeitet nun #304 
+ --> Niedliche Puppe [7.56](Spannung: 10.5)
+Gelber Wichtel SETILEFRI bearbeitet nun #305 
+ --> Kuscheliger Schal [3.68](Eleganz: 17)
+----------------------------------------
+Runde 67
+Roter Wichtel SETITAZARI bearbeitet nun #306 
+ --> Spannendes Buch [23.37]
+Blauer Wichtel XULVARBOR bearbeitet nun #307 
+ --> Schnelles Auto [13.56]
+Roter Wichtel ARIBOR bearbeitet nun #308 
+ --> Schoko-Nikolaus [3.75](Gesund: Nein)
+Roter Wichtel MUWEL bearbeitet nun #309 
+ --> Knusprige Kekse [2.29](Gesund: Ja)
+----------------------------------------
+Runde 68
+Roter Wichtel VARJOLA bearbeitet nun #310 
+ --> Stacheliger Kaktus [6.27]
+Blauer Wichtel TAZKOLE bearbeitet nun #311 
+ --> Schoko-Nikolaus [13.33](Gesund: Nein)
+Roter Wichtel MUWEL bearbeitet nun #312 
+ --> Thermo-Ski-Unterwaesche [1.57](Eleganz: 23)
+----------------------------------------
+Runde 69
+Blauer Wichtel GEROSMU bearbeitet nun #313 
+ --> Zipfelige Muetze [0.23](Eleganz: 16)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #314 
+ --> Niedliche Puppe [9.97](Spannung: 13.5)
+Gelber Wichtel EORLNOR bearbeitet nun #315 
+ --> Thermo-Ski-Unterwaesche [2.49](Eleganz: 23)
+Roter Wichtel ARIBOR bearbeitet nun #316 
+ --> Rote Unterbuxe [2.91](Eleganz: 14)
+Roter Wichtel MUWEL bearbeitet nun #317 
+ --> Aromatischer Tee [9.08](Gesund: Nein)
+----------------------------------------
+Runde 70
+Gelber Wichtel CARUMANOR bearbeitet nun #318 
+ --> Interessantes Brettspiel [6.4](Spannung: 14.4)
+Roter Wichtel ARIBOR bearbeitet nun #319 
+ --> Interessantes Brettspiel [7.95](Spannung: 16.8)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #320 
+ --> Robuster Nussknacker [19.09]
+Gelber Wichtel EORLKOROMI bearbeitet nun #321 
+ --> Spannendes Buch [19.86]
+----------------------------------------
+Runde 71
+Blauer Wichtel XULLE bearbeitet nun #322 
+ --> Kuscheliger Schal [4.57](Eleganz: 17)
+----------------------------------------
+Runde 72
+Gelber Wichtel UMAHATI bearbeitet nun #323 
+ --> Stacheliger Kaktus [4.55]
+Roter Wichtel IOTIDURZOTO bearbeitet nun #324 
+ --> Stacheliger Kaktus [21.48]
+Blauer Wichtel LEEORL bearbeitet nun #325 
+ --> Aromatischer Tee [9.74](Gesund: Nein)
+Gelber Wichtel SETILEFRI bearbeitet nun #326 
+ --> Interessantes Brettspiel [8.48](Spannung: 19.2)
+----------------------------------------
+Runde 73
+Blauer Wichtel GEROSMU bearbeitet nun #327 
+ --> Zipfelige Muetze [1.32](Eleganz: 16)
+Roter Wichtel VARJOLA bearbeitet nun #328 
+ --> Schnelles Auto [16.27]
+Roter Wichtel SETISETI bearbeitet nun #329 
+ --> Schoko-Nikolaus [6.63](Gesund: Ja)
+----------------------------------------
+Runde 74
+Gelber Wichtel EORLNOR bearbeitet nun #330 
+ --> Niedliche Puppe [8.14](Spannung: 12.0)
+Gelber Wichtel LEROMI bearbeitet nun #331 
+ --> Schoko-Nikolaus [14.61](Gesund: Ja)
+Roter Wichtel SETIXUL bearbeitet nun #332 
+ --> Interessantes Brettspiel [6.72](Spannung: 14.4)
+----------------------------------------
+Runde 75
+Blauer Wichtel TAZKOLE bearbeitet nun #333 
+ --> Lange Struempfe [2.85](Eleganz: 15)
+Gelber Wichtel FRIJOLA bearbeitet nun #334 
+ --> Dicker Pullover [2.41](Eleganz: 15)
+----------------------------------------
+Runde 76
+Blauer Wichtel VARUMA bearbeitet nun #335 
+ --> Schoko-Nikolaus [8.86](Gesund: Ja)
+----------------------------------------
+Runde 77
+Blauer Wichtel LEEORL bearbeitet nun #336 
+ --> Kuscheliger Schal [1.57](Eleganz: 17)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #337 
+ --> Aromatischer Tee [2.69](Gesund: Ja)
+Roter Wichtel MUWEL bearbeitet nun #338 
+ --> Interessantes Brettspiel [0.92](Spannung: 0.0)
+Roter Wichtel ARIHATIXUL bearbeitet nun #339 
+ --> Knusprige Kekse [2.28](Gesund: Ja)
+----------------------------------------
+Runde 78
+Blauer Wichtel GEROSMU bearbeitet nun #340 
+ --> Spannendes Buch [9.15]
+Gelber Wichtel UMAHATI bearbeitet nun #341 
+ --> Interessantes Brettspiel [3.81](Spannung: 7.2)
+Gelber Wichtel CARUMANOR bearbeitet nun #342 
+ --> Niedliche Puppe [3.29](Spannung: 4.5)
+Roter Wichtel ARIBOR bearbeitet nun #343 
+ --> Zipfelige Muetze [0.35](Eleganz: 16)
+Roter Wichtel SETISETI bearbeitet nun #344 
+ --> Knusprige Kekse [7.88](Gesund: Nein)
+Roter Wichtel MUWEL bearbeitet nun #345 
+ --> Niedliche Puppe [1.13](Spannung: 1.5)
+Roter Wichtel ARIHATIXUL bearbeitet nun #346 
+ --> Lange Struempfe [2.83](Eleganz: 15)
+----------------------------------------
+Runde 79
+Blauer Wichtel XULLE bearbeitet nun #347 
+ --> Thermo-Ski-Unterwaesche [1.0](Eleganz: 23)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #348 
+ --> Niedliche Puppe [1.1](Spannung: 1.5)
+Roter Wichtel ARIBOR bearbeitet nun #349 
+ --> Schnelles Auto [11.49]
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #350 
+ --> Interessantes Brettspiel [8.64](Spannung: 19.2)
+Roter Wichtel ARIHATIXUL bearbeitet nun #351 
+ --> Stacheliger Kaktus [15.4]
+----------------------------------------
+Runde 80
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #352 
+ --> Lange Struempfe [4.91](Eleganz: 15)
+Gelber Wichtel MUSETITAZ bearbeitet nun #353 
+ --> Zipfelige Muetze [3.42](Eleganz: 16)
+Gelber Wichtel FRIJOLA bearbeitet nun #354 
+ --> Aromatischer Tee [10.98](Gesund: Ja)
+Roter Wichtel MUWEL bearbeitet nun #355 
+ --> Interessantes Brettspiel [4.11](Spannung: 9.6)
+----------------------------------------
+Runde 81
+Blauer Wichtel TAZKOLE bearbeitet nun #356 
+ --> Zipfelige Muetze [0.68](Eleganz: 16)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #357 
+ --> Robuster Nussknacker [23.85]
+Blauer Wichtel VARUMA bearbeitet nun #358 
+ --> Spannendes Buch [3.57]
+Roter Wichtel SETIXUL bearbeitet nun #359 
+ --> Lange Struempfe [3.84](Eleganz: 15)
+----------------------------------------
+Runde 82
+Blauer Wichtel LEEORL bearbeitet nun #360 
+ --> Lange Struempfe [2.73](Eleganz: 15)
+Gelber Wichtel SETILEFRI bearbeitet nun #361 
+ --> Spannendes Buch [12.02]
+----------------------------------------
+Runde 83
+Gelber Wichtel UMAHATI bearbeitet nun #362 
+ --> Rote Unterbuxe [3.81](Eleganz: 14)
+Gelber Wichtel CARUMANOR bearbeitet nun #363 
+ --> Schnelles Auto [11.77]
+Roter Wichtel SETIXUL bearbeitet nun #364 
+ --> Stacheliger Kaktus [3.27]
+----------------------------------------
+Runde 84
+Blauer Wichtel HATIHATI bearbeitet nun #365 
+ --> Niedliche Puppe [7.62](Spannung: 10.5)
+Blauer Wichtel XULLE bearbeitet nun #366 
+ --> Niedliche Puppe [4.84](Spannung: 6.0)
+Blauer Wichtel XULVARBOR bearbeitet nun #367 
+ --> Aromatischer Tee [6.14](Gesund: Ja)
+Gelber Wichtel EORLNOR bearbeitet nun #368 
+ --> Interessantes Brettspiel [4.39](Spannung: 9.6)
+Blauer Wichtel ARIXUL bearbeitet nun #369 
+ --> Knusprige Kekse [8.68](Gesund: Ja)
+Roter Wichtel SETISETI bearbeitet nun #370 
+ --> Knusprige Kekse [9.46](Gesund: Nein)
+----------------------------------------
+Runde 85
+Blauer Wichtel TAZKOLE bearbeitet nun #371 
+ --> Lange Struempfe [3.83](Eleganz: 15)
+Blauer Wichtel FRITAZ bearbeitet nun #372 
+ --> Robuster Nussknacker [20.54]
+Roter Wichtel SETIXUL bearbeitet nun #373 
+ --> Stacheliger Kaktus [6.05]
+Roter Wichtel MUWEL bearbeitet nun #374 
+ --> Knusprige Kekse [10.09](Gesund: Ja)
+----------------------------------------
+Runde 86
+Gelber Wichtel MUSETITAZ bearbeitet nun #375 
+ --> Thermo-Ski-Unterwaesche [4.99](Eleganz: 23)
+Blauer Wichtel NORBOR bearbeitet nun #376 
+ --> Interessantes Brettspiel [2.5](Spannung: 4.8)
+----------------------------------------
+Runde 87
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #377 
+ --> Niedliche Puppe [9.64](Spannung: 13.5)
+----------------------------------------
+Runde 88
+Roter Wichtel VARJOLA bearbeitet nun #378 
+ --> Schnelles Auto [20.3]
+Blauer Wichtel XULVARBOR bearbeitet nun #379 
+ --> Kuscheliger Schal [2.21](Eleganz: 17)
+Blauer Wichtel LEEORL bearbeitet nun #380 
+ --> Spannendes Buch [5.39]
+Roter Wichtel ARIBOR bearbeitet nun #381 
+ --> Aromatischer Tee [5.6](Gesund: Nein)
+Blauer Wichtel VARUMA bearbeitet nun #382 
+ --> Schoko-Nikolaus [0.61](Gesund: Ja)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #383 
+ --> Spannendes Buch [0.9]
+----------------------------------------
+Runde 89
+Roter Wichtel SETITAZARI bearbeitet nun #384 
+ --> Niedliche Puppe [0.31](Spannung: 0.0)
+Gelber Wichtel UMAHATI bearbeitet nun #385 
+ --> Dicker Pullover [3.87](Eleganz: 15)
+Blauer Wichtel ARIXUL bearbeitet nun #386 
+ --> Robuster Nussknacker [0.95]
+Blauer Wichtel VARUMA bearbeitet nun #387 
+ --> Rote Unterbuxe [0.29](Eleganz: 14)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #388 
+ --> Stacheliger Kaktus [6.89]
+----------------------------------------
+Runde 90
+Roter Wichtel SETITAZARI bearbeitet nun #389 
+ --> Schnelles Auto [20.16]
+Gelber Wichtel EORLNOR bearbeitet nun #390 
+ --> Warme Socken [0.91](Eleganz: 12)
+Gelber Wichtel LEROMI bearbeitet nun #391 
+ --> Aromatischer Tee [11.82](Gesund: Nein)
+Roter Wichtel SETIXUL bearbeitet nun #392 
+ --> Knusprige Kekse [14.45](Gesund: Ja)
+----------------------------------------
+Runde 91
+Blauer Wichtel GEROSMU bearbeitet nun #393 
+ --> Schoko-Nikolaus [1.12](Gesund: Nein)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #394 
+ --> Knusprige Kekse [9.92](Gesund: Nein)
+Gelber Wichtel EORLKOROMI bearbeitet nun #395 
+ --> Bequeme Hose [4.78](Eleganz: 12)
+----------------------------------------
+Runde 92
+Blauer Wichtel GEROSMU bearbeitet nun #396 
+ --> Aromatischer Tee [12.86](Gesund: Ja)
+Blauer Wichtel XULLE bearbeitet nun #397 
+ --> Niedliche Puppe [1.78](Spannung: 1.5)
+Blauer Wichtel TAZKOLE bearbeitet nun #398 
+ --> Interessantes Brettspiel [6.05](Spannung: 14.4)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #399 
+ --> Niedliche Puppe [5.36](Spannung: 7.5)
+Blauer Wichtel NORBOR bearbeitet nun #400 
+ --> Stacheliger Kaktus [17.07]
+Roter Wichtel ARIBOR bearbeitet nun #401 
+ --> Interessantes Brettspiel [9.64](Spannung: 21.6)
+Roter Wichtel SETISETI bearbeitet nun #402 
+ --> Robuster Nussknacker [13.82]
+Gelber Wichtel FRIJOLA bearbeitet nun #403 
+ --> Aromatischer Tee [0.06](Gesund: Ja)
+----------------------------------------
+Runde 93
+Gelber Wichtel MUSETITAZ bearbeitet nun #404 
+ --> Knusprige Kekse [8.33](Gesund: Ja)
+Gelber Wichtel EORLNOR bearbeitet nun #405 
+ --> Bequeme Hose [2.84](Eleganz: 12)
+Blauer Wichtel ARIXUL bearbeitet nun #406 
+ --> Robuster Nussknacker [12.67]
+Blauer Wichtel VARUMA bearbeitet nun #407 
+ --> Interessantes Brettspiel [3.59](Spannung: 7.2)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #408 
+ --> Robuster Nussknacker [5.98]
+Roter Wichtel ARIHATIXUL bearbeitet nun #409 
+ --> Niedliche Puppe [2.24](Spannung: 3.0)
+----------------------------------------
+Runde 94
+Blauer Wichtel XULVARBOR bearbeitet nun #410 
+ --> Rote Unterbuxe [3.51](Eleganz: 14)
+Gelber Wichtel FRIJOLA bearbeitet nun #411 
+ --> Spannendes Buch [5.01]
+Roter Wichtel MUWEL bearbeitet nun #412 
+ --> Niedliche Puppe [9.22](Spannung: 13.5)
+----------------------------------------
+Runde 95
+Blauer Wichtel HATIHATI bearbeitet nun #413 
+ --> Interessantes Brettspiel [7.7](Spannung: 16.8)
+Gelber Wichtel UMAHATI bearbeitet nun #414 
+ --> Robuster Nussknacker [6.03]
+----------------------------------------
+Runde 96
+Gelber Wichtel CARUMANOR bearbeitet nun #415 
+ --> Stacheliger Kaktus [19.15]
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #416 
+ --> Interessantes Brettspiel [1.6](Spannung: 2.4)
+Gelber Wichtel SETILEFRI bearbeitet nun #417 
+ --> Robuster Nussknacker [16.75]
+Roter Wichtel ARIHATIXUL bearbeitet nun #418 
+ --> Schoko-Nikolaus [9.13](Gesund: Nein)
+----------------------------------------
+Runde 97
+Blauer Wichtel XULLE bearbeitet nun #419 
+ --> Niedliche Puppe [3.08](Spannung: 4.5)
+Blauer Wichtel LEEORL bearbeitet nun #420 
+ --> Niedliche Puppe [9.8](Spannung: 13.5)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #421 
+ --> Niedliche Puppe [3.57](Spannung: 4.5)
+----------------------------------------
+Runde 98
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #422 
+ --> Stacheliger Kaktus [17.08]
+Roter Wichtel IOTIDURZOTO bearbeitet nun #423 
+ --> Niedliche Puppe [4.76](Spannung: 6.0)
+Gelber Wichtel EORLNOR bearbeitet nun #424 
+ --> Spannendes Buch [20.68]
+Gelber Wichtel EORLKOROMI bearbeitet nun #425 
+ --> Aromatischer Tee [7.33](Gesund: Nein)
+----------------------------------------
+Runde 99
+Blauer Wichtel GEROSMU bearbeitet nun #426 
+ --> Schoko-Nikolaus [11.82](Gesund: Nein)
+----------------------------------------
+Runde 100
+Blauer Wichtel VARUMA bearbeitet nun #427 
+ --> Zipfelige Muetze [3.83](Eleganz: 16)
+----------------------------------------
+Runde 101
+Blauer Wichtel XULVARBOR bearbeitet nun #428 
+ --> Schoko-Nikolaus [8.41](Gesund: Ja)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #429 
+ --> Kuscheliger Schal [4.96](Eleganz: 17)
+Gelber Wichtel FRIJOLA bearbeitet nun #430 
+ --> Aromatischer Tee [11.02](Gesund: Nein)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #431 
+ --> Schoko-Nikolaus [9.16](Gesund: Nein)
+----------------------------------------
+Runde 102
+Blauer Wichtel TAZKOLE bearbeitet nun #432 
+ --> Spannendes Buch [12.72]
+Roter Wichtel ARIBOR bearbeitet nun #433 
+ --> Aromatischer Tee [1.11](Gesund: Nein)
+----------------------------------------
+Runde 103
+Gelber Wichtel UMAHATI bearbeitet nun #434 
+ --> Warme Socken [3.4](Eleganz: 12)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #435 
+ --> Aromatischer Tee [10.85](Gesund: Ja)
+Gelber Wichtel MUSETITAZ bearbeitet nun #436 
+ --> Schnelles Auto [11.22]
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #437 
+ --> Niedliche Puppe [8.5](Spannung: 12.0)
+Roter Wichtel ARIBOR bearbeitet nun #438 
+ --> Dicker Pullover [0.31](Eleganz: 15)
+Gelber Wichtel LEROMI bearbeitet nun #439 
+ --> Interessantes Brettspiel [3.33](Spannung: 7.2)
+Roter Wichtel SETIXUL bearbeitet nun #440 
+ --> Knusprige Kekse [1.48](Gesund: Nein)
+----------------------------------------
+Runde 104
+Blauer Wichtel XULLE bearbeitet nun #441 
+ --> Zipfelige Muetze [2.89](Eleganz: 16)
+Roter Wichtel ARIBOR bearbeitet nun #442 
+ --> Lange Struempfe [4.77](Eleganz: 15)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #443 
+ --> Kuscheliger Schal [4.19](Eleganz: 17)
+Roter Wichtel SETISETI bearbeitet nun #444 
+ --> Stacheliger Kaktus [10.52]
+Roter Wichtel SETIXUL bearbeitet nun #445 
+ --> Schnelles Auto [0.45]
+Roter Wichtel MUWEL bearbeitet nun #446 
+ --> Stacheliger Kaktus [0.22]
+Roter Wichtel ARIHATIXUL bearbeitet nun #447 
+ --> Schoko-Nikolaus [3.41](Gesund: Nein)
+----------------------------------------
+Runde 105
+Blauer Wichtel GEROSMU bearbeitet nun #448 
+ --> Rote Unterbuxe [0.19](Eleganz: 14)
+Roter Wichtel SETIXUL bearbeitet nun #449 
+ --> Schoko-Nikolaus [14.02](Gesund: Ja)
+Roter Wichtel MUWEL bearbeitet nun #450 
+ --> Knusprige Kekse [0.47](Gesund: Ja)
+----------------------------------------
+Runde 106
+Blauer Wichtel HATIHATI bearbeitet nun #451 
+ --> Interessantes Brettspiel [3.89](Spannung: 7.2)
+Blauer Wichtel XULVARBOR bearbeitet nun #452 
+ --> Schoko-Nikolaus [13.43](Gesund: Nein)
+Roter Wichtel ARIBOR bearbeitet nun #453 
+ --> Knusprige Kekse [14.75](Gesund: Ja)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #454 
+ --> Niedliche Puppe [5.73](Spannung: 7.5)
+Roter Wichtel MUWEL bearbeitet nun #455 
+ --> Robuster Nussknacker [22.6]
+Roter Wichtel ARIHATIXUL bearbeitet nun #456 
+ --> Schnelles Auto [9.25]
+----------------------------------------
+Runde 107
+Roter Wichtel VARJOLA bearbeitet nun #457 
+ --> Knusprige Kekse [14.65](Gesund: Ja)
+Blauer Wichtel VARUMA bearbeitet nun #458 
+ --> Niedliche Puppe [7.68](Spannung: 10.5)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #459 
+ --> Rote Unterbuxe [2.57](Eleganz: 14)
+Gelber Wichtel EORLKOROMI bearbeitet nun #460 
+ --> Aromatischer Tee [6.96](Gesund: Ja)
+----------------------------------------
+Runde 108
+Roter Wichtel UMAUMAIOTI bearbeitet nun #461 
+ --> Stacheliger Kaktus [10.01]
+Gelber Wichtel LEROMI bearbeitet nun #462 
+ --> Niedliche Puppe [6.34](Spannung: 9.0)
+----------------------------------------
+Runde 109
+Blauer Wichtel GEROSMU bearbeitet nun #463 
+ --> Kuscheliger Schal [3.87](Eleganz: 17)
+Roter Wichtel SETITAZARI bearbeitet nun #464 
+ --> Niedliche Puppe [8.48](Spannung: 12.0)
+Gelber Wichtel UMAHATI bearbeitet nun #465 
+ --> Niedliche Puppe [1.19](Spannung: 1.5)
+Blauer Wichtel ARIXUL bearbeitet nun #466 
+ --> Spannendes Buch [9.61]
+Blauer Wichtel FRITAZ bearbeitet nun #467 
+ --> Niedliche Puppe [8.03](Spannung: 12.0)
+----------------------------------------
+Runde 110
+Blauer Wichtel XULLE bearbeitet nun #468 
+ --> Niedliche Puppe [9.55](Spannung: 13.5)
+Blauer Wichtel LEEORL bearbeitet nun #469 
+ --> Niedliche Puppe [6.79](Spannung: 9.0)
+----------------------------------------
+Runde 111
+----------------------------------------
+Runde 112
+Gelber Wichtel UMAHATI bearbeitet nun #470 
+ --> Schnelles Auto [11.6]
+Roter Wichtel IOTIDURZOTO bearbeitet nun #471 
+ --> Rote Unterbuxe [0.63](Eleganz: 14)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #472 
+ --> Spannendes Buch [1.26]
+----------------------------------------
+Runde 113
+Blauer Wichtel HATIHATI bearbeitet nun #473 
+ --> Niedliche Puppe [0.66](Spannung: 0.0)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #474 
+ --> Schoko-Nikolaus [3.09](Gesund: Nein)
+Blauer Wichtel XULVARBOR bearbeitet nun #475 
+ --> Warme Socken [0.92](Eleganz: 12)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #476 
+ --> Stacheliger Kaktus [16.52]
+Blauer Wichtel NORBOR bearbeitet nun #477 
+ --> Rote Unterbuxe [4.39](Eleganz: 14)
+Roter Wichtel SETISETI bearbeitet nun #478 
+ --> Aromatischer Tee [5.13](Gesund: Nein)
+----------------------------------------
+Runde 114
+Roter Wichtel IOTIDURZOTO bearbeitet nun #479 
+ --> Interessantes Brettspiel [6.87](Spannung: 14.4)
+Gelber Wichtel FRIJOLA bearbeitet nun #480 
+ --> Niedliche Puppe [7.43](Spannung: 10.5)
+Gelber Wichtel SETILEFRI bearbeitet nun #481 
+ --> Lange Struempfe [3.78](Eleganz: 15)
+Roter Wichtel ARIHATIXUL bearbeitet nun #482 
+ --> Niedliche Puppe [6.69](Spannung: 9.0)
+----------------------------------------
+Runde 115
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #483 
+ --> Stacheliger Kaktus [14.47]
+Gelber Wichtel EORLKOROMI bearbeitet nun #484 
+ --> Spannendes Buch [12.64]
+----------------------------------------
+Runde 116
+Blauer Wichtel GEROSMU bearbeitet nun #485 
+ --> Niedliche Puppe [0.59](Spannung: 0.0)
+Gelber Wichtel MUSETITAZ bearbeitet nun #486 
+ --> Aromatischer Tee [13.71](Gesund: Nein)
+Gelber Wichtel LEROMI bearbeitet nun #487 
+ --> Interessantes Brettspiel [1.88](Spannung: 2.4)
+----------------------------------------
+Runde 117
+Blauer Wichtel HATIHATI bearbeitet nun #488 
+ --> Rote Unterbuxe [3.74](Eleganz: 14)
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #489 
+ --> Dicker Pullover [1.43](Eleganz: 15)
+Blauer Wichtel XULVARBOR bearbeitet nun #490 
+ --> Schoko-Nikolaus [8.97](Gesund: Ja)
+Gelber Wichtel CARUMANOR bearbeitet nun #491 
+ --> Robuster Nussknacker [5.32]
+Roter Wichtel UMAUMAIOTI bearbeitet nun #492 
+ --> Schnelles Auto [4.19]
+Roter Wichtel SETISETI bearbeitet nun #493 
+ --> Stacheliger Kaktus [0.62]
+Roter Wichtel SETIXUL bearbeitet nun #494 
+ --> Rote Unterbuxe [1.08](Eleganz: 14)
+----------------------------------------
+Runde 118
+Roter Wichtel SETITAZARI bearbeitet nun #495 
+ --> Kuscheliger Schal [2.67](Eleganz: 17)
+Blauer Wichtel TAZKOLE bearbeitet nun #496 
+ --> Knusprige Kekse [1.88](Gesund: Nein)
+Blauer Wichtel VARUMA bearbeitet nun #497 
+ --> Robuster Nussknacker [9.41]
+Roter Wichtel SETISETI bearbeitet nun #498 
+ --> Thermo-Ski-Unterwaesche [3.0](Eleganz: 23)
+Roter Wichtel SETIXUL bearbeitet nun #499 
+ --> Interessantes Brettspiel [5.48](Spannung: 12.0)
+----------------------------------------
+Runde 119
+Roter Wichtel SETITAZARI bearbeitet nun #500 
+ --> Schoko-Nikolaus [2.1](Gesund: Ja)
+Blauer Wichtel TAZKOLE bearbeitet nun #501 
+ --> Robuster Nussknacker [14.59]
+Roter Wichtel ARIBOR bearbeitet nun #502 
+ --> Schoko-Nikolaus [14.52](Gesund: Ja)
+Roter Wichtel SETISETI bearbeitet nun #503 
+ --> Dicker Pullover [3.07](Eleganz: 15)
+Gelber Wichtel LEROMI bearbeitet nun #504 
+ --> Interessantes Brettspiel [4.42](Spannung: 9.6)
+----------------------------------------
+Runde 120
+Blauer Wichtel GEROSMU bearbeitet nun #505 
+ --> Interessantes Brettspiel [5.37](Spannung: 12.0)
+Roter Wichtel VARJOLA bearbeitet nun #506 
+ --> Thermo-Ski-Unterwaesche [4.58](Eleganz: 23)
+Roter Wichtel SETITAZARI bearbeitet nun #507 
+ --> Knusprige Kekse [7.99](Gesund: Nein)
+Gelber Wichtel EORLNOR bearbeitet nun #508 
+ --> Spannendes Buch [8.41]
+Blauer Wichtel LEEORL bearbeitet nun #509 
+ --> Knusprige Kekse [12.36](Gesund: Ja)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #510 
+ --> Stacheliger Kaktus [14.62]
+Gelber Wichtel SETILEFRI bearbeitet nun #511 
+ --> Bequeme Hose [0.4](Eleganz: 12)
+----------------------------------------
+Runde 121
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #512 
+ --> Niedliche Puppe [7.97](Spannung: 10.5)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #513 
+ --> Spannendes Buch [0.29]
+Blauer Wichtel NORBOR bearbeitet nun #514 
+ --> Stacheliger Kaktus [1.64]
+Blauer Wichtel FRITAZ bearbeitet nun #515 
+ --> Schoko-Nikolaus [7.19](Gesund: Nein)
+Roter Wichtel SETISETI bearbeitet nun #516 
+ --> Schoko-Nikolaus [0.46](Gesund: Ja)
+Roter Wichtel ARIHATIXUL bearbeitet nun #517 
+ --> Dicker Pullover [2.39](Eleganz: 15)
+----------------------------------------
+Runde 122
+Roter Wichtel IOTIDURZOTO bearbeitet nun #518 
+ --> Spannendes Buch [5.04]
+Blauer Wichtel XULVARBOR bearbeitet nun #519 
+ --> Warme Socken [4.34](Eleganz: 12)
+Blauer Wichtel ARIXUL bearbeitet nun #520 
+ --> Interessantes Brettspiel [6.96](Spannung: 14.4)
+Roter Wichtel SETISETI bearbeitet nun #521 
+ --> Schnelles Auto [0.6]
+Roter Wichtel ARIHATIXUL bearbeitet nun #522 
+ --> Rote Unterbuxe [4.09](Eleganz: 14)
+----------------------------------------
+Runde 123
+Roter Wichtel VARJOLA bearbeitet nun #523 
+ --> Schnelles Auto [1.47]
+Blauer Wichtel XULLE bearbeitet nun #524 
+ --> Spannendes Buch [7.94]
+Roter Wichtel SETISETI bearbeitet nun #525 
+ --> Schoko-Nikolaus [14.92](Gesund: Ja)
+Gelber Wichtel FRIJOLA bearbeitet nun #526 
+ --> Dicker Pullover [2.82](Eleganz: 15)
+Gelber Wichtel SETILEFRI bearbeitet nun #527 
+ --> Warme Socken [1.41](Eleganz: 12)
+----------------------------------------
+Runde 124
+Blauer Wichtel HATIHATI bearbeitet nun #528 
+ --> Schoko-Nikolaus [6.03](Gesund: Ja)
+Roter Wichtel VARJOLA bearbeitet nun #529 
+ --> Dicker Pullover [4.13](Eleganz: 15)
+Gelber Wichtel CARUMANOR bearbeitet nun #530 
+ --> Niedliche Puppe [4.53](Spannung: 6.0)
+Roter Wichtel SETIXUL bearbeitet nun #531 
+ --> Thermo-Ski-Unterwaesche [1.37](Eleganz: 23)
+----------------------------------------
+Runde 125
+Gelber Wichtel UMAHATI bearbeitet nun #532 
+ --> Schoko-Nikolaus [6.01](Gesund: Ja)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #533 
+ --> Schoko-Nikolaus [11.71](Gesund: Nein)
+Blauer Wichtel FRITAZ bearbeitet nun #534 
+ --> Knusprige Kekse [3.49](Gesund: Nein)
+Gelber Wichtel LEROMI bearbeitet nun #535 
+ --> Aromatischer Tee [5.16](Gesund: Nein)
+Roter Wichtel SETIXUL bearbeitet nun #536 
+ --> Stacheliger Kaktus [1.01]
+Roter Wichtel MUWEL bearbeitet nun #537 
+ --> Warme Socken [4.32](Eleganz: 12)
+Roter Wichtel ARIHATIXUL bearbeitet nun #538 
+ --> Schoko-Nikolaus [3.0](Gesund: Nein)
+----------------------------------------
+Runde 126
+Roter Wichtel SETITAZARI bearbeitet nun #539 
+ --> Schoko-Nikolaus [8.57](Gesund: Ja)
+Blauer Wichtel NORBOR bearbeitet nun #540 
+ --> Interessantes Brettspiel [4.21](Spannung: 9.6)
+Roter Wichtel SETIXUL bearbeitet nun #541 
+ --> Aromatischer Tee [11.38](Gesund: Nein)
+----------------------------------------
+Runde 127
+Roter Wichtel VARJOLA bearbeitet nun #542 
+ --> Niedliche Puppe [6.59](Spannung: 9.0)
+Blauer Wichtel LEEORL bearbeitet nun #543 
+ --> Interessantes Brettspiel [8.94](Spannung: 19.2)
+Blauer Wichtel FRITAZ bearbeitet nun #544 
+ --> Schoko-Nikolaus [5.65](Gesund: Nein)
+Gelber Wichtel SETILEFRI bearbeitet nun #545 
+ --> Knusprige Kekse [5.49](Gesund: Nein)
+Roter Wichtel ARIHATIXUL bearbeitet nun #546 
+ --> Aromatischer Tee [9.75](Gesund: Nein)
+----------------------------------------
+Runde 128
+Blauer Wichtel HATIHATI bearbeitet nun #547 
+ --> Rote Unterbuxe [1.44](Eleganz: 14)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #548 
+ --> Knusprige Kekse [14.37](Gesund: Ja)
+Gelber Wichtel FRIJOLA bearbeitet nun #549 
+ --> Lange Struempfe [4.13](Eleganz: 15)
+Roter Wichtel MUWEL bearbeitet nun #550 
+ --> Niedliche Puppe [6.09](Spannung: 9.0)
+----------------------------------------
+Runde 129
+Blauer Wichtel GEROSMU bearbeitet nun #551 
+ --> Niedliche Puppe [8.88](Spannung: 12.0)
+Gelber Wichtel EORLKOROMI bearbeitet nun #552 
+ --> Rote Unterbuxe [3.99](Eleganz: 14)
+----------------------------------------
+Runde 130
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #553 
+ --> Robuster Nussknacker [24.68]
+Blauer Wichtel XULVARBOR bearbeitet nun #554 
+ --> Spannendes Buch [8.09]
+Gelber Wichtel CARUMANOR bearbeitet nun #555 
+ --> Niedliche Puppe [5.19](Spannung: 7.5)
+Gelber Wichtel EORLNOR bearbeitet nun #556 
+ --> Niedliche Puppe [9.54](Spannung: 13.5)
+Blauer Wichtel FRITAZ bearbeitet nun #557 
+ --> Interessantes Brettspiel [5.19](Spannung: 12.0)
+----------------------------------------
+Runde 131
+Gelber Wichtel MUSETITAZ bearbeitet nun #558 
+ --> Robuster Nussknacker [2.34]
+Blauer Wichtel VARUMA bearbeitet nun #559 
+ --> Spannendes Buch [2.33]
+----------------------------------------
+Runde 132
+Blauer Wichtel ARIXUL bearbeitet nun #560 
+ --> Thermo-Ski-Unterwaesche [3.18](Eleganz: 23)
+Roter Wichtel ARIBOR bearbeitet nun #561 
+ --> Knusprige Kekse [2.22](Gesund: Ja)
+Gelber Wichtel LEROMI bearbeitet nun #562 
+ --> Interessantes Brettspiel [3.57](Spannung: 7.2)
+----------------------------------------
+Runde 133
+Blauer Wichtel HATIHATI bearbeitet nun #563 
+ --> Stacheliger Kaktus [23.38]
+Roter Wichtel SETITAZARI bearbeitet nun #564 
+ --> Stacheliger Kaktus [16.83]
+Gelber Wichtel UMAHATI bearbeitet nun #565 
+ --> Niedliche Puppe [2.26](Spannung: 3.0)
+Roter Wichtel ARIBOR bearbeitet nun #566 
+ --> Niedliche Puppe [8.37](Spannung: 12.0)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #567 
+ --> Spannendes Buch [24.25]
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #568 
+ --> Warme Socken [1.98](Eleganz: 12)
+----------------------------------------
+Runde 134
+Roter Wichtel VARJOLA bearbeitet nun #569 
+ --> Aromatischer Tee [4.72](Gesund: Ja)
+Blauer Wichtel XULLE bearbeitet nun #570 
+ --> Kuscheliger Schal [3.96](Eleganz: 17)
+Blauer Wichtel NORBOR bearbeitet nun #571 
+ --> Spannendes Buch [24.53]
+Roter Wichtel SETISETI bearbeitet nun #572 
+ --> Niedliche Puppe [4.88](Spannung: 6.0)
+Gelber Wichtel SETILEFRI bearbeitet nun #573 
+ --> Interessantes Brettspiel [3.55](Spannung: 7.2)
+----------------------------------------
+Runde 135
+Roter Wichtel IOTIDURZOTO bearbeitet nun #574 
+ --> Warme Socken [3.22](Eleganz: 12)
+Gelber Wichtel MUSETITAZ bearbeitet nun #575 
+ --> Schnelles Auto [24.08]
+Gelber Wichtel FRIJOLA bearbeitet nun #576 
+ --> Spannendes Buch [6.18]
+Gelber Wichtel EORLKOROMI bearbeitet nun #577 
+ --> Spannendes Buch [24.04]
+Roter Wichtel MUWEL bearbeitet nun #578 
+ --> Interessantes Brettspiel [1.99](Spannung: 2.4)
+Roter Wichtel ARIHATIXUL bearbeitet nun #579 
+ --> Thermo-Ski-Unterwaesche [4.55](Eleganz: 23)
+----------------------------------------
+Runde 136
+Roter Wichtel SETIXUL bearbeitet nun #580 
+ --> Warme Socken [3.49](Eleganz: 12)
+----------------------------------------
+Runde 137
+Roter Wichtel VARJOLA bearbeitet nun #581 
+ --> Schoko-Nikolaus [7.88](Gesund: Nein)
+Gelber Wichtel UMAHATI bearbeitet nun #582 
+ --> Zipfelige Muetze [4.62](Eleganz: 16)
+Blauer Wichtel TAZKOLE bearbeitet nun #583 
+ --> Robuster Nussknacker [14.85]
+Roter Wichtel IOTIDURZOTO bearbeitet nun #584 
+ --> Kuscheliger Schal [2.3](Eleganz: 17)
+Gelber Wichtel CARUMANOR bearbeitet nun #585 
+ --> Robuster Nussknacker [13.59]
+Blauer Wichtel VARUMA bearbeitet nun #586 
+ --> Niedliche Puppe [1.76](Spannung: 1.5)
+Gelber Wichtel LEROMI bearbeitet nun #587 
+ --> Lange Struempfe [0.75](Eleganz: 15)
+Roter Wichtel MUWEL bearbeitet nun #588 
+ --> Schnelles Auto [0.94]
+----------------------------------------
+Runde 138
+Roter Wichtel IOTIDURZOTO bearbeitet nun #589 
+ --> Knusprige Kekse [1.65](Gesund: Nein)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #590 
+ --> Schnelles Auto [7.49]
+Roter Wichtel SETIXUL bearbeitet nun #591 
+ --> Warme Socken [4.48](Eleganz: 12)
+Roter Wichtel MUWEL bearbeitet nun #592 
+ --> Rote Unterbuxe [2.53](Eleganz: 14)
+Roter Wichtel ARIHATIXUL bearbeitet nun #593 
+ --> Knusprige Kekse [8.7](Gesund: Ja)
+----------------------------------------
+Runde 139
+Roter Wichtel IOTIDURZOTO bearbeitet nun #594 
+ --> Robuster Nussknacker [5.32]
+Blauer Wichtel LEEORL bearbeitet nun #595 
+ --> Stacheliger Kaktus [11.3]
+Blauer Wichtel ARIXUL bearbeitet nun #596 
+ --> Knusprige Kekse [2.92](Gesund: Ja)
+Blauer Wichtel FRITAZ bearbeitet nun #597 
+ --> Stacheliger Kaktus [7.93]
+Roter Wichtel SETISETI bearbeitet nun #598 
+ --> Rote Unterbuxe [3.14](Eleganz: 14)
+Gelber Wichtel SETILEFRI bearbeitet nun #599 
+ --> Interessantes Brettspiel [0.8](Spannung: 0.0)
+Roter Wichtel MUWEL bearbeitet nun #600 
+ --> Schoko-Nikolaus [5.62](Gesund: Nein)
+----------------------------------------
+Runde 140
+Gelber Wichtel LEROMI bearbeitet nun #601 
+ --> Schnelles Auto [22.56]
+----------------------------------------
+Runde 141
+Blauer Wichtel GEROSMU bearbeitet nun #602 
+ --> Bequeme Hose [3.06](Eleganz: 12)
+Blauer Wichtel XULLE bearbeitet nun #603 
+ --> Bequeme Hose [4.4](Eleganz: 12)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #604 
+ --> Lange Struempfe [3.12](Eleganz: 15)
+Gelber Wichtel EORLNOR bearbeitet nun #605 
+ --> Aromatischer Tee [14.22](Gesund: Ja)
+Blauer Wichtel ARIXUL bearbeitet nun #606 
+ --> Schoko-Nikolaus [13.77](Gesund: Nein)
+Roter Wichtel SETISETI bearbeitet nun #607 
+ --> Schnelles Auto [17.58]
+Roter Wichtel SETIXUL bearbeitet nun #608 
+ --> Bequeme Hose [1.53](Eleganz: 12)
+Gelber Wichtel SETILEFRI bearbeitet nun #609 
+ --> Robuster Nussknacker [22.82]
+----------------------------------------
+Runde 142
+Blauer Wichtel XULVARBOR bearbeitet nun #610 
+ --> Niedliche Puppe [9.31](Spannung: 13.5)
+Roter Wichtel ARIBOR bearbeitet nun #611 
+ --> Bequeme Hose [0.12](Eleganz: 12)
+Blauer Wichtel VARUMA bearbeitet nun #612 
+ --> Interessantes Brettspiel [7.78](Spannung: 16.8)
+Roter Wichtel SETIXUL bearbeitet nun #613 
+ --> Spannendes Buch [22.25]
+----------------------------------------
+Runde 143
+Roter Wichtel VARJOLA bearbeitet nun #614 
+ --> Niedliche Puppe [9.78](Spannung: 13.5)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #615 
+ --> Niedliche Puppe [8.64](Spannung: 12.0)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #616 
+ --> Schoko-Nikolaus [13.82](Gesund: Nein)
+Roter Wichtel ARIBOR bearbeitet nun #617 
+ --> Schnelles Auto [23.57]
+Gelber Wichtel FRIJOLA bearbeitet nun #618 
+ --> Niedliche Puppe [8.74](Spannung: 12.0)
+Roter Wichtel MUWEL bearbeitet nun #619 
+ --> Interessantes Brettspiel [5.04](Spannung: 12.0)
+----------------------------------------
+Runde 144
+Gelber Wichtel UMAHATI bearbeitet nun #620 
+ --> Dicker Pullover [2.3](Eleganz: 15)
+----------------------------------------
+Runde 145
+Roter Wichtel ARIHATIXUL bearbeitet nun #621 
+ --> Spannendes Buch [17.76]
+----------------------------------------
+Runde 146
+----------------------------------------
+Runde 147
+----------------------------------------
+Runde 148
+Blauer Wichtel GEROSMU bearbeitet nun #622 
+ --> Interessantes Brettspiel [5.15](Spannung: 12.0)
+Roter Wichtel SETITAZARI bearbeitet nun #623 
+ --> Robuster Nussknacker [18.56]
+Blauer Wichtel ARIXUL bearbeitet nun #624 
+ --> Interessantes Brettspiel [3.95](Spannung: 7.2)
+----------------------------------------
+Runde 149
+Blauer Wichtel XULLE bearbeitet nun #625 
+ --> Knusprige Kekse [1.31](Gesund: Nein)
+Gelber Wichtel UMAHATI bearbeitet nun #626 
+ --> Interessantes Brettspiel [5.56](Spannung: 12.0)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #627 
+ --> Kuscheliger Schal [2.1](Eleganz: 17)
+Roter Wichtel MUWEL bearbeitet nun #628 
+ --> Niedliche Puppe [0.65](Spannung: 0.0)
+----------------------------------------
+Runde 150
+Blauer Wichtel XULLE bearbeitet nun #629 
+ --> Bequeme Hose [3.7](Eleganz: 12)
+Blauer Wichtel FRITAZ bearbeitet nun #630 
+ --> Aromatischer Tee [6.54](Gesund: Ja)
+Roter Wichtel MUWEL bearbeitet nun #631 
+ --> Spannendes Buch [21.2]
+----------------------------------------
+Runde 151
+----------------------------------------
+Runde 152
+Roter Wichtel IOTIDURZOTO bearbeitet nun #632 
+ --> Knusprige Kekse [5.65](Gesund: Nein)
+Gelber Wichtel CARUMANOR bearbeitet nun #633 
+ --> Bequeme Hose [3.26](Eleganz: 12)
+----------------------------------------
+Runde 153
+Roter Wichtel VARJOLA bearbeitet nun #634 
+ --> Knusprige Kekse [10.12](Gesund: Ja)
+Blauer Wichtel VARUMA bearbeitet nun #635 
+ --> Kuscheliger Schal [3.3](Eleganz: 17)
+Gelber Wichtel FRIJOLA bearbeitet nun #636 
+ --> Interessantes Brettspiel [9.98](Spannung: 21.6)
+----------------------------------------
+Runde 154
+Blauer Wichtel LEEORL bearbeitet nun #637 
+ --> Knusprige Kekse [14.79](Gesund: Ja)
+Blauer Wichtel FRITAZ bearbeitet nun #638 
+ --> Knusprige Kekse [4.37](Gesund: Ja)
+----------------------------------------
+Runde 155
+Blauer Wichtel TAZKOLE bearbeitet nun #639 
+ --> Schoko-Nikolaus [0.6](Gesund: Ja)
+Blauer Wichtel XULVARBOR bearbeitet nun #640 
+ --> Zipfelige Muetze [3.06](Eleganz: 16)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #641 
+ --> Interessantes Brettspiel [8.13](Spannung: 19.2)
+Blauer Wichtel ARIXUL bearbeitet nun #642 
+ --> Robuster Nussknacker [14.15]
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #643 
+ --> Interessantes Brettspiel [5.46](Spannung: 12.0)
+----------------------------------------
+Runde 156
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #644 
+ --> Knusprige Kekse [2.64](Gesund: Ja)
+Gelber Wichtel UMAHATI bearbeitet nun #645 
+ --> Warme Socken [4.15](Eleganz: 12)
+Blauer Wichtel TAZKOLE bearbeitet nun #646 
+ --> Lange Struempfe [3.71](Eleganz: 15)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #647 
+ --> Kuscheliger Schal [4.35](Eleganz: 17)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #648 
+ --> Knusprige Kekse [11.18](Gesund: Nein)
+----------------------------------------
+Runde 157
+Blauer Wichtel GEROSMU bearbeitet nun #649 
+ --> Stacheliger Kaktus [16.81]
+Blauer Wichtel XULLE bearbeitet nun #650 
+ --> Niedliche Puppe [4.04](Spannung: 6.0)
+Gelber Wichtel EORLNOR bearbeitet nun #651 
+ --> Schnelles Auto [7.93]
+Blauer Wichtel FRITAZ bearbeitet nun #652 
+ --> Thermo-Ski-Unterwaesche [1.5](Eleganz: 23)
+Roter Wichtel SETISETI bearbeitet nun #653 
+ --> Schoko-Nikolaus [1.15](Gesund: Nein)
+----------------------------------------
+Runde 158
+Gelber Wichtel CARUMANOR bearbeitet nun #654 
+ --> Schnelles Auto [16.0]
+Roter Wichtel SETISETI bearbeitet nun #655 
+ --> Bequeme Hose [0.9](Eleganz: 12)
+----------------------------------------
+Runde 159
+Roter Wichtel IOTIDURZOTO bearbeitet nun #656 
+ --> Dicker Pullover [2.53](Eleganz: 15)
+Roter Wichtel SETISETI bearbeitet nun #657 
+ --> Rote Unterbuxe [1.98](Eleganz: 14)
+----------------------------------------
+Runde 160
+Blauer Wichtel HATIHATI bearbeitet nun #658 
+ --> Knusprige Kekse [6.95](Gesund: Ja)
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #659 
+ --> Knusprige Kekse [0.25](Gesund: Ja)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #660 
+ --> Dicker Pullover [1.96](Eleganz: 15)
+Blauer Wichtel VARUMA bearbeitet nun #661 
+ --> Spannendes Buch [5.35]
+Roter Wichtel SETISETI bearbeitet nun #662 
+ --> Robuster Nussknacker [12.03]
+----------------------------------------
+Runde 161
+Roter Wichtel IOTIDURZOTO bearbeitet nun #663 
+ --> Knusprige Kekse [14.12](Gesund: Ja)
+Gelber Wichtel MUSETITAZ bearbeitet nun #664 
+ --> Robuster Nussknacker [10.74]
+Gelber Wichtel EORLKOROMI bearbeitet nun #665 
+ --> Interessantes Brettspiel [4.68](Spannung: 9.6)
+Roter Wichtel ARIHATIXUL bearbeitet nun #666 
+ --> Knusprige Kekse [14.13](Gesund: Ja)
+----------------------------------------
+Runde 162
+Roter Wichtel VARJOLA bearbeitet nun #667 
+ --> Zipfelige Muetze [0.62](Eleganz: 16)
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #668 
+ --> Rote Unterbuxe [2.75](Eleganz: 14)
+Blauer Wichtel XULVARBOR bearbeitet nun #669 
+ --> Knusprige Kekse [10.27](Gesund: Ja)
+Blauer Wichtel NORBOR bearbeitet nun #670 
+ --> Niedliche Puppe [3.94](Spannung: 4.5)
+Blauer Wichtel LEEORL bearbeitet nun #671 
+ --> Schoko-Nikolaus [6.9](Gesund: Ja)
+Blauer Wichtel FRITAZ bearbeitet nun #672 
+ --> Niedliche Puppe [1.17](Spannung: 1.5)
+----------------------------------------
+Runde 163
+Roter Wichtel VARJOLA bearbeitet nun #673 
+ --> Spannendes Buch [22.15]
+Gelber Wichtel UMAHATI bearbeitet nun #674 
+ --> Spannendes Buch [11.88]
+Blauer Wichtel TAZKOLE bearbeitet nun #675 
+ --> Niedliche Puppe [0.05](Spannung: 0.0)
+Roter Wichtel SETIXUL bearbeitet nun #676 
+ --> Robuster Nussknacker [18.84]
+----------------------------------------
+Runde 164
+Blauer Wichtel HATIHATI bearbeitet nun #677 
+ --> Zipfelige Muetze [1.5](Eleganz: 16)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #678 
+ --> Schnelles Auto [21.36]
+Roter Wichtel ARIBOR bearbeitet nun #679 
+ --> Dicker Pullover [0.53](Eleganz: 15)
+Gelber Wichtel FRIJOLA bearbeitet nun #680 
+ --> Schnelles Auto [17.63]
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #681 
+ --> Schnelles Auto [20.6]
+Gelber Wichtel LEROMI bearbeitet nun #682 
+ --> Zipfelige Muetze [0.49](Eleganz: 16)
+----------------------------------------
+Runde 165
+Blauer Wichtel XULLE bearbeitet nun #683 
+ --> Spannendes Buch [21.11]
+Roter Wichtel SETITAZARI bearbeitet nun #684 
+ --> Knusprige Kekse [8.3](Gesund: Ja)
+Roter Wichtel ARIBOR bearbeitet nun #685 
+ --> Niedliche Puppe [8.5](Spannung: 12.0)
+Gelber Wichtel SETILEFRI bearbeitet nun #686 
+ --> Interessantes Brettspiel [5.8](Spannung: 12.0)
+----------------------------------------
+Runde 166
+Gelber Wichtel EORLNOR bearbeitet nun #687 
+ --> Lange Struempfe [4.99](Eleganz: 15)
+Blauer Wichtel LEEORL bearbeitet nun #688 
+ --> Aromatischer Tee [12.47](Gesund: Ja)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #689 
+ --> Bequeme Hose [2.1](Eleganz: 12)
+----------------------------------------
+Runde 167
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #690 
+ --> Niedliche Puppe [9.01](Spannung: 13.5)
+Blauer Wichtel TAZKOLE bearbeitet nun #691 
+ --> Aromatischer Tee [12.04](Gesund: Ja)
+Blauer Wichtel FRITAZ bearbeitet nun #692 
+ --> Kuscheliger Schal [2.67](Eleganz: 17)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #693 
+ --> Schnelles Auto [23.6]
+Gelber Wichtel LEROMI bearbeitet nun #694 
+ --> Zipfelige Muetze [1.18](Eleganz: 16)
+Gelber Wichtel EORLKOROMI bearbeitet nun #695 
+ --> Stacheliger Kaktus [21.7]
+----------------------------------------
+Runde 168
+Blauer Wichtel XULVARBOR bearbeitet nun #696 
+ --> Bequeme Hose [1.14](Eleganz: 12)
+----------------------------------------
+Runde 169
+Blauer Wichtel HATIHATI bearbeitet nun #697 
+ --> Bequeme Hose [3.99](Eleganz: 12)
+Blauer Wichtel NORBOR bearbeitet nun #698 
+ --> Knusprige Kekse [1.5](Gesund: Nein)
+Blauer Wichtel VARUMA bearbeitet nun #699 
+ --> Spannendes Buch [24.56]
+----------------------------------------
+Runde 170
+Blauer Wichtel NORBOR bearbeitet nun #700 
+ --> Spannendes Buch [20.98]
+Roter Wichtel SETISETI bearbeitet nun #701 
+ --> Warme Socken [2.45](Eleganz: 12)
+Roter Wichtel MUWEL bearbeitet nun #702 
+ --> Lange Struempfe [4.04](Eleganz: 15)
+----------------------------------------
+Runde 171
+Roter Wichtel SETISETI bearbeitet nun #703 
+ --> Lange Struempfe [4.4](Eleganz: 15)
+Gelber Wichtel LEROMI bearbeitet nun #704 
+ --> Dicker Pullover [3.01](Eleganz: 15)
+----------------------------------------
+Runde 172
+Roter Wichtel SETITAZARI bearbeitet nun #705 
+ --> Niedliche Puppe [4.33](Spannung: 6.0)
+Gelber Wichtel SETILEFRI bearbeitet nun #706 
+ --> Spannendes Buch [13.73]
+----------------------------------------
+Runde 173
+Gelber Wichtel MUSETITAZ bearbeitet nun #707 
+ --> Schnelles Auto [14.54]
+Blauer Wichtel XULVARBOR bearbeitet nun #708 
+ --> Spannendes Buch [1.53]
+Gelber Wichtel EORLNOR bearbeitet nun #709 
+ --> Thermo-Ski-Unterwaesche [3.18](Eleganz: 23)
+Blauer Wichtel LEEORL bearbeitet nun #710 
+ --> Interessantes Brettspiel [3.64](Spannung: 7.2)
+Blauer Wichtel ARIXUL bearbeitet nun #711 
+ --> Lange Struempfe [1.46](Eleganz: 15)
+Blauer Wichtel FRITAZ bearbeitet nun #712 
+ --> Niedliche Puppe [9.65](Spannung: 13.5)
+Roter Wichtel ARIBOR bearbeitet nun #713 
+ --> Lange Struempfe [4.14](Eleganz: 15)
+Roter Wichtel MUWEL bearbeitet nun #714 
+ --> Niedliche Puppe [3.18](Spannung: 4.5)
+----------------------------------------
+Runde 174
+Blauer Wichtel TAZKOLE bearbeitet nun #715 
+ --> Thermo-Ski-Unterwaesche [0.89](Eleganz: 23)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #716 
+ --> Knusprige Kekse [0.66](Gesund: Ja)
+Roter Wichtel SETISETI bearbeitet nun #717 
+ --> Niedliche Puppe [8.74](Spannung: 12.0)
+Roter Wichtel ARIHATIXUL bearbeitet nun #718 
+ --> Interessantes Brettspiel [2.95](Spannung: 4.8)
+----------------------------------------
+Runde 175
+Roter Wichtel IOTIDURZOTO bearbeitet nun #719 
+ --> Kuscheliger Schal [4.45](Eleganz: 17)
+----------------------------------------
+Runde 176
+Blauer Wichtel HATIHATI bearbeitet nun #720 
+ --> Robuster Nussknacker [21.24]
+Gelber Wichtel UMAHATI bearbeitet nun #721 
+ --> Rote Unterbuxe [4.49](Eleganz: 14)
+Gelber Wichtel CARUMANOR bearbeitet nun #722 
+ --> Stacheliger Kaktus [16.13]
+Roter Wichtel ARIBOR bearbeitet nun #723 
+ --> Robuster Nussknacker [6.82]
+----------------------------------------
+Runde 177
+Blauer Wichtel GEROSMU bearbeitet nun #724 
+ --> Robuster Nussknacker [21.57]
+Roter Wichtel SETITAZARI bearbeitet nun #725 
+ --> Schoko-Nikolaus [7.95](Gesund: Nein)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #726 
+ --> Niedliche Puppe [9.75](Spannung: 13.5)
+Gelber Wichtel LEROMI bearbeitet nun #727 
+ --> Schnelles Auto [3.93]
+Roter Wichtel MUWEL bearbeitet nun #728 
+ --> Thermo-Ski-Unterwaesche [3.69](Eleganz: 23)
+Roter Wichtel ARIHATIXUL bearbeitet nun #729 
+ --> Knusprige Kekse [0.43](Gesund: Ja)
+----------------------------------------
+Runde 178
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #730 
+ --> Bequeme Hose [4.25](Eleganz: 12)
+Blauer Wichtel TAZKOLE bearbeitet nun #731 
+ --> Schoko-Nikolaus [7.53](Gesund: Nein)
+Blauer Wichtel XULVARBOR bearbeitet nun #732 
+ --> Interessantes Brettspiel [7.79](Spannung: 16.8)
+Blauer Wichtel ARIXUL bearbeitet nun #733 
+ --> Robuster Nussknacker [22.37]
+Roter Wichtel ARIHATIXUL bearbeitet nun #734 
+ --> Interessantes Brettspiel [7.35](Spannung: 16.8)
+----------------------------------------
+Runde 179
+Gelber Wichtel EORLNOR bearbeitet nun #735 
+ --> Interessantes Brettspiel [5.33](Spannung: 12.0)
+Roter Wichtel MUWEL bearbeitet nun #736 
+ --> Schoko-Nikolaus [8.54](Gesund: Ja)
+----------------------------------------
+Runde 180
+Blauer Wichtel LEEORL bearbeitet nun #737 
+ --> Schnelles Auto [19.39]
+Roter Wichtel SETIXUL bearbeitet nun #738 
+ --> Aromatischer Tee [12.91](Gesund: Ja)
+----------------------------------------
+Runde 181
+Roter Wichtel ARIBOR bearbeitet nun #739 
+ --> Knusprige Kekse [13.13](Gesund: Nein)
+----------------------------------------
+Runde 182
+Blauer Wichtel TAZKOLE bearbeitet nun #740 
+ --> Robuster Nussknacker [22.58]
+Gelber Wichtel LEROMI bearbeitet nun #741 
+ --> Aromatischer Tee [12.48](Gesund: Ja)
+----------------------------------------
+Runde 183
+Roter Wichtel VARJOLA bearbeitet nun #742 
+ --> Knusprige Kekse [14.25](Gesund: Ja)
+Roter Wichtel SETITAZARI bearbeitet nun #743 
+ --> Knusprige Kekse [8.81](Gesund: Ja)
+Gelber Wichtel UMAHATI bearbeitet nun #744 
+ --> Schoko-Nikolaus [7.08](Gesund: Nein)
+Roter Wichtel SETISETI bearbeitet nun #745 
+ --> Aromatischer Tee [9.15](Gesund: Nein)
+Gelber Wichtel FRIJOLA bearbeitet nun #746 
+ --> Dicker Pullover [3.82](Eleganz: 15)
+----------------------------------------
+Runde 184
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #747 
+ --> Interessantes Brettspiel [0.4](Spannung: 0.0)
+----------------------------------------
+Runde 185
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #748 
+ --> Stacheliger Kaktus [10.15]
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #749 
+ --> Niedliche Puppe [1.89](Spannung: 1.5)
+Roter Wichtel ARIHATIXUL bearbeitet nun #750 
+ --> Stacheliger Kaktus [6.65]
+----------------------------------------
+Runde 186
+Gelber Wichtel EORLNOR bearbeitet nun #751 
+ --> Bequeme Hose [1.7](Eleganz: 12)
+Blauer Wichtel FRITAZ bearbeitet nun #752 
+ --> Niedliche Puppe [8.74](Spannung: 12.0)
+Roter Wichtel MUWEL bearbeitet nun #753 
+ --> Schnelles Auto [5.81]
+----------------------------------------
+Runde 187
+Roter Wichtel IOTIDURZOTO bearbeitet nun #754 
+ --> Aromatischer Tee [12.35](Gesund: Ja)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #755 
+ --> Schoko-Nikolaus [7.96](Gesund: Nein)
+Gelber Wichtel SETILEFRI bearbeitet nun #756 
+ --> Knusprige Kekse [4.89](Gesund: Ja)
+----------------------------------------
+Runde 188
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #757 
+ --> Knusprige Kekse [11.62](Gesund: Nein)
+----------------------------------------
+Runde 189
+Gelber Wichtel MUSETITAZ bearbeitet nun #758 
+ --> Schoko-Nikolaus [5.26](Gesund: Nein)
+Blauer Wichtel XULVARBOR bearbeitet nun #759 
+ --> Knusprige Kekse [2.77](Gesund: Ja)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #760 
+ --> Robuster Nussknacker [6.54]
+Gelber Wichtel FRIJOLA bearbeitet nun #761 
+ --> Robuster Nussknacker [6.27]
+----------------------------------------
+Runde 190
+Blauer Wichtel XULLE bearbeitet nun #762 
+ --> Stacheliger Kaktus [3.89]
+Roter Wichtel SETITAZARI bearbeitet nun #763 
+ --> Stacheliger Kaktus [22.81]
+Gelber Wichtel EORLNOR bearbeitet nun #764 
+ --> Niedliche Puppe [8.54](Spannung: 12.0)
+Gelber Wichtel EORLKOROMI bearbeitet nun #765 
+ --> Spannendes Buch [0.8]
+Roter Wichtel MUWEL bearbeitet nun #766 
+ --> Aromatischer Tee [14.1](Gesund: Ja)
+Roter Wichtel ARIHATIXUL bearbeitet nun #767 
+ --> Schnelles Auto [17.55]
+----------------------------------------
+Runde 191
+Blauer Wichtel XULVARBOR bearbeitet nun #768 
+ --> Zipfelige Muetze [4.66](Eleganz: 16)
+Roter Wichtel SETISETI bearbeitet nun #769 
+ --> Thermo-Ski-Unterwaesche [1.65](Eleganz: 23)
+Roter Wichtel SETIXUL bearbeitet nun #770 
+ --> Spannendes Buch [7.53]
+----------------------------------------
+Runde 192
+Gelber Wichtel UMAHATI bearbeitet nun #771 
+ --> Schnelles Auto [10.05]
+Roter Wichtel SETISETI bearbeitet nun #772 
+ --> Robuster Nussknacker [5.01]
+Gelber Wichtel EORLKOROMI bearbeitet nun #773 
+ --> Thermo-Ski-Unterwaesche [3.91](Eleganz: 23)
+----------------------------------------
+Runde 193
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #774 
+ --> Kuscheliger Schal [3.17](Eleganz: 17)
+Roter Wichtel ARIBOR bearbeitet nun #775 
+ --> Lange Struempfe [2.6](Eleganz: 15)
+Gelber Wichtel SETILEFRI bearbeitet nun #776 
+ --> Niedliche Puppe [9.51](Spannung: 13.5)
+----------------------------------------
+Runde 194
+Gelber Wichtel CARUMANOR bearbeitet nun #777 
+ --> Schoko-Nikolaus [2.26](Gesund: Ja)
+Blauer Wichtel NORBOR bearbeitet nun #778 
+ --> Dicker Pullover [4.02](Eleganz: 15)
+Roter Wichtel ARIBOR bearbeitet nun #779 
+ --> Bequeme Hose [3.91](Eleganz: 12)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #780 
+ --> Niedliche Puppe [4.47](Spannung: 6.0)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #781 
+ --> Rote Unterbuxe [3.98](Eleganz: 14)
+----------------------------------------
+Runde 195
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #782 
+ --> Interessantes Brettspiel [0.78](Spannung: 0.0)
+----------------------------------------
+Runde 196
+Roter Wichtel VARJOLA bearbeitet nun #783 
+ --> Niedliche Puppe [9.04](Spannung: 13.5)
+Gelber Wichtel MUSETITAZ bearbeitet nun #784 
+ --> Aromatischer Tee [6.02](Gesund: Ja)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #785 
+ --> Robuster Nussknacker [22.39]
+Roter Wichtel ARIBOR bearbeitet nun #786 
+ --> Aromatischer Tee [3.72](Gesund: Nein)
+Roter Wichtel SETISETI bearbeitet nun #787 
+ --> Rote Unterbuxe [2.41](Eleganz: 14)
+Gelber Wichtel LEROMI bearbeitet nun #788 
+ --> Niedliche Puppe [2.62](Spannung: 3.0)
+----------------------------------------
+Runde 197
+Blauer Wichtel XULLE bearbeitet nun #789 
+ --> Spannendes Buch [23.2]
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #790 
+ --> Aromatischer Tee [12.9](Gesund: Ja)
+Blauer Wichtel VARUMA bearbeitet nun #791 
+ --> Interessantes Brettspiel [6.54](Spannung: 14.4)
+Roter Wichtel SETISETI bearbeitet nun #792 
+ --> Niedliche Puppe [0.3](Spannung: 0.0)
+Gelber Wichtel FRIJOLA bearbeitet nun #793 
+ --> Interessantes Brettspiel [7.33](Spannung: 16.8)
+Roter Wichtel SETIXUL bearbeitet nun #794 
+ --> Interessantes Brettspiel [1.63](Spannung: 2.4)
+----------------------------------------
+Runde 198
+Roter Wichtel IOTIDURZOTO bearbeitet nun #795 
+ --> Zipfelige Muetze [3.03](Eleganz: 16)
+Gelber Wichtel CARUMANOR bearbeitet nun #796 
+ --> Bequeme Hose [2.51](Eleganz: 12)
+Blauer Wichtel FRITAZ bearbeitet nun #797 
+ --> Interessantes Brettspiel [8.13](Spannung: 19.2)
+Roter Wichtel ARIBOR bearbeitet nun #798 
+ --> Schnelles Auto [9.23]
+Roter Wichtel SETISETI bearbeitet nun #799 
+ --> Knusprige Kekse [11.61](Gesund: Nein)
+Gelber Wichtel EORLKOROMI bearbeitet nun #800 
+ --> Niedliche Puppe [1.11](Spannung: 1.5)
+----------------------------------------
+Runde 199
+Blauer Wichtel XULVARBOR bearbeitet nun #801 
+ --> Niedliche Puppe [7.74](Spannung: 10.5)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #802 
+ --> Warme Socken [4.12](Eleganz: 12)
+Roter Wichtel SETIXUL bearbeitet nun #803 
+ --> Schnelles Auto [1.7]
+----------------------------------------
+Runde 200
+Roter Wichtel IOTIDURZOTO bearbeitet nun #804 
+ --> Aromatischer Tee [8.02](Gesund: Ja)
+Gelber Wichtel EORLNOR bearbeitet nun #805 
+ --> Rote Unterbuxe [4.83](Eleganz: 14)
+Gelber Wichtel LEROMI bearbeitet nun #806 
+ --> Robuster Nussknacker [3.05]
+Roter Wichtel SETIXUL bearbeitet nun #807 
+ --> Stacheliger Kaktus [0.46]
+----------------------------------------
+Runde 201
+Blauer Wichtel HATIHATI bearbeitet nun #808 
+ --> Robuster Nussknacker [6.31]
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #809 
+ --> Aromatischer Tee [11.0](Gesund: Nein)
+Roter Wichtel SETIXUL bearbeitet nun #810 
+ --> Interessantes Brettspiel [9.61](Spannung: 21.6)
+Gelber Wichtel EORLKOROMI bearbeitet nun #811 
+ --> Stacheliger Kaktus [13.87]
+----------------------------------------
+Runde 202
+Blauer Wichtel GEROSMU bearbeitet nun #812 
+ --> Rote Unterbuxe [0.64](Eleganz: 14)
+Blauer Wichtel NORBOR bearbeitet nun #813 
+ --> Niedliche Puppe [4.5](Spannung: 6.0)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #814 
+ --> Knusprige Kekse [11.89](Gesund: Nein)
+----------------------------------------
+Runde 203
+Gelber Wichtel CARUMANOR bearbeitet nun #815 
+ --> Interessantes Brettspiel [9.37](Spannung: 21.6)
+Blauer Wichtel LEEORL bearbeitet nun #816 
+ --> Aromatischer Tee [3.23](Gesund: Nein)
+Roter Wichtel MUWEL bearbeitet nun #817 
+ --> Aromatischer Tee [12.63](Gesund: Ja)
+----------------------------------------
+Runde 204
+Gelber Wichtel UMAHATI bearbeitet nun #818 
+ --> Niedliche Puppe [9.23](Spannung: 13.5)
+Gelber Wichtel MUSETITAZ bearbeitet nun #819 
+ --> Interessantes Brettspiel [4.06](Spannung: 9.6)
+Blauer Wichtel ARIXUL bearbeitet nun #820 
+ --> Thermo-Ski-Unterwaesche [0.33](Eleganz: 23)
+Gelber Wichtel SETILEFRI bearbeitet nun #821 
+ --> Spannendes Buch [20.57]
+----------------------------------------
+Runde 205
+Blauer Wichtel LEEORL bearbeitet nun #822 
+ --> Aromatischer Tee [4.77](Gesund: Ja)
+Gelber Wichtel LEROMI bearbeitet nun #823 
+ --> Robuster Nussknacker [17.48]
+----------------------------------------
+Runde 206
+Blauer Wichtel GEROSMU bearbeitet nun #824 
+ --> Niedliche Puppe [0.65](Spannung: 0.0)
+Roter Wichtel VARJOLA bearbeitet nun #825 
+ --> Interessantes Brettspiel [7.11](Spannung: 16.8)
+Roter Wichtel ARIBOR bearbeitet nun #826 
+ --> Schnelles Auto [8.1]
+Gelber Wichtel FRIJOLA bearbeitet nun #827 
+ --> Stacheliger Kaktus [5.72]
+Roter Wichtel ARIHATIXUL bearbeitet nun #828 
+ --> Knusprige Kekse [7.55](Gesund: Nein)
+----------------------------------------
+Runde 207
+Roter Wichtel IOTIDURZOTO bearbeitet nun #829 
+ --> Interessantes Brettspiel [4.76](Spannung: 9.6)
+Gelber Wichtel EORLNOR bearbeitet nun #830 
+ --> Robuster Nussknacker [24.25]
+Blauer Wichtel VARUMA bearbeitet nun #831 
+ --> Lange Struempfe [3.84](Eleganz: 15)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #832 
+ --> Aromatischer Tee [8.09](Gesund: Ja)
+----------------------------------------
+Runde 208
+Blauer Wichtel TAZKOLE bearbeitet nun #833 
+ --> Warme Socken [3.95](Eleganz: 12)
+Blauer Wichtel LEEORL bearbeitet nun #834 
+ --> Schnelles Auto [1.67]
+Blauer Wichtel ARIXUL bearbeitet nun #835 
+ --> Dicker Pullover [3.58](Eleganz: 15)
+Roter Wichtel SETISETI bearbeitet nun #836 
+ --> Schoko-Nikolaus [5.83](Gesund: Nein)
+----------------------------------------
+Runde 209
+----------------------------------------
+Runde 210
+Blauer Wichtel GEROSMU bearbeitet nun #837 
+ --> Interessantes Brettspiel [3.97](Spannung: 7.2)
+Gelber Wichtel MUSETITAZ bearbeitet nun #838 
+ --> Schnelles Auto [13.53]
+Blauer Wichtel XULVARBOR bearbeitet nun #839 
+ --> Niedliche Puppe [2.35](Spannung: 3.0)
+Blauer Wichtel NORBOR bearbeitet nun #840 
+ --> Zipfelige Muetze [2.31](Eleganz: 16)
+Blauer Wichtel FRITAZ bearbeitet nun #841 
+ --> Spannendes Buch [0.05]
+Roter Wichtel SETIXUL bearbeitet nun #842 
+ --> Interessantes Brettspiel [6.27](Spannung: 14.4)
+----------------------------------------
+Runde 211
+Blauer Wichtel HATIHATI bearbeitet nun #843 
+ --> Schoko-Nikolaus [2.11](Gesund: Ja)
+Roter Wichtel SETITAZARI bearbeitet nun #844 
+ --> Niedliche Puppe [3.73](Spannung: 4.5)
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #845 
+ --> Niedliche Puppe [5.95](Spannung: 7.5)
+----------------------------------------
+Runde 212
+Roter Wichtel IOTIDURZOTO bearbeitet nun #846 
+ --> Interessantes Brettspiel [8.88](Spannung: 19.2)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #847 
+ --> Aromatischer Tee [0.43](Gesund: Ja)
+Roter Wichtel SETISETI bearbeitet nun #848 
+ --> Schoko-Nikolaus [14.99](Gesund: Ja)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #849 
+ --> Aromatischer Tee [2.88](Gesund: Ja)
+Roter Wichtel ARIHATIXUL bearbeitet nun #850 
+ --> Robuster Nussknacker [18.49]
+----------------------------------------
+Runde 213
+Blauer Wichtel HATIHATI bearbeitet nun #851 
+ --> Warme Socken [2.9](Eleganz: 12)
+Blauer Wichtel LEEORL bearbeitet nun #852 
+ --> Spannendes Buch [4.35]
+Roter Wichtel ARIBOR bearbeitet nun #853 
+ --> Schoko-Nikolaus [1.26](Gesund: Nein)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #854 
+ --> Spannendes Buch [20.9]
+Gelber Wichtel FRIJOLA bearbeitet nun #855 
+ --> Schnelles Auto [0.19]
+----------------------------------------
+Runde 214
+Roter Wichtel VARJOLA bearbeitet nun #856 
+ --> Robuster Nussknacker [4.62]
+Gelber Wichtel CARUMANOR bearbeitet nun #857 
+ --> Dicker Pullover [2.98](Eleganz: 15)
+Blauer Wichtel FRITAZ bearbeitet nun #858 
+ --> Aromatischer Tee [11.55](Gesund: Nein)
+Roter Wichtel ARIBOR bearbeitet nun #859 
+ --> Niedliche Puppe [5.19](Spannung: 7.5)
+Blauer Wichtel VARUMA bearbeitet nun #860 
+ --> Warme Socken [2.88](Eleganz: 12)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #861 
+ --> Schoko-Nikolaus [1.81](Gesund: Nein)
+Roter Wichtel MUWEL bearbeitet nun #862 
+ --> Warme Socken [1.55](Eleganz: 12)
+----------------------------------------
+Runde 215
+Roter Wichtel SETITAZARI bearbeitet nun #863 
+ --> Niedliche Puppe [9.82](Spannung: 13.5)
+Gelber Wichtel UMAHATI bearbeitet nun #864 
+ --> Schnelles Auto [7.7]
+Blauer Wichtel TAZKOLE bearbeitet nun #865 
+ --> Rote Unterbuxe [4.52](Eleganz: 14)
+Blauer Wichtel ARIXUL bearbeitet nun #866 
+ --> Schoko-Nikolaus [10.14](Gesund: Ja)
+Gelber Wichtel FRIJOLA bearbeitet nun #867 
+ --> Thermo-Ski-Unterwaesche [1.3](Eleganz: 23)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #868 
+ --> Dicker Pullover [3.73](Eleganz: 15)
+Roter Wichtel MUWEL bearbeitet nun #869 
+ --> Aromatischer Tee [5.43](Gesund: Nein)
+----------------------------------------
+Runde 216
+Blauer Wichtel XULVARBOR bearbeitet nun #870 
+ --> Kuscheliger Schal [1.74](Eleganz: 17)
+Blauer Wichtel NORBOR bearbeitet nun #871 
+ --> Warme Socken [0.67](Eleganz: 12)
+Gelber Wichtel EORLKOROMI bearbeitet nun #872 
+ --> Schoko-Nikolaus [11.04](Gesund: Nein)
+----------------------------------------
+Runde 217
+Blauer Wichtel GEROSMU bearbeitet nun #873 
+ --> Thermo-Ski-Unterwaesche [4.81](Eleganz: 23)
+Roter Wichtel VARJOLA bearbeitet nun #874 
+ --> Warme Socken [3.29](Eleganz: 12)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #875 
+ --> Stacheliger Kaktus [22.84]
+Roter Wichtel SETIXUL bearbeitet nun #876 
+ --> Spannendes Buch [11.26]
+----------------------------------------
+Runde 218
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #877 
+ --> Interessantes Brettspiel [9.44](Spannung: 21.6)
+----------------------------------------
+Runde 219
+Blauer Wichtel HATIHATI bearbeitet nun #878 
+ --> Niedliche Puppe [1.89](Spannung: 1.5)
+Roter Wichtel VARJOLA bearbeitet nun #879 
+ --> Stacheliger Kaktus [15.16]
+Gelber Wichtel CARUMANOR bearbeitet nun #880 
+ --> Zipfelige Muetze [4.42](Eleganz: 16)
+Gelber Wichtel FRIJOLA bearbeitet nun #881 
+ --> Bequeme Hose [2.28](Eleganz: 12)
+Roter Wichtel MUWEL bearbeitet nun #882 
+ --> Kuscheliger Schal [4.97](Eleganz: 17)
+----------------------------------------
+Runde 220
+Blauer Wichtel NORBOR bearbeitet nun #883 
+ --> Rote Unterbuxe [4.3](Eleganz: 14)
+Blauer Wichtel FRITAZ bearbeitet nun #884 
+ --> Spannendes Buch [18.17]
+Roter Wichtel ARIBOR bearbeitet nun #885 
+ --> Aromatischer Tee [11.58](Gesund: Nein)
+Blauer Wichtel VARUMA bearbeitet nun #886 
+ --> Aromatischer Tee [6.24](Gesund: Ja)
+----------------------------------------
+Runde 221
+Roter Wichtel IOTIDURZOTO bearbeitet nun #887 
+ --> Kuscheliger Schal [0.07](Eleganz: 17)
+Blauer Wichtel XULVARBOR bearbeitet nun #888 
+ --> Aromatischer Tee [1.74](Gesund: Nein)
+Blauer Wichtel LEEORL bearbeitet nun #889 
+ --> Dicker Pullover [3.01](Eleganz: 15)
+Blauer Wichtel ARIXUL bearbeitet nun #890 
+ --> Interessantes Brettspiel [5.77](Spannung: 12.0)
+----------------------------------------
+Runde 222
+Roter Wichtel IOTIDURZOTO bearbeitet nun #891 
+ --> Schoko-Nikolaus [11.37](Gesund: Nein)
+Blauer Wichtel XULVARBOR bearbeitet nun #892 
+ --> Niedliche Puppe [8.08](Spannung: 12.0)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #893 
+ --> Zipfelige Muetze [0.45](Eleganz: 16)
+Roter Wichtel MUWEL bearbeitet nun #894 
+ --> Thermo-Ski-Unterwaesche [4.42](Eleganz: 23)
+----------------------------------------
+Runde 223
+Blauer Wichtel TAZKOLE bearbeitet nun #895 
+ --> Aromatischer Tee [3.32](Gesund: Nein)
+----------------------------------------
+Runde 224
+Blauer Wichtel HATIHATI bearbeitet nun #896 
+ --> Lange Struempfe [0.24](Eleganz: 15)
+Blauer Wichtel XULLE bearbeitet nun #897 
+ --> Niedliche Puppe [4.01](Spannung: 6.0)
+Gelber Wichtel UMAHATI bearbeitet nun #898 
+ --> Interessantes Brettspiel [0.1](Spannung: 0.0)
+Blauer Wichtel VARUMA bearbeitet nun #899 
+ --> Thermo-Ski-Unterwaesche [4.72](Eleganz: 23)
+Gelber Wichtel FRIJOLA bearbeitet nun #900 
+ --> Schoko-Nikolaus [14.65](Gesund: Ja)
+Gelber Wichtel LEROMI bearbeitet nun #901 
+ --> Lange Struempfe [1.36](Eleganz: 15)
+----------------------------------------
+Runde 225
+Blauer Wichtel GEROSMU bearbeitet nun #902 
+ --> Bequeme Hose [2.97](Eleganz: 12)
+Roter Wichtel SETITAZARI bearbeitet nun #903 
+ --> Kuscheliger Schal [4.06](Eleganz: 17)
+Blauer Wichtel TAZKOLE bearbeitet nun #904 
+ --> Knusprige Kekse [10.3](Gesund: Ja)
+Gelber Wichtel MUSETITAZ bearbeitet nun #905 
+ --> Lange Struempfe [1.0](Eleganz: 15)
+Roter Wichtel SETISETI bearbeitet nun #906 
+ --> Bequeme Hose [3.54](Eleganz: 12)
+Roter Wichtel MUWEL bearbeitet nun #907 
+ --> Stacheliger Kaktus [6.3]
+----------------------------------------
+Runde 226
+Gelber Wichtel UMAHATI bearbeitet nun #908 
+ --> Schoko-Nikolaus [1.76](Gesund: Nein)
+Gelber Wichtel CARUMANOR bearbeitet nun #909 
+ --> Zipfelige Muetze [4.33](Eleganz: 16)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #910 
+ --> Niedliche Puppe [2.78](Spannung: 3.0)
+Gelber Wichtel SETILEFRI bearbeitet nun #911 
+ --> Niedliche Puppe [3.35](Spannung: 4.5)
+----------------------------------------
+Runde 227
+Roter Wichtel SETISETI bearbeitet nun #912 
+ --> Kuscheliger Schal [1.77](Eleganz: 17)
+Roter Wichtel SETIXUL bearbeitet nun #913 
+ --> Niedliche Puppe [0.01](Spannung: 0.0)
+----------------------------------------
+Runde 228
+Blauer Wichtel HATIHATI bearbeitet nun #914 
+ --> Stacheliger Kaktus [12.83]
+Roter Wichtel SETITAZARI bearbeitet nun #915 
+ --> Niedliche Puppe [7.42](Spannung: 10.5)
+Blauer Wichtel NORBOR bearbeitet nun #916 
+ --> Interessantes Brettspiel [3.5](Spannung: 7.2)
+Blauer Wichtel LEEORL bearbeitet nun #917 
+ --> Stacheliger Kaktus [16.21]
+Roter Wichtel SETISETI bearbeitet nun #918 
+ --> Robuster Nussknacker [9.53]
+Gelber Wichtel LEROMI bearbeitet nun #919 
+ --> Aromatischer Tee [8.2](Gesund: Ja)
+Roter Wichtel SETIXUL bearbeitet nun #920 
+ --> Zipfelige Muetze [3.96](Eleganz: 16)
+----------------------------------------
+Runde 229
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #921 
+ --> Aromatischer Tee [2.98](Gesund: Ja)
+Gelber Wichtel UMAHATI bearbeitet nun #922 
+ --> Thermo-Ski-Unterwaesche [4.44](Eleganz: 23)
+Gelber Wichtel MUSETITAZ bearbeitet nun #923 
+ --> Kuscheliger Schal [4.41](Eleganz: 17)
+Gelber Wichtel EORLKOROMI bearbeitet nun #924 
+ --> Robuster Nussknacker [20.9]
+Roter Wichtel ARIHATIXUL bearbeitet nun #925 
+ --> Spannendes Buch [16.91]
+----------------------------------------
+Runde 230
+Blauer Wichtel ARIXUL bearbeitet nun #926 
+ --> Niedliche Puppe [8.83](Spannung: 12.0)
+Roter Wichtel ARIBOR bearbeitet nun #927 
+ --> Kuscheliger Schal [2.1](Eleganz: 17)
+Roter Wichtel SETIXUL bearbeitet nun #928 
+ --> Rote Unterbuxe [3.23](Eleganz: 14)
+Roter Wichtel MUWEL bearbeitet nun #929 
+ --> Aromatischer Tee [6.21](Gesund: Ja)
+----------------------------------------
+Runde 231
+Blauer Wichtel GEROSMU bearbeitet nun #930 
+ --> Stacheliger Kaktus [5.62]
+Blauer Wichtel TAZKOLE bearbeitet nun #931 
+ --> Interessantes Brettspiel [5.52](Spannung: 12.0)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #932 
+ --> Interessantes Brettspiel [9.02](Spannung: 21.6)
+Roter Wichtel ARIBOR bearbeitet nun #933 
+ --> Aromatischer Tee [2.21](Gesund: Ja)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #934 
+ --> Lange Struempfe [1.13](Eleganz: 15)
+Gelber Wichtel SETILEFRI bearbeitet nun #935 
+ --> Schoko-Nikolaus [6.84](Gesund: Ja)
+----------------------------------------
+Runde 232
+Blauer Wichtel XULLE bearbeitet nun #936 
+ --> Niedliche Puppe [6.16](Spannung: 9.0)
+Roter Wichtel ARIBOR bearbeitet nun #937 
+ --> Lange Struempfe [4.13](Eleganz: 15)
+Blauer Wichtel VARUMA bearbeitet nun #938 
+ --> Lange Struempfe [4.63](Eleganz: 15)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #939 
+ --> Dicker Pullover [4.52](Eleganz: 15)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #940 
+ --> Robuster Nussknacker [1.81]
+Roter Wichtel SETIXUL bearbeitet nun #941 
+ --> Warme Socken [1.47](Eleganz: 12)
+----------------------------------------
+Runde 233
+Roter Wichtel VARJOLA bearbeitet nun #942 
+ --> Interessantes Brettspiel [1.25](Spannung: 2.4)
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #943 
+ --> Robuster Nussknacker [4.75]
+Gelber Wichtel CARUMANOR bearbeitet nun #944 
+ --> Niedliche Puppe [9.68](Spannung: 13.5)
+Gelber Wichtel EORLNOR bearbeitet nun #945 
+ --> Knusprige Kekse [9.36](Gesund: Nein)
+Roter Wichtel SETIXUL bearbeitet nun #946 
+ --> Warme Socken [0.12](Eleganz: 12)
+----------------------------------------
+Runde 234
+Blauer Wichtel XULVARBOR bearbeitet nun #947 
+ --> Spannendes Buch [15.73]
+Roter Wichtel SETIXUL bearbeitet nun #948 
+ --> Rote Unterbuxe [4.61](Eleganz: 14)
+----------------------------------------
+Runde 235
+Roter Wichtel VARJOLA bearbeitet nun #949 
+ --> Interessantes Brettspiel [7.84](Spannung: 16.8)
+Blauer Wichtel NORBOR bearbeitet nun #950 
+ --> Schoko-Nikolaus [9.79](Gesund: Nein)
+Roter Wichtel ARIBOR bearbeitet nun #951 
+ --> Dicker Pullover [3.46](Eleganz: 15)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #952 
+ --> Niedliche Puppe [2.7](Spannung: 3.0)
+Roter Wichtel MUWEL bearbeitet nun #953 
+ --> Niedliche Puppe [2.15](Spannung: 3.0)
+----------------------------------------
+Runde 236
+Roter Wichtel SETITAZARI bearbeitet nun #954 
+ --> Niedliche Puppe [6.73](Spannung: 9.0)
+Gelber Wichtel UMAHATI bearbeitet nun #955 
+ --> Aromatischer Tee [4.0](Gesund: Ja)
+Gelber Wichtel MUSETITAZ bearbeitet nun #956 
+ --> Schnelles Auto [21.82]
+Roter Wichtel SETISETI bearbeitet nun #957 
+ --> Schoko-Nikolaus [12.27](Gesund: Ja)
+Roter Wichtel SETIXUL bearbeitet nun #958 
+ --> Thermo-Ski-Unterwaesche [4.08](Eleganz: 23)
+----------------------------------------
+Runde 237
+Roter Wichtel ARIBOR bearbeitet nun #959 
+ --> Interessantes Brettspiel [3.2](Spannung: 7.2)
+Blauer Wichtel ZOTOXULJOLA bearbeitet nun #960 
+ --> Robuster Nussknacker [11.21]
+----------------------------------------
+Runde 238
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #961 
+ --> Warme Socken [4.54](Eleganz: 12)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #962 
+ --> Stacheliger Kaktus [2.46]
+Gelber Wichtel LEROMI bearbeitet nun #963 
+ --> Schnelles Auto [10.21]
+Roter Wichtel MUWEL bearbeitet nun #964 
+ --> Aromatischer Tee [12.32](Gesund: Ja)
+----------------------------------------
+Runde 239
+Gelber Wichtel ZOTOIOTIWEL bearbeitet nun #965 
+ --> Knusprige Kekse [14.28](Gesund: Ja)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #966 
+ --> Interessantes Brettspiel [1.49](Spannung: 2.4)
+Roter Wichtel SETIXUL bearbeitet nun #967 
+ --> Rote Unterbuxe [1.93](Eleganz: 14)
+Gelber Wichtel SETILEFRI bearbeitet nun #968 
+ --> Knusprige Kekse [6.79](Gesund: Ja)
+----------------------------------------
+Runde 240
+Blauer Wichtel GEROSMU bearbeitet nun #969 
+ --> Aromatischer Tee [3.21](Gesund: Nein)
+Blauer Wichtel TAZKOLE bearbeitet nun #970 
+ --> Kuscheliger Schal [0.31](Eleganz: 17)
+Blauer Wichtel NORBOR bearbeitet nun #971 
+ --> Spannendes Buch [9.5]
+Blauer Wichtel VARUMA bearbeitet nun #972 
+ --> Robuster Nussknacker [15.91]
+Gelber Wichtel FRIJOLA bearbeitet nun #973 
+ --> Schoko-Nikolaus [14.96](Gesund: Ja)
+Roter Wichtel SETIXUL bearbeitet nun #974 
+ --> Knusprige Kekse [1.83](Gesund: Nein)
+----------------------------------------
+Runde 241
+Roter Wichtel IOTIDURZOTO bearbeitet nun #975 
+ --> Thermo-Ski-Unterwaesche [2.86](Eleganz: 23)
+Roter Wichtel YIFIIOTIBOR bearbeitet nun #976 
+ --> Robuster Nussknacker [12.39]
+Roter Wichtel ARIBOR bearbeitet nun #977 
+ --> Aromatischer Tee [12.37](Gesund: Ja)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #978 
+ --> Robuster Nussknacker [4.71]
+Roter Wichtel SETIXUL bearbeitet nun #979 
+ --> Interessantes Brettspiel [3.79](Spannung: 7.2)
+----------------------------------------
+Runde 242
+Blauer Wichtel GEROSMU bearbeitet nun #980 
+ --> Interessantes Brettspiel [4.32](Spannung: 9.6)
+Blauer Wichtel XULLE bearbeitet nun #981 
+ --> Thermo-Ski-Unterwaesche [4.58](Eleganz: 23)
+Gelber Wichtel UMAHATI bearbeitet nun #982 
+ --> Knusprige Kekse [9.47](Gesund: Nein)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #983 
+ --> Rote Unterbuxe [0.13](Eleganz: 14)
+Blauer Wichtel ARIXUL bearbeitet nun #984 
+ --> Niedliche Puppe [0.38](Spannung: 0.0)
+Blauer Wichtel FRITAZ bearbeitet nun #985 
+ --> Interessantes Brettspiel [2.61](Spannung: 4.8)
+----------------------------------------
+Runde 243
+Roter Wichtel VARJOLA bearbeitet nun #986 
+ --> Schnelles Auto [10.71]
+Roter Wichtel SETITAZARI bearbeitet nun #987 
+ --> Interessantes Brettspiel [0.77](Spannung: 0.0)
+Roter Wichtel IOTIDURZOTO bearbeitet nun #988 
+ --> Knusprige Kekse [7.32](Gesund: Nein)
+----------------------------------------
+Runde 244
+Blauer Wichtel HATIHATI bearbeitet nun #989 
+ --> Niedliche Puppe [1.81](Spannung: 1.5)
+Roter Wichtel SETITAZARI bearbeitet nun #990 
+ --> Schnelles Auto [20.14]
+Blauer Wichtel TAZKOLE bearbeitet nun #991 
+ --> Warme Socken [4.06](Eleganz: 12)
+Gelber Wichtel CARUMANOR bearbeitet nun #992 
+ --> Stacheliger Kaktus [2.51]
+Gelber Wichtel EORLNOR bearbeitet nun #993 
+ --> Interessantes Brettspiel [5.02](Spannung: 12.0)
+Roter Wichtel UMAUMAIOTI bearbeitet nun #994 
+ --> Stacheliger Kaktus [0.63]
+Roter Wichtel ARIHATIXUL bearbeitet nun #995 
+ --> Dicker Pullover [1.4](Eleganz: 15)
+----------------------------------------
+Runde 245
+Roter Wichtel UMAUMAIOTI bearbeitet nun #996 
+ --> Stacheliger Kaktus [10.31]
+Roter Wichtel SETIXUL bearbeitet nun #997 
+ --> Niedliche Puppe [4.07](Spannung: 6.0)
+Roter Wichtel ARIHATIXUL bearbeitet nun #998 
+ --> Bequeme Hose [0.41](Eleganz: 12)
+----------------------------------------
+Runde 246
+Blauer Wichtel ARIXUL bearbeitet nun #999 
+ --> Stacheliger Kaktus [0.53]
+----------------------------------------
+Runde 247
+----------------------------------------
+Runde 248
+----------------------------------------
+Runde 249
+----------------------------------------
+Runde 250
+----------------------------------------
+Runde 251
+----------------------------------------
+Runde 252
+----------------------------------------
+Runde 253
+----------------------------------------
+Runde 254
+----------------------------------------
+Runde 255
+----------------------------------------
+Runde 256
+----------------------------------------
+Runde 257
+----------------------------------------
+Runde 258
+----------------------------------------
+Runde 259
+----------------------------------------
+Runde 260
+----------------------------------------
+Runde 261
+----------------------------------------
+Runde 262
+----------------------------------------
+Leistungsindex: 
+1. Platz: Roter Wichtel ARIBOR mit einer Effizienz von 0.18592964824120603 GpR.
+2. Platz: Roter Wichtel MUWEL mit einer Effizienz von 0.17412935323383086 GpR.
+3. Platz: Roter Wichtel SETIXUL mit einer Effizienz von 0.17098445595854922 GpR.
+----------------------------------------
+4. Platz: Roter Wichtel SETISETI mit einer Effizienz von 0.17098445595854922 GpR.
+5. Platz: Roter Wichtel IOTIDURZOTO mit einer Effizienz von 0.15346534653465346 GpR.
+6. Platz: Roter Wichtel UMAUMAIOTI mit einer Effizienz von 0.14903846153846154 GpR.
+7. Platz: Gelber Wichtel UMAHATI mit einer Effizienz von 0.14545454545454545 GpR.
+8. Platz: Roter Wichtel YIFIIOTIBOR mit einer Effizienz von 0.14150943396226415 GpR.
+9. Platz: Roter Wichtel VARJOLA mit einer Effizienz von 0.14084507042253522 GpR.
+10. Platz: Roter Wichtel ARIHATIXUL mit einer Effizienz von 0.13875598086124402 GpR.
+11. Platz: Blauer Wichtel ZOTOXULJOLA mit einer Effizienz von 0.13761467889908258 GpR.
+12. Platz: Gelber Wichtel LEROMI mit einer Effizienz von 0.136986301369863 GpR.
+13. Platz: Blauer Wichtel GEROSMU mit einer Effizienz von 0.13302752293577982 GpR.
+14. Platz: Blauer Wichtel XULVARBOR mit einer Effizienz von 0.13063063063063063 GpR.
+15. Platz: Gelber Wichtel FRIJOLA mit einer Effizienz von 0.12831858407079647 GpR.
+16. Platz: Blauer Wichtel FRITAZ mit einer Effizienz von 0.1278538812785388 GpR.
+17. Platz: Blauer Wichtel LEEORL mit einer Effizienz von 0.1278538812785388 GpR.
+18. Platz: Blauer Wichtel HATIHATI mit einer Effizienz von 0.1278538812785388 GpR.
+19. Platz: Blauer Wichtel VARUMA mit einer Effizienz von 0.12719298245614036 GpR.
+20. Platz: Blauer Wichtel TAZKOLE mit einer Effizienz von 0.12669683257918551 GpR.
+21. Platz: Gelber Wichtel CARUMANOR mit einer Effizienz von 0.12272727272727273 GpR.
+22. Platz: Gelber Wichtel SETILEFRI mit einer Effizienz von 0.11818181818181818 GpR.
+23. Platz: Blauer Wichtel ARIXUL mit einer Effizienz von 0.11659192825112108 GpR.
+24. Platz: Gelber Wichtel EORLNOR mit einer Effizienz von 0.11607142857142858 GpR.
+25. Platz: Roter Wichtel SETITAZARI mit einer Effizienz von 0.11403508771929824 GpR.
+26. Platz: Gelber Wichtel EORLKOROMI mit einer Effizienz von 0.1111111111111111 GpR.
+27. Platz: Gelber Wichtel ZOTOIOTIWEL mit einer Effizienz von 0.1091703056768559 GpR.
+28. Platz: Blauer Wichtel XULLE mit einer Effizienz von 0.10714285714285714 GpR.
+29. Platz: Gelber Wichtel MUSETITAZ mit einer Effizienz von 0.10256410256410256 GpR.
+30. Platz: Blauer Wichtel NORBOR mit einer Effizienz von 0.09130434782608696 GpR.
