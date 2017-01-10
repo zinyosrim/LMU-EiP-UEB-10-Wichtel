@@ -8,8 +8,8 @@ public abstract class Wichtel implements Comparable<Wichtel> {
     // Attribute
 
     protected final String NAME;
-    protected int gearbeiteteZeit = 0;
-    protected int anzahlgefertigterGeschenke = 0;
+    protected int gearbeiteteZeit;
+    protected int anzahlgefertigterGeschenke;
     protected int dauer;
 
 
@@ -22,7 +22,9 @@ public abstract class Wichtel implements Comparable<Wichtel> {
     }
 
     public Wichtel(Wichtel w) {           // überladener Konstruktor
-        NAME = w.getName();
+        this.NAME                       = w.getName();
+        this.anzahlgefertigterGeschenke = w.getAnzahlgefertigterGeschenke();
+        this.gearbeiteteZeit            = w.getGearbeiteteZeit();
 
     }
 
@@ -48,6 +50,24 @@ public abstract class Wichtel implements Comparable<Wichtel> {
         return this.NAME;
     }
 
+    /**
+     * Getter für gearbeiteteZeit
+     * @return gearbeiteteZeit
+     */
+    public int getGearbeiteteZeit() {
+        return gearbeiteteZeit;
+    }
+
+    /**
+     * Getter für anzahlgefertigterGeschenke
+     * @return anzahlgefertigterGeschenke
+     */
+    public int getAnzahlgefertigterGeschenke() {
+        return anzahlgefertigterGeschenke;
+    }
+
+    // weitere Methoden
+
     public boolean arbeitetNoch() {
         return (this.dauer > 0);
     }
@@ -61,7 +81,6 @@ public abstract class Wichtel implements Comparable<Wichtel> {
             return (double)this.anzahlgefertigterGeschenke / (double)this.gearbeiteteZeit;
         } else return 0;
     }
-    // weitere Methoden
 
     // abstrakte Methoden
 

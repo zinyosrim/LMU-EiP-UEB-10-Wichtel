@@ -100,17 +100,18 @@ public class Werkstatt {
 
 	}
 
-//    private Wichtel getHighPerformerIndex (String color){
-//        int index=0;
-//	    switch (color) {
-//            case "rot": for (int i=0; wichtel[i] instanceof RoterWichtel; i++ ) index = i;
-//                        return wichtel[index];
-//            case "blau": for (int i=0; wichtel[i] instanceof BlauerWichtel; i++ ) index = i;
-//                        return wichtel[index];
-//            case "gelb": for (int i=0; wichtel[i] instanceof GelberWichtel; i++ ) index = i;
-//                        return wichtel[index];
-//            }
-//    }
+    private Wichtel getHighPerformer (String color){
+        int index=anzahlWichtel-1;
+	    switch (color) {
+            case "rot":     while ( !(wichtel[index] instanceof RoterWichtel) ) index--;
+                            break;
+            case "blau":    while ( !(wichtel[index] instanceof BlauerWichtel) ) index--;
+                            break;
+            case "gelb":    while ( !(wichtel[index] instanceof GelberWichtel) ) index--;
+            }
+            return wichtel[index];
+
+    }
 
 	
 	// Eine Werkstatt wird angelegt, dann werden alle Geschenke bearbeitet, 
@@ -124,15 +125,21 @@ public class Werkstatt {
 		while(werkstatt.arbeit());
 		werkstatt.sortiere();
 		werkstatt.zeigeLeistungen();
+
 		
 		// TODO e): Klonen der drei besten Wichtel
 
-//        Wichtel roterSuperWichtel  = new RoterWichtel();
-//        Wichtel roterSuperWichtel = wichtel[getHighPerformerIndex("rot")];
-//        Wichtel blauerSuperWichtel = wichtel[getHighPerformerIndex("blau")];
-//        Wichtel gelberSuperWichtel = wichtel[getHighPerformerIndex("gelb")];
-//
-//        System.out.print(roterSuperWichtel.toString()+" "+roterSuperWichtel.getName()+" "+gelberSuperWichtel.getName());
-	}
-	
+        System.out.println("----------------------------------------");
+
+        Wichtel roterSuperWichtel           = new RoterWichtel(werkstatt.getHighPerformer("rot"));
+        System.out.println(roterSuperWichtel.toString() + " (gearbeiteteZeit = "+ roterSuperWichtel.gearbeiteteZeit + ", anzahlGefertigterGeschenke = " + roterSuperWichtel.anzahlgefertigterGeschenke + ") wurde geklont.");
+
+
+        Wichtel blauerSuperWichtel           = new BlauerWichtel(werkstatt.getHighPerformer("blau"));
+        System.out.println(blauerSuperWichtel.toString() + " (gearbeiteteZeit = "+ blauerSuperWichtel.gearbeiteteZeit + ", anzahlGefertigterGeschenke = " + blauerSuperWichtel.anzahlgefertigterGeschenke + ") wurde geklont.");
+
+        Wichtel gelberSuperWichtel           = new GelberWichtel(werkstatt.getHighPerformer("gelb"));
+        System.out.println(gelberSuperWichtel.toString() + " (gearbeiteteZeit = "+ gelberSuperWichtel.gearbeiteteZeit + ", anzahlGefertigterGeschenke = " + gelberSuperWichtel.anzahlgefertigterGeschenke + ") wurde geklont.");
+
+    }
 }

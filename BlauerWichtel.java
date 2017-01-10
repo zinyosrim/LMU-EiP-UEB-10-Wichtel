@@ -11,9 +11,8 @@ public class BlauerWichtel extends Wichtel {
     public BlauerWichtel(){
         super();
     }
-
-    public BlauerWichtel(Wichtel w){
-        super();
+    public BlauerWichtel(Wichtel w) {
+        super(w);
     }
 
     // Methoden

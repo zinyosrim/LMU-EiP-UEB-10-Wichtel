@@ -1,0 +1,1902 @@
+Es werden jetzt 500 Geschenke erzeugt ....
+Geschenk Nr. 0 generiert | Kuscheliger Schal [0.36] (Eleganz: 17)
+Geschenk Nr. 1 generiert | Schnelles Auto [12.0] 
+Geschenk Nr. 2 generiert | Gemaltes Memory [2.15] (Spannung: 3.2)
+Geschenk Nr. 3 generiert | Kuscheliger Schal [0.83] (Eleganz: 17)
+Geschenk Nr. 4 generiert | Dicker Pullover [2.11] (Eleganz: 15)
+Geschenk Nr. 5 generiert | Robuster Nussknacker [19.75] 
+Geschenk Nr. 6 generiert | Schnelles Auto [13.16] 
+Geschenk Nr. 7 generiert | Duftende Badesalze [7.81] 
+Geschenk Nr. 8 generiert | Schnelles Kartenspiel [1.96] (Spannung: 4.1)
+Geschenk Nr. 9 generiert | Bequeme Hose [2.84] (Eleganz: 12)
+Geschenk Nr. 10 generiert | Kuscheliger Schal [2.1] (Eleganz: 17)
+Geschenk Nr. 11 generiert | Stacheliger Kaktus [6.61] 
+Geschenk Nr. 12 generiert | Rote Unterbuxe [4.34] (Eleganz: 14)
+Geschenk Nr. 13 generiert | Rote Unterbuxe [0.14] (Eleganz: 14)
+Geschenk Nr. 14 generiert | Lange Struempfe [0.81] (Eleganz: 15)
+Geschenk Nr. 15 generiert | Stacheliger Kaktus [15.56] 
+Geschenk Nr. 16 generiert | Zipfelige Muetze [3.85] (Eleganz: 16)
+Geschenk Nr. 17 generiert | Saftige Kekse [9.11] (nicht unbedingt gesund)
+Geschenk Nr. 18 generiert | Zipfelige Muetze [0.73] (Eleganz: 16)
+Geschenk Nr. 19 generiert | Niedliche Puppe [3.08] (Spannung: 4.6)
+Geschenk Nr. 20 generiert | Knusprige Kekse [1.87] (nicht unbedingt gesund)
+Geschenk Nr. 21 generiert | Leckere Papaya [13.33] (nicht unbedingt gesund)
+Geschenk Nr. 22 generiert | Rasende Eisenbahn [2.63] (Spannung: 4.4)
+Geschenk Nr. 23 generiert | Thermo-Ski-Unterwaesche [2.33] (Eleganz: 23)
+Geschenk Nr. 24 generiert | Leckere Papaya [14.17] (Ziemlich gesund)
+Geschenk Nr. 25 generiert | Spannendes Buch [2.02] 
+Geschenk Nr. 26 generiert | Rasende Eisenbahn [7.0] (Spannung: 11.9)
+Geschenk Nr. 27 generiert | Warme Socken [0.94] (Eleganz: 12)
+Geschenk Nr. 28 generiert | Niedliche Puppe [2.29] (Spannung: 3.4)
+Geschenk Nr. 29 generiert | Rasende Eisenbahn [6.34] (Spannung: 10.7)
+Geschenk Nr. 30 generiert | Stacheliger Kaktus [23.66] 
+Geschenk Nr. 31 generiert | Grosser Bagger [4.28] (Spannung: 5.9)
+Geschenk Nr. 32 generiert | Spannendes Buch [1.03] 
+Geschenk Nr. 33 generiert | Thermo-Ski-Unterwaesche [0.21] (Eleganz: 23)
+Geschenk Nr. 34 generiert | Schnelles Auto [5.22] (Spannung: 7.3)
+Geschenk Nr. 35 generiert | Rasende Eisenbahn [3.56] (Spannung: 6.0)
+Geschenk Nr. 36 generiert | Stacheliger Kaktus [4.21] 
+Geschenk Nr. 37 generiert | Rote Unterbuxe [2.71] (Eleganz: 14)
+Geschenk Nr. 38 generiert | Niedliche Puppe [0.83] (Spannung: 1.2)
+Geschenk Nr. 39 generiert | Rasende Eisenbahn [1.49] (Spannung: 2.5)
+Geschenk Nr. 40 generiert | Zipfelige Muetze [1.98] (Eleganz: 16)
+Geschenk Nr. 41 generiert | Rote Unterbuxe [2.25] (Eleganz: 14)
+Geschenk Nr. 42 generiert | Interessantes Brettspiel [1.3] (Spannung: 3.1)
+Geschenk Nr. 43 generiert | Duftende Badesalze [11.12] 
+Geschenk Nr. 44 generiert | Duftende Badesalze [17.98] 
+Geschenk Nr. 45 generiert | Dicker Pullover [4.13] (Eleganz: 15)
+Geschenk Nr. 46 generiert | Niedliche Puppe [6.07] (Spannung: 9.1)
+Geschenk Nr. 47 generiert | Saftige Kekse [9.18] (nicht unbedingt gesund)
+Geschenk Nr. 48 generiert | Duftende Badesalze [11.11] 
+Geschenk Nr. 49 generiert | Interessantes Brettspiel [0.78] (Spannung: 1.8)
+Geschenk Nr. 50 generiert | Selbstgemachtes Pesto [2.63] (Ziemlich gesund)
+Geschenk Nr. 51 generiert | Dicker Pullover [0.27] (Eleganz: 15)
+Geschenk Nr. 52 generiert | Grosser Bagger [3.07] (Spannung: 4.2)
+Geschenk Nr. 53 generiert | Niedliche Puppe [3.18] (Spannung: 4.7)
+Geschenk Nr. 54 generiert | Knusprige Kekse [13.1] (nicht unbedingt gesund)
+Geschenk Nr. 55 generiert | Rote Unterbuxe [4.07] (Eleganz: 14)
+Geschenk Nr. 56 generiert | Dicker Pullover [2.92] (Eleganz: 15)
+Geschenk Nr. 57 generiert | Leckere Papaya [4.87] (Ziemlich gesund)
+Geschenk Nr. 58 generiert | Bequeme Hose [3.79] (Eleganz: 12)
+Geschenk Nr. 59 generiert | Rasende Eisenbahn [6.89] (Spannung: 11.7)
+Geschenk Nr. 60 generiert | Schnelles Auto [2.36] 
+Geschenk Nr. 61 generiert | Leckerer Essensgutschein [14.28] 
+Geschenk Nr. 62 generiert | Lange Struempfe [1.86] (Eleganz: 15)
+Geschenk Nr. 63 generiert | Knusprige Kekse [3.33] (nicht unbedingt gesund)
+Geschenk Nr. 64 generiert | Selbstgemachtes Pesto [11.94] (nicht unbedingt gesund)
+Geschenk Nr. 65 generiert | Robuster Nussknacker [24.1] 
+Geschenk Nr. 66 generiert | Stacheliger Kaktus [15.93] 
+Geschenk Nr. 67 generiert | Rote Unterbuxe [4.22] (Eleganz: 14)
+Geschenk Nr. 68 generiert | Schnelles Auto [7.56] (Spannung: 10.5)
+Geschenk Nr. 69 generiert | Knusprige Kekse [3.93] (nicht unbedingt gesund)
+Geschenk Nr. 70 generiert | Leckere Papaya [13.46] (nicht unbedingt gesund)
+Geschenk Nr. 71 generiert | Niedliche Puppe [0.81] (Spannung: 1.2)
+Geschenk Nr. 72 generiert | Spannendes Buch [3.0] 
+Geschenk Nr. 73 generiert | Knusprige Kekse [11.72] (nicht unbedingt gesund)
+Geschenk Nr. 74 generiert | Thermo-Ski-Unterwaesche [0.06] (Eleganz: 23)
+Geschenk Nr. 75 generiert | Duftende Badesalze [5.38] 
+Geschenk Nr. 76 generiert | Kuscheliger Schal [2.06] (Eleganz: 17)
+Geschenk Nr. 77 generiert | Schnelles Auto [0.46] (Spannung: 0.6)
+Geschenk Nr. 78 generiert | Duftende Badesalze [9.74] 
+Geschenk Nr. 79 generiert | Rote Unterbuxe [2.7] (Eleganz: 14)
+Geschenk Nr. 80 generiert | Niedliche Puppe [2.77] (Spannung: 4.1)
+Geschenk Nr. 81 generiert | Kuscheliger Schal [2.44] (Eleganz: 17)
+Geschenk Nr. 82 generiert | Interessantes Brettspiel [8.71] (Spannung: 20.9)
+Geschenk Nr. 83 generiert | Kuscheliger Schal [4.18] (Eleganz: 17)
+Geschenk Nr. 84 generiert | Robuster Nussknacker [24.65] 
+Geschenk Nr. 85 generiert | Leckerer Essensgutschein [15.17] 
+Geschenk Nr. 86 generiert | Schnelles Kartenspiel [8.42] (Spannung: 17.6)
+Geschenk Nr. 87 generiert | Thermo-Ski-Unterwaesche [3.4] (Eleganz: 23)
+Geschenk Nr. 88 generiert | Gemaltes Memory [4.26] (Spannung: 6.3)
+Geschenk Nr. 89 generiert | Stacheliger Kaktus [2.39] 
+Geschenk Nr. 90 generiert | Leckerer Essensgutschein [23.23] 
+Geschenk Nr. 91 generiert | Gemaltes Memory [2.02] (Spannung: 3.0)
+Geschenk Nr. 92 generiert | Saftige Kekse [6.43] (Ziemlich gesund)
+Geschenk Nr. 93 generiert | Robuster Nussknacker [4.5] 
+Geschenk Nr. 94 generiert | Lange Struempfe [4.48] (Eleganz: 15)
+Geschenk Nr. 95 generiert | Selbstgemachtes Pesto [13.09] (nicht unbedingt gesund)
+Geschenk Nr. 96 generiert | Schoko-Nikolaus [0.37] (Ziemlich gesund)
+Geschenk Nr. 97 generiert | Warme Socken [3.75] (Eleganz: 12)
+Geschenk Nr. 98 generiert | Schoko-Nikolaus [8.65] (Ziemlich gesund)
+Geschenk Nr. 99 generiert | Aromatischer Tee [13.26] (nicht unbedingt gesund)
+Geschenk Nr. 100 generiert | Aromatischer Tee [1.61] (nicht unbedingt gesund)
+Geschenk Nr. 101 generiert | Niedliche Puppe [7.96] (Spannung: 11.9)
+Geschenk Nr. 102 generiert | Kuscheliger Schal [2.43] (Eleganz: 17)
+Geschenk Nr. 103 generiert | Kuscheliger Schal [3.99] (Eleganz: 17)
+Geschenk Nr. 104 generiert | Warme Socken [1.56] (Eleganz: 12)
+Geschenk Nr. 105 generiert | Aromatischer Tee [9.86] (nicht unbedingt gesund)
+Geschenk Nr. 106 generiert | Gemaltes Memory [4.41] (Spannung: 6.6)
+Geschenk Nr. 107 generiert | Selbstgemachtes Pesto [2.61] (Ziemlich gesund)
+Geschenk Nr. 108 generiert | Kuscheliger Schal [0.91] (Eleganz: 17)
+Geschenk Nr. 109 generiert | Stacheliger Kaktus [5.92] 
+Geschenk Nr. 110 generiert | Duftende Badesalze [10.31] 
+Geschenk Nr. 111 generiert | Robuster Nussknacker [2.52] 
+Geschenk Nr. 112 generiert | Schnelles Kartenspiel [0.48] (Spannung: 1.0)
+Geschenk Nr. 113 generiert | Saftige Kekse [8.11] (Ziemlich gesund)
+Geschenk Nr. 114 generiert | Dicker Pullover [1.77] (Eleganz: 15)
+Geschenk Nr. 115 generiert | Niedliche Puppe [4.28] (Spannung: 6.4)
+Geschenk Nr. 116 generiert | Grosser Bagger [0.41] (Spannung: 0.5)
+Geschenk Nr. 117 generiert | Knusprige Kekse [11.3] (nicht unbedingt gesund)
+Geschenk Nr. 118 generiert | Gemaltes Memory [9.94] (Spannung: 14.9)
+Geschenk Nr. 119 generiert | Saftige Kekse [7.01] (nicht unbedingt gesund)
+Geschenk Nr. 120 generiert | Warme Socken [2.78] (Eleganz: 12)
+Geschenk Nr. 121 generiert | Zipfelige Muetze [0.14] (Eleganz: 16)
+Geschenk Nr. 122 generiert | Grosser Bagger [4.5] (Spannung: 6.3)
+Geschenk Nr. 123 generiert | Stacheliger Kaktus [3.8] 
+Geschenk Nr. 124 generiert | Schnelles Auto [21.29] 
+Geschenk Nr. 125 generiert | Selbstgemachtes Pesto [4.9] (Ziemlich gesund)
+Geschenk Nr. 126 generiert | Saftige Kekse [3.81] (nicht unbedingt gesund)
+Geschenk Nr. 127 generiert | Selbstgemachtes Pesto [3.32] (nicht unbedingt gesund)
+Geschenk Nr. 128 generiert | Bequeme Hose [4.32] (Eleganz: 12)
+Geschenk Nr. 129 generiert | Rote Unterbuxe [0.02] (Eleganz: 14)
+Geschenk Nr. 130 generiert | Niedliche Puppe [9.49] (Spannung: 14.2)
+Geschenk Nr. 131 generiert | Spannendes Buch [20.74] 
+Geschenk Nr. 132 generiert | Interessantes Brettspiel [3.48] (Spannung: 8.3)
+Geschenk Nr. 133 generiert | Dicker Pullover [4.51] (Eleganz: 15)
+Geschenk Nr. 134 generiert | Schnelles Kartenspiel [4.08] (Spannung: 8.5)
+Geschenk Nr. 135 generiert | Leckerer Essensgutschein [10.38] 
+Geschenk Nr. 136 generiert | Schoko-Nikolaus [9.51] (nicht unbedingt gesund)
+Geschenk Nr. 137 generiert | Duftende Badesalze [1.01] 
+Geschenk Nr. 138 generiert | Leckere Papaya [14.71] (Ziemlich gesund)
+Geschenk Nr. 139 generiert | Duftende Badesalze [18.07] 
+Geschenk Nr. 140 generiert | Aromatischer Tee [12.73] (Ziemlich gesund)
+Geschenk Nr. 141 generiert | Aromatischer Tee [0.93] (Ziemlich gesund)
+Geschenk Nr. 142 generiert | Dicker Pullover [4.04] (Eleganz: 15)
+Geschenk Nr. 143 generiert | Knusprige Kekse [11.49] (nicht unbedingt gesund)
+Geschenk Nr. 144 generiert | Grosser Bagger [9.89] (Spannung: 13.8)
+Geschenk Nr. 145 generiert | Schnelles Auto [1.11] (Spannung: 1.5)
+Geschenk Nr. 146 generiert | Rasende Eisenbahn [5.29] (Spannung: 8.9)
+Geschenk Nr. 147 generiert | Leckerer Essensgutschein [13.34] 
+Geschenk Nr. 148 generiert | Saftige Kekse [2.88] (Ziemlich gesund)
+Geschenk Nr. 149 generiert | Schoko-Nikolaus [0.94] (Ziemlich gesund)
+Geschenk Nr. 150 generiert | Spannendes Buch [0.98] 
+Geschenk Nr. 151 generiert | Aromatischer Tee [10.56] (Ziemlich gesund)
+Geschenk Nr. 152 generiert | Schnelles Auto [3.8] 
+Geschenk Nr. 153 generiert | Schnelles Kartenspiel [3.25] (Spannung: 6.8)
+Geschenk Nr. 154 generiert | Schnelles Kartenspiel [5.27] (Spannung: 11.0)
+Geschenk Nr. 155 generiert | Niedliche Puppe [3.11] (Spannung: 4.6)
+Geschenk Nr. 156 generiert | Niedliche Puppe [0.45] (Spannung: 0.6)
+Geschenk Nr. 157 generiert | Lange Struempfe [0.22] (Eleganz: 15)
+Geschenk Nr. 158 generiert | Dicker Pullover [4.26] (Eleganz: 15)
+Geschenk Nr. 159 generiert | Robuster Nussknacker [11.82] 
+Geschenk Nr. 160 generiert | Warme Socken [1.38] (Eleganz: 12)
+Geschenk Nr. 161 generiert | Leckere Papaya [3.11] (nicht unbedingt gesund)
+Geschenk Nr. 162 generiert | Selbstgemachtes Pesto [10.94] (Ziemlich gesund)
+Geschenk Nr. 163 generiert | Leckerer Essensgutschein [14.47] 
+Geschenk Nr. 164 generiert | Spannendes Buch [19.44] 
+Geschenk Nr. 165 generiert | Schoko-Nikolaus [5.78] (nicht unbedingt gesund)
+Geschenk Nr. 166 generiert | Saftige Kekse [6.49] (Ziemlich gesund)
+Geschenk Nr. 167 generiert | Robuster Nussknacker [7.69] 
+Geschenk Nr. 168 generiert | Robuster Nussknacker [22.6] 
+Geschenk Nr. 169 generiert | Schnelles Auto [4.97] (Spannung: 6.9)
+Geschenk Nr. 170 generiert | Aromatischer Tee [2.7] (Ziemlich gesund)
+Geschenk Nr. 171 generiert | Rote Unterbuxe [4.98] (Eleganz: 14)
+Geschenk Nr. 172 generiert | Schnelles Auto [20.94] 
+Geschenk Nr. 173 generiert | Knusprige Kekse [12.3] (Ziemlich gesund)
+Geschenk Nr. 174 generiert | Niedliche Puppe [4.21] (Spannung: 6.3)
+Geschenk Nr. 175 generiert | Leckerer Essensgutschein [13.25] 
+Geschenk Nr. 176 generiert | Schnelles Auto [15.9] 
+Geschenk Nr. 177 generiert | Robuster Nussknacker [5.84] 
+Geschenk Nr. 178 generiert | Saftige Kekse [9.65] (nicht unbedingt gesund)
+Geschenk Nr. 179 generiert | Duftende Badesalze [1.06] 
+Geschenk Nr. 180 generiert | Schoko-Nikolaus [12.23] (Ziemlich gesund)
+Geschenk Nr. 181 generiert | Schnelles Auto [12.9] 
+Geschenk Nr. 182 generiert | Leckerer Essensgutschein [21.05] 
+Geschenk Nr. 183 generiert | Selbstgemachtes Pesto [9.64] (nicht unbedingt gesund)
+Geschenk Nr. 184 generiert | Schoko-Nikolaus [8.48] (Ziemlich gesund)
+Geschenk Nr. 185 generiert | Zipfelige Muetze [2.5] (Eleganz: 16)
+Geschenk Nr. 186 generiert | Rote Unterbuxe [3.67] (Eleganz: 14)
+Geschenk Nr. 187 generiert | Spannendes Buch [7.06] 
+Geschenk Nr. 188 generiert | Duftende Badesalze [0.74] 
+Geschenk Nr. 189 generiert | Grosser Bagger [2.12] (Spannung: 2.9)
+Geschenk Nr. 190 generiert | Dicker Pullover [0.85] (Eleganz: 15)
+Geschenk Nr. 191 generiert | Thermo-Ski-Unterwaesche [3.01] (Eleganz: 23)
+Geschenk Nr. 192 generiert | Selbstgemachtes Pesto [4.74] (Ziemlich gesund)
+Geschenk Nr. 193 generiert | Robuster Nussknacker [2.61] 
+Geschenk Nr. 194 generiert | Leckere Papaya [1.98] (nicht unbedingt gesund)
+Geschenk Nr. 195 generiert | Gemaltes Memory [9.49] (Spannung: 14.2)
+Geschenk Nr. 196 generiert | Stacheliger Kaktus [6.23] 
+Geschenk Nr. 197 generiert | Bequeme Hose [1.56] (Eleganz: 12)
+Geschenk Nr. 198 generiert | Stacheliger Kaktus [8.01] 
+Geschenk Nr. 199 generiert | Schnelles Auto [15.63] 
+Geschenk Nr. 200 generiert | Leckerer Essensgutschein [23.73] 
+Geschenk Nr. 201 generiert | Leckere Papaya [13.34] (nicht unbedingt gesund)
+Geschenk Nr. 202 generiert | Interessantes Brettspiel [1.35] (Spannung: 3.2)
+Geschenk Nr. 203 generiert | Warme Socken [1.12] (Eleganz: 12)
+Geschenk Nr. 204 generiert | Schnelles Kartenspiel [1.66] (Spannung: 3.4)
+Geschenk Nr. 205 generiert | Robuster Nussknacker [15.26] 
+Geschenk Nr. 206 generiert | Niedliche Puppe [9.59] (Spannung: 14.3)
+Geschenk Nr. 207 generiert | Schoko-Nikolaus [6.23] (Ziemlich gesund)
+Geschenk Nr. 208 generiert | Leckere Papaya [2.66] (Ziemlich gesund)
+Geschenk Nr. 209 generiert | Stacheliger Kaktus [18.42] 
+Geschenk Nr. 210 generiert | Leckere Papaya [5.38] (nicht unbedingt gesund)
+Geschenk Nr. 211 generiert | Stacheliger Kaktus [0.7] 
+Geschenk Nr. 212 generiert | Selbstgemachtes Pesto [12.61] (Ziemlich gesund)
+Geschenk Nr. 213 generiert | Aromatischer Tee [13.9] (nicht unbedingt gesund)
+Geschenk Nr. 214 generiert | Gemaltes Memory [9.94] (Spannung: 14.9)
+Geschenk Nr. 215 generiert | Warme Socken [4.51] (Eleganz: 12)
+Geschenk Nr. 216 generiert | Leckere Papaya [8.92] (Ziemlich gesund)
+Geschenk Nr. 217 generiert | Gemaltes Memory [0.17] (Spannung: 0.2)
+Geschenk Nr. 218 generiert | Selbstgemachtes Pesto [13.05] (nicht unbedingt gesund)
+Geschenk Nr. 219 generiert | Schnelles Kartenspiel [0.11] (Spannung: 0.2)
+Geschenk Nr. 220 generiert | Rote Unterbuxe [3.87] (Eleganz: 14)
+Geschenk Nr. 221 generiert | Robuster Nussknacker [13.36] 
+Geschenk Nr. 222 generiert | Leckere Papaya [3.87] (nicht unbedingt gesund)
+Geschenk Nr. 223 generiert | Interessantes Brettspiel [6.65] (Spannung: 15.9)
+Geschenk Nr. 224 generiert | Leckere Papaya [1.12] (nicht unbedingt gesund)
+Geschenk Nr. 225 generiert | Niedliche Puppe [3.96] (Spannung: 5.9)
+Geschenk Nr. 226 generiert | Aromatischer Tee [11.41] (nicht unbedingt gesund)
+Geschenk Nr. 227 generiert | Selbstgemachtes Pesto [13.73] (nicht unbedingt gesund)
+Geschenk Nr. 228 generiert | Robuster Nussknacker [21.29] 
+Geschenk Nr. 229 generiert | Niedliche Puppe [1.15] (Spannung: 1.7)
+Geschenk Nr. 230 generiert | Leckere Papaya [10.15] (Ziemlich gesund)
+Geschenk Nr. 231 generiert | Warme Socken [0.15] (Eleganz: 12)
+Geschenk Nr. 232 generiert | Gemaltes Memory [5.2] (Spannung: 7.8)
+Geschenk Nr. 233 generiert | Interessantes Brettspiel [2.96] (Spannung: 7.1)
+Geschenk Nr. 234 generiert | Interessantes Brettspiel [5.93] (Spannung: 14.2)
+Geschenk Nr. 235 generiert | Schnelles Auto [1.92] (Spannung: 2.6)
+Geschenk Nr. 236 generiert | Schnelles Kartenspiel [1.08] (Spannung: 2.2)
+Geschenk Nr. 237 generiert | Rasende Eisenbahn [9.5] (Spannung: 16.1)
+Geschenk Nr. 238 generiert | Schnelles Auto [0.03] (Spannung: 0.0)
+Geschenk Nr. 239 generiert | Grosser Bagger [3.39] (Spannung: 4.7)
+Geschenk Nr. 240 generiert | Aromatischer Tee [8.44] (Ziemlich gesund)
+Geschenk Nr. 241 generiert | Interessantes Brettspiel [7.83] (Spannung: 18.7)
+Geschenk Nr. 242 generiert | Spannendes Buch [12.38] 
+Geschenk Nr. 243 generiert | Spannendes Buch [15.22] 
+Geschenk Nr. 244 generiert | Interessantes Brettspiel [7.51] (Spannung: 18.0)
+Geschenk Nr. 245 generiert | Leckere Papaya [12.85] (Ziemlich gesund)
+Geschenk Nr. 246 generiert | Aromatischer Tee [8.59] (Ziemlich gesund)
+Geschenk Nr. 247 generiert | Robuster Nussknacker [4.54] 
+Geschenk Nr. 248 generiert | Schoko-Nikolaus [13.73] (nicht unbedingt gesund)
+Geschenk Nr. 249 generiert | Saftige Kekse [10.85] (Ziemlich gesund)
+Geschenk Nr. 250 generiert | Schnelles Kartenspiel [9.35] (Spannung: 19.6)
+Geschenk Nr. 251 generiert | Dicker Pullover [0.28] (Eleganz: 15)
+Geschenk Nr. 252 generiert | Warme Socken [4.61] (Eleganz: 12)
+Geschenk Nr. 253 generiert | Grosser Bagger [4.26] (Spannung: 5.9)
+Geschenk Nr. 254 generiert | Stacheliger Kaktus [24.99] 
+Geschenk Nr. 255 generiert | Stacheliger Kaktus [5.89] 
+Geschenk Nr. 256 generiert | Schnelles Auto [15.01] 
+Geschenk Nr. 257 generiert | Knusprige Kekse [10.42] (Ziemlich gesund)
+Geschenk Nr. 258 generiert | Stacheliger Kaktus [17.36] 
+Geschenk Nr. 259 generiert | Knusprige Kekse [10.64] (Ziemlich gesund)
+Geschenk Nr. 260 generiert | Saftige Kekse [7.29] (nicht unbedingt gesund)
+Geschenk Nr. 261 generiert | Selbstgemachtes Pesto [6.93] (Ziemlich gesund)
+Geschenk Nr. 262 generiert | Rote Unterbuxe [1.22] (Eleganz: 14)
+Geschenk Nr. 263 generiert | Spannendes Buch [20.71] 
+Geschenk Nr. 264 generiert | Kuscheliger Schal [4.38] (Eleganz: 17)
+Geschenk Nr. 265 generiert | Warme Socken [0.86] (Eleganz: 12)
+Geschenk Nr. 266 generiert | Warme Socken [0.01] (Eleganz: 12)
+Geschenk Nr. 267 generiert | Rasende Eisenbahn [7.67] (Spannung: 13.0)
+Geschenk Nr. 268 generiert | Bequeme Hose [0.06] (Eleganz: 12)
+Geschenk Nr. 269 generiert | Gemaltes Memory [2.16] (Spannung: 3.2)
+Geschenk Nr. 270 generiert | Schnelles Kartenspiel [6.86] (Spannung: 14.4)
+Geschenk Nr. 271 generiert | Schnelles Kartenspiel [0.15] (Spannung: 0.3)
+Geschenk Nr. 272 generiert | Robuster Nussknacker [0.85] 
+Geschenk Nr. 273 generiert | Leckere Papaya [6.38] (Ziemlich gesund)
+Geschenk Nr. 274 generiert | Saftige Kekse [13.91] (nicht unbedingt gesund)
+Geschenk Nr. 275 generiert | Duftende Badesalze [17.02] 
+Geschenk Nr. 276 generiert | Niedliche Puppe [1.7] (Spannung: 2.5)
+Geschenk Nr. 277 generiert | Aromatischer Tee [4.26] (Ziemlich gesund)
+Geschenk Nr. 278 generiert | Robuster Nussknacker [20.2] 
+Geschenk Nr. 279 generiert | Saftige Kekse [1.29] (nicht unbedingt gesund)
+Geschenk Nr. 280 generiert | Knusprige Kekse [10.45] (Ziemlich gesund)
+Geschenk Nr. 281 generiert | Gemaltes Memory [6.62] (Spannung: 9.9)
+Geschenk Nr. 282 generiert | Rasende Eisenbahn [4.84] (Spannung: 8.2)
+Geschenk Nr. 283 generiert | Aromatischer Tee [1.35] (nicht unbedingt gesund)
+Geschenk Nr. 284 generiert | Lange Struempfe [1.11] (Eleganz: 15)
+Geschenk Nr. 285 generiert | Warme Socken [2.78] (Eleganz: 12)
+Geschenk Nr. 286 generiert | Spannendes Buch [23.2] 
+Geschenk Nr. 287 generiert | Selbstgemachtes Pesto [6.07] (Ziemlich gesund)
+Geschenk Nr. 288 generiert | Schnelles Kartenspiel [5.15] (Spannung: 10.8)
+Geschenk Nr. 289 generiert | Schoko-Nikolaus [7.4] (nicht unbedingt gesund)
+Geschenk Nr. 290 generiert | Lange Struempfe [4.42] (Eleganz: 15)
+Geschenk Nr. 291 generiert | Robuster Nussknacker [13.71] 
+Geschenk Nr. 292 generiert | Aromatischer Tee [1.88] (nicht unbedingt gesund)
+Geschenk Nr. 293 generiert | Saftige Kekse [5.37] (nicht unbedingt gesund)
+Geschenk Nr. 294 generiert | Saftige Kekse [3.91] (nicht unbedingt gesund)
+Geschenk Nr. 295 generiert | Schnelles Kartenspiel [4.01] (Spannung: 8.4)
+Geschenk Nr. 296 generiert | Schoko-Nikolaus [4.8] (Ziemlich gesund)
+Geschenk Nr. 297 generiert | Spannendes Buch [12.14] 
+Geschenk Nr. 298 generiert | Bequeme Hose [2.49] (Eleganz: 12)
+Geschenk Nr. 299 generiert | Leckerer Essensgutschein [23.4] 
+Geschenk Nr. 300 generiert | Rote Unterbuxe [4.24] (Eleganz: 14)
+Geschenk Nr. 301 generiert | Interessantes Brettspiel [2.08] (Spannung: 4.9)
+Geschenk Nr. 302 generiert | Zipfelige Muetze [4.28] (Eleganz: 16)
+Geschenk Nr. 303 generiert | Duftende Badesalze [18.09] 
+Geschenk Nr. 304 generiert | Aromatischer Tee [2.52] (Ziemlich gesund)
+Geschenk Nr. 305 generiert | Warme Socken [1.65] (Eleganz: 12)
+Geschenk Nr. 306 generiert | Lange Struempfe [4.53] (Eleganz: 15)
+Geschenk Nr. 307 generiert | Rasende Eisenbahn [4.21] (Spannung: 7.1)
+Geschenk Nr. 308 generiert | Rasende Eisenbahn [5.78] (Spannung: 9.8)
+Geschenk Nr. 309 generiert | Knusprige Kekse [13.46] (nicht unbedingt gesund)
+Geschenk Nr. 310 generiert | Stacheliger Kaktus [22.62] 
+Geschenk Nr. 311 generiert | Lange Struempfe [3.07] (Eleganz: 15)
+Geschenk Nr. 312 generiert | Stacheliger Kaktus [23.0] 
+Geschenk Nr. 313 generiert | Niedliche Puppe [2.33] (Spannung: 3.4)
+Geschenk Nr. 314 generiert | Gemaltes Memory [5.95] (Spannung: 8.9)
+Geschenk Nr. 315 generiert | Spannendes Buch [17.57] 
+Geschenk Nr. 316 generiert | Schoko-Nikolaus [12.18] (Ziemlich gesund)
+Geschenk Nr. 317 generiert | Warme Socken [0.9] (Eleganz: 12)
+Geschenk Nr. 318 generiert | Saftige Kekse [5.31] (nicht unbedingt gesund)
+Geschenk Nr. 319 generiert | Grosser Bagger [3.22] (Spannung: 4.5)
+Geschenk Nr. 320 generiert | Stacheliger Kaktus [8.3] 
+Geschenk Nr. 321 generiert | Stacheliger Kaktus [1.47] 
+Geschenk Nr. 322 generiert | Stacheliger Kaktus [18.8] 
+Geschenk Nr. 323 generiert | Stacheliger Kaktus [8.39] 
+Geschenk Nr. 324 generiert | Saftige Kekse [6.19] (Ziemlich gesund)
+Geschenk Nr. 325 generiert | Robuster Nussknacker [22.08] 
+Geschenk Nr. 326 generiert | Schoko-Nikolaus [3.73] (nicht unbedingt gesund)
+Geschenk Nr. 327 generiert | Lange Struempfe [2.42] (Eleganz: 15)
+Geschenk Nr. 328 generiert | Saftige Kekse [6.8] (Ziemlich gesund)
+Geschenk Nr. 329 generiert | Niedliche Puppe [0.12] (Spannung: 0.1)
+Geschenk Nr. 330 generiert | Lange Struempfe [4.38] (Eleganz: 15)
+Geschenk Nr. 331 generiert | Zipfelige Muetze [3.68] (Eleganz: 16)
+Geschenk Nr. 332 generiert | Rasende Eisenbahn [7.21] (Spannung: 12.2)
+Geschenk Nr. 333 generiert | Duftende Badesalze [6.07] 
+Geschenk Nr. 334 generiert | Dicker Pullover [3.64] (Eleganz: 15)
+Geschenk Nr. 335 generiert | Stacheliger Kaktus [18.1] 
+Geschenk Nr. 336 generiert | Robuster Nussknacker [18.92] 
+Geschenk Nr. 337 generiert | Schnelles Auto [13.78] 
+Geschenk Nr. 338 generiert | Bequeme Hose [1.82] (Eleganz: 12)
+Geschenk Nr. 339 generiert | Stacheliger Kaktus [1.96] 
+Geschenk Nr. 340 generiert | Warme Socken [0.65] (Eleganz: 12)
+Geschenk Nr. 341 generiert | Zipfelige Muetze [4.21] (Eleganz: 16)
+Geschenk Nr. 342 generiert | Niedliche Puppe [9.56] (Spannung: 14.3)
+Geschenk Nr. 343 generiert | Thermo-Ski-Unterwaesche [4.73] (Eleganz: 23)
+Geschenk Nr. 344 generiert | Duftende Badesalze [13.73] 
+Geschenk Nr. 345 generiert | Leckerer Essensgutschein [0.95] 
+Geschenk Nr. 346 generiert | Kuscheliger Schal [3.21] (Eleganz: 17)
+Geschenk Nr. 347 generiert | Stacheliger Kaktus [13.22] 
+Geschenk Nr. 348 generiert | Kuscheliger Schal [2.27] (Eleganz: 17)
+Geschenk Nr. 349 generiert | Lange Struempfe [0.2] (Eleganz: 15)
+Geschenk Nr. 350 generiert | Knusprige Kekse [14.53] (Ziemlich gesund)
+Geschenk Nr. 351 generiert | Grosser Bagger [9.64] (Spannung: 13.4)
+Geschenk Nr. 352 generiert | Aromatischer Tee [14.18] (Ziemlich gesund)
+Geschenk Nr. 353 generiert | Robuster Nussknacker [20.16] 
+Geschenk Nr. 354 generiert | Schoko-Nikolaus [13.14] (nicht unbedingt gesund)
+Geschenk Nr. 355 generiert | Interessantes Brettspiel [2.61] (Spannung: 6.2)
+Geschenk Nr. 356 generiert | Bequeme Hose [4.63] (Eleganz: 12)
+Geschenk Nr. 357 generiert | Zipfelige Muetze [0.99] (Eleganz: 16)
+Geschenk Nr. 358 generiert | Leckere Papaya [14.8] (Ziemlich gesund)
+Geschenk Nr. 359 generiert | Lange Struempfe [1.06] (Eleganz: 15)
+Geschenk Nr. 360 generiert | Rasende Eisenbahn [5.33] (Spannung: 9.0)
+Geschenk Nr. 361 generiert | Rote Unterbuxe [4.76] (Eleganz: 14)
+Geschenk Nr. 362 generiert | Interessantes Brettspiel [4.57] (Spannung: 10.9)
+Geschenk Nr. 363 generiert | Leckerer Essensgutschein [3.1] 
+Geschenk Nr. 364 generiert | Interessantes Brettspiel [8.3] (Spannung: 19.9)
+Geschenk Nr. 365 generiert | Rasende Eisenbahn [8.02] (Spannung: 13.6)
+Geschenk Nr. 366 generiert | Spannendes Buch [3.99] 
+Geschenk Nr. 367 generiert | Rote Unterbuxe [4.95] (Eleganz: 14)
+Geschenk Nr. 368 generiert | Leckere Papaya [8.01] (Ziemlich gesund)
+Geschenk Nr. 369 generiert | Grosser Bagger [6.63] (Spannung: 9.2)
+Geschenk Nr. 370 generiert | Knusprige Kekse [10.47] (Ziemlich gesund)
+Geschenk Nr. 371 generiert | Leckerer Essensgutschein [5.85] 
+Geschenk Nr. 372 generiert | Niedliche Puppe [5.73] (Spannung: 8.5)
+Geschenk Nr. 373 generiert | Duftende Badesalze [11.73] 
+Geschenk Nr. 374 generiert | Thermo-Ski-Unterwaesche [3.72] (Eleganz: 23)
+Geschenk Nr. 375 generiert | Aromatischer Tee [6.82] (Ziemlich gesund)
+Geschenk Nr. 376 generiert | Rote Unterbuxe [0.96] (Eleganz: 14)
+Geschenk Nr. 377 generiert | Rote Unterbuxe [1.09] (Eleganz: 14)
+Geschenk Nr. 378 generiert | Gemaltes Memory [9.07] (Spannung: 13.6)
+Geschenk Nr. 379 generiert | Robuster Nussknacker [7.18] 
+Geschenk Nr. 380 generiert | Leckerer Essensgutschein [13.8] 
+Geschenk Nr. 381 generiert | Leckerer Essensgutschein [8.92] 
+Geschenk Nr. 382 generiert | Schoko-Nikolaus [2.87] (Ziemlich gesund)
+Geschenk Nr. 383 generiert | Stacheliger Kaktus [11.04] 
+Geschenk Nr. 384 generiert | Spannendes Buch [6.73] 
+Geschenk Nr. 385 generiert | Schnelles Auto [23.42] 
+Geschenk Nr. 386 generiert | Leckerer Essensgutschein [6.62] 
+Geschenk Nr. 387 generiert | Saftige Kekse [10.33] (Ziemlich gesund)
+Geschenk Nr. 388 generiert | Bequeme Hose [4.48] (Eleganz: 12)
+Geschenk Nr. 389 generiert | Knusprige Kekse [14.79] (Ziemlich gesund)
+Geschenk Nr. 390 generiert | Gemaltes Memory [1.3] (Spannung: 1.9)
+Geschenk Nr. 391 generiert | Spannendes Buch [23.38] 
+Geschenk Nr. 392 generiert | Schnelles Auto [21.9] 
+Geschenk Nr. 393 generiert | Schnelles Kartenspiel [0.22] (Spannung: 0.4)
+Geschenk Nr. 394 generiert | Selbstgemachtes Pesto [0.11] (Ziemlich gesund)
+Geschenk Nr. 395 generiert | Spannendes Buch [17.48] 
+Geschenk Nr. 396 generiert | Leckerer Essensgutschein [0.09] 
+Geschenk Nr. 397 generiert | Aromatischer Tee [11.73] (nicht unbedingt gesund)
+Geschenk Nr. 398 generiert | Schnelles Auto [17.73] 
+Geschenk Nr. 399 generiert | Spannendes Buch [16.41] 
+Geschenk Nr. 400 generiert | Kuscheliger Schal [4.54] (Eleganz: 17)
+Geschenk Nr. 401 generiert | Schoko-Nikolaus [4.78] (Ziemlich gesund)
+Geschenk Nr. 402 generiert | Interessantes Brettspiel [0.17] (Spannung: 0.4)
+Geschenk Nr. 403 generiert | Spannendes Buch [15.4] 
+Geschenk Nr. 404 generiert | Bequeme Hose [1.68] (Eleganz: 12)
+Geschenk Nr. 405 generiert | Kuscheliger Schal [0.85] (Eleganz: 17)
+Geschenk Nr. 406 generiert | Robuster Nussknacker [13.66] 
+Geschenk Nr. 407 generiert | Zipfelige Muetze [0.56] (Eleganz: 16)
+Geschenk Nr. 408 generiert | Schoko-Nikolaus [4.59] (Ziemlich gesund)
+Geschenk Nr. 409 generiert | Leckere Papaya [14.38] (Ziemlich gesund)
+Geschenk Nr. 410 generiert | Duftende Badesalze [4.2] 
+Geschenk Nr. 411 generiert | Schoko-Nikolaus [6.7] (Ziemlich gesund)
+Geschenk Nr. 412 generiert | Schnelles Kartenspiel [6.24] (Spannung: 13.1)
+Geschenk Nr. 413 generiert | Spannendes Buch [16.3] 
+Geschenk Nr. 414 generiert | Spannendes Buch [17.84] 
+Geschenk Nr. 415 generiert | Stacheliger Kaktus [0.08] 
+Geschenk Nr. 416 generiert | Gemaltes Memory [7.52] (Spannung: 11.2)
+Geschenk Nr. 417 generiert | Thermo-Ski-Unterwaesche [3.48] (Eleganz: 23)
+Geschenk Nr. 418 generiert | Rasende Eisenbahn [7.98] (Spannung: 13.5)
+Geschenk Nr. 419 generiert | Schnelles Kartenspiel [5.75] (Spannung: 12.0)
+Geschenk Nr. 420 generiert | Selbstgemachtes Pesto [4.3] (Ziemlich gesund)
+Geschenk Nr. 421 generiert | Robuster Nussknacker [19.21] 
+Geschenk Nr. 422 generiert | Leckere Papaya [6.92] (Ziemlich gesund)
+Geschenk Nr. 423 generiert | Duftende Badesalze [10.5] 
+Geschenk Nr. 424 generiert | Dicker Pullover [1.74] (Eleganz: 15)
+Geschenk Nr. 425 generiert | Schnelles Auto [3.81] 
+Geschenk Nr. 426 generiert | Leckerer Essensgutschein [21.8] 
+Geschenk Nr. 427 generiert | Lange Struempfe [4.36] (Eleganz: 15)
+Geschenk Nr. 428 generiert | Saftige Kekse [14.9] (Ziemlich gesund)
+Geschenk Nr. 429 generiert | Interessantes Brettspiel [4.97] (Spannung: 11.9)
+Geschenk Nr. 430 generiert | Robuster Nussknacker [0.74] 
+Geschenk Nr. 431 generiert | Gemaltes Memory [9.53] (Spannung: 14.3)
+Geschenk Nr. 432 generiert | Saftige Kekse [7.61] (nicht unbedingt gesund)
+Geschenk Nr. 433 generiert | Rote Unterbuxe [4.19] (Eleganz: 14)
+Geschenk Nr. 434 generiert | Lange Struempfe [3.77] (Eleganz: 15)
+Geschenk Nr. 435 generiert | Zipfelige Muetze [1.15] (Eleganz: 16)
+Geschenk Nr. 436 generiert | Grosser Bagger [2.68] (Spannung: 3.7)
+Geschenk Nr. 437 generiert | Schoko-Nikolaus [13.67] (nicht unbedingt gesund)
+Geschenk Nr. 438 generiert | Schnelles Auto [4.99] 
+Geschenk Nr. 439 generiert | Rote Unterbuxe [4.74] (Eleganz: 14)
+Geschenk Nr. 440 generiert | Dicker Pullover [1.25] (Eleganz: 15)
+Geschenk Nr. 441 generiert | Dicker Pullover [1.24] (Eleganz: 15)
+Geschenk Nr. 442 generiert | Knusprige Kekse [12.65] (Ziemlich gesund)
+Geschenk Nr. 443 generiert | Stacheliger Kaktus [20.81] 
+Geschenk Nr. 444 generiert | Niedliche Puppe [2.52] (Spannung: 3.7)
+Geschenk Nr. 445 generiert | Dicker Pullover [3.4] (Eleganz: 15)
+Geschenk Nr. 446 generiert | Schnelles Auto [5.37] 
+Geschenk Nr. 447 generiert | Schnelles Kartenspiel [9.83] (Spannung: 20.6)
+Geschenk Nr. 448 generiert | Leckere Papaya [14.98] (Ziemlich gesund)
+Geschenk Nr. 449 generiert | Leckerer Essensgutschein [23.12] 
+Geschenk Nr. 450 generiert | Zipfelige Muetze [4.7] (Eleganz: 16)
+Geschenk Nr. 451 generiert | Saftige Kekse [6.77] (Ziemlich gesund)
+Geschenk Nr. 452 generiert | Leckere Papaya [12.19] (Ziemlich gesund)
+Geschenk Nr. 453 generiert | Schnelles Auto [7.05] (Spannung: 9.8)
+Geschenk Nr. 454 generiert | Rote Unterbuxe [4.01] (Eleganz: 14)
+Geschenk Nr. 455 generiert | Interessantes Brettspiel [6.32] (Spannung: 15.1)
+Geschenk Nr. 456 generiert | Schoko-Nikolaus [3.75] (nicht unbedingt gesund)
+Geschenk Nr. 457 generiert | Interessantes Brettspiel [2.85] (Spannung: 6.8)
+Geschenk Nr. 458 generiert | Lange Struempfe [4.59] (Eleganz: 15)
+Geschenk Nr. 459 generiert | Saftige Kekse [8.18] (Ziemlich gesund)
+Geschenk Nr. 460 generiert | Schnelles Kartenspiel [1.42] (Spannung: 2.9)
+Geschenk Nr. 461 generiert | Schnelles Auto [4.2] (Spannung: 5.8)
+Geschenk Nr. 462 generiert | Thermo-Ski-Unterwaesche [3.55] (Eleganz: 23)
+Geschenk Nr. 463 generiert | Robuster Nussknacker [1.38] 
+Geschenk Nr. 464 generiert | Schnelles Auto [0.01] (Spannung: 0.0)
+Geschenk Nr. 465 generiert | Leckerer Essensgutschein [4.32] 
+Geschenk Nr. 466 generiert | Aromatischer Tee [5.33] (nicht unbedingt gesund)
+Geschenk Nr. 467 generiert | Schnelles Auto [1.68] (Spannung: 2.3)
+Geschenk Nr. 468 generiert | Grosser Bagger [3.62] (Spannung: 5.0)
+Geschenk Nr. 469 generiert | Schnelles Kartenspiel [7.1] (Spannung: 14.9)
+Geschenk Nr. 470 generiert | Robuster Nussknacker [17.94] 
+Geschenk Nr. 471 generiert | Schoko-Nikolaus [10.36] (Ziemlich gesund)
+Geschenk Nr. 472 generiert | Grosser Bagger [0.7] (Spannung: 0.9)
+Geschenk Nr. 473 generiert | Thermo-Ski-Unterwaesche [0.67] (Eleganz: 23)
+Geschenk Nr. 474 generiert | Robuster Nussknacker [18.12] 
+Geschenk Nr. 475 generiert | Thermo-Ski-Unterwaesche [4.25] (Eleganz: 23)
+Geschenk Nr. 476 generiert | Grosser Bagger [0.93] (Spannung: 1.3)
+Geschenk Nr. 477 generiert | Kuscheliger Schal [3.33] (Eleganz: 17)
+Geschenk Nr. 478 generiert | Schoko-Nikolaus [10.52] (Ziemlich gesund)
+Geschenk Nr. 479 generiert | Leckerer Essensgutschein [17.02] 
+Geschenk Nr. 480 generiert | Schnelles Kartenspiel [4.48] (Spannung: 9.4)
+Geschenk Nr. 481 generiert | Gemaltes Memory [4.51] (Spannung: 6.7)
+Geschenk Nr. 482 generiert | Bequeme Hose [2.02] (Eleganz: 12)
+Geschenk Nr. 483 generiert | Duftende Badesalze [17.55] 
+Geschenk Nr. 484 generiert | Bequeme Hose [4.28] (Eleganz: 12)
+Geschenk Nr. 485 generiert | Spannendes Buch [22.97] 
+Geschenk Nr. 486 generiert | Stacheliger Kaktus [19.57] 
+Geschenk Nr. 487 generiert | Zipfelige Muetze [3.14] (Eleganz: 16)
+Geschenk Nr. 488 generiert | Niedliche Puppe [0.57] (Spannung: 0.8)
+Geschenk Nr. 489 generiert | Kuscheliger Schal [0.94] (Eleganz: 17)
+Geschenk Nr. 490 generiert | Knusprige Kekse [4.61] (Ziemlich gesund)
+Geschenk Nr. 491 generiert | Schnelles Auto [23.93] 
+Geschenk Nr. 492 generiert | Aromatischer Tee [8.14] (Ziemlich gesund)
+Geschenk Nr. 493 generiert | Niedliche Puppe [4.68] (Spannung: 7.0)
+Geschenk Nr. 494 generiert | Thermo-Ski-Unterwaesche [2.71] (Eleganz: 23)
+Geschenk Nr. 495 generiert | Rasende Eisenbahn [6.83] (Spannung: 11.6)
+Geschenk Nr. 496 generiert | Spannendes Buch [7.57] 
+Geschenk Nr. 497 generiert | Leckere Papaya [14.3] (Ziemlich gesund)
+Geschenk Nr. 498 generiert | Aromatischer Tee [14.48] (Ziemlich gesund)
+Geschenk Nr. 499 generiert | Leckerer Essensgutschein [22.01] 
+Es wurden 500 Geschenke erzeugt.
+----------------------------------------
+Es werden jetzt 25 Wichtel erzeugt ....
+Roter Wichtel  KOOPO meldet sich auf dem Panzerkreuzer Potemkin zum Appell!
+Roter Wichtel  UMAARIYIFI meldet sich auf dem Panzerkreuzer Potemkin zum Appell!
+Blauer Wichtel OPOEORL meldet sich nüchtern zum Dienst!
+Roter Wichtel  NORZOTOUMA meldet sich auf dem Panzerkreuzer Potemkin zum Appell!
+Roter Wichtel  ROMIWEL meldet sich auf dem Panzerkreuzer Potemkin zum Appell!
+Gelber Wichtel ZOTOLE meldet sich ohne Gelbsucht aus dem Krankenhaus zurück!
+Roter Wichtel  WELIOTIOPO meldet sich auf dem Panzerkreuzer Potemkin zum Appell!
+Roter Wichtel  VARIOTI meldet sich auf dem Panzerkreuzer Potemkin zum Appell!
+Roter Wichtel  MUHATIXUL meldet sich auf dem Panzerkreuzer Potemkin zum Appell!
+Gelber Wichtel DURJOLA meldet sich ohne Gelbsucht aus dem Krankenhaus zurück!
+Roter Wichtel  YIFICAR meldet sich auf dem Panzerkreuzer Potemkin zum Appell!
+Blauer Wichtel VARXUL meldet sich nüchtern zum Dienst!
+Gelber Wichtel JOLAKOJOLA meldet sich ohne Gelbsucht aus dem Krankenhaus zurück!
+Roter Wichtel  XULHATIOPO meldet sich auf dem Panzerkreuzer Potemkin zum Appell!
+Gelber Wichtel VARNOR meldet sich ohne Gelbsucht aus dem Krankenhaus zurück!
+Gelber Wichtel GEROSXUL meldet sich ohne Gelbsucht aus dem Krankenhaus zurück!
+Gelber Wichtel YIFIROMI meldet sich ohne Gelbsucht aus dem Krankenhaus zurück!
+Blauer Wichtel SETIMUFRI meldet sich nüchtern zum Dienst!
+Blauer Wichtel UMADUR meldet sich nüchtern zum Dienst!
+Blauer Wichtel LEWEL meldet sich nüchtern zum Dienst!
+Roter Wichtel  TAZZOTO meldet sich auf dem Panzerkreuzer Potemkin zum Appell!
+Gelber Wichtel EORLLE meldet sich ohne Gelbsucht aus dem Krankenhaus zurück!
+Roter Wichtel  XULFRIBOR meldet sich auf dem Panzerkreuzer Potemkin zum Appell!
+Blauer Wichtel UMAUMA meldet sich nüchtern zum Dienst!
+Gelber Wichtel XULJOLA meldet sich ohne Gelbsucht aus dem Krankenhaus zurück!
+Es wurden 25 Wichtel erzeugt.
+----------------------------------------
+Runde 1
+Roter Wichtel  KOOPO bearbeitet nun #0 
+ --> Kuscheliger Schal [0.36] (Eleganz: 17)
+Roter Wichtel  UMAARIYIFI bearbeitet nun #1 
+ --> Schnelles Auto [12.0] 
+Blauer Wichtel OPOEORL bearbeitet nun #2 
+ --> Gemaltes Memory [2.15] (Spannung: 3.2)
+Roter Wichtel  NORZOTOUMA bearbeitet nun #3 
+ --> Kuscheliger Schal [0.83] (Eleganz: 17)
+Roter Wichtel  ROMIWEL bearbeitet nun #4 
+ --> Dicker Pullover [2.11] (Eleganz: 15)
+Gelber Wichtel ZOTOLE bearbeitet nun #5 
+ --> Robuster Nussknacker [19.75] 
+Roter Wichtel  WELIOTIOPO bearbeitet nun #6 
+ --> Schnelles Auto [13.16] 
+Roter Wichtel  VARIOTI bearbeitet nun #7 
+ --> Duftende Badesalze [7.81] 
+Roter Wichtel  MUHATIXUL bearbeitet nun #8 
+ --> Schnelles Kartenspiel [1.96] (Spannung: 4.1)
+Gelber Wichtel DURJOLA bearbeitet nun #9 
+ --> Bequeme Hose [2.84] (Eleganz: 12)
+Roter Wichtel  YIFICAR bearbeitet nun #10 
+ --> Kuscheliger Schal [2.1] (Eleganz: 17)
+Blauer Wichtel VARXUL bearbeitet nun #11 
+ --> Stacheliger Kaktus [6.61] 
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #12 
+ --> Rote Unterbuxe [4.34] (Eleganz: 14)
+Roter Wichtel  XULHATIOPO bearbeitet nun #13 
+ --> Rote Unterbuxe [0.14] (Eleganz: 14)
+Gelber Wichtel VARNOR bearbeitet nun #14 
+ --> Lange Struempfe [0.81] (Eleganz: 15)
+Gelber Wichtel GEROSXUL bearbeitet nun #15 
+ --> Stacheliger Kaktus [15.56] 
+Gelber Wichtel YIFIROMI bearbeitet nun #16 
+ --> Zipfelige Muetze [3.85] (Eleganz: 16)
+Blauer Wichtel SETIMUFRI bearbeitet nun #17 
+ --> Saftige Kekse [9.11] (nicht unbedingt gesund)
+Blauer Wichtel UMADUR bearbeitet nun #18 
+ --> Zipfelige Muetze [0.73] (Eleganz: 16)
+Blauer Wichtel LEWEL bearbeitet nun #19 
+ --> Niedliche Puppe [3.08] (Spannung: 4.6)
+Roter Wichtel  TAZZOTO bearbeitet nun #20 
+ --> Knusprige Kekse [1.87] (nicht unbedingt gesund)
+Gelber Wichtel EORLLE bearbeitet nun #21 
+ --> Leckere Papaya [13.33] (nicht unbedingt gesund)
+Roter Wichtel  XULFRIBOR bearbeitet nun #22 
+ --> Rasende Eisenbahn [2.63] (Spannung: 4.4)
+Blauer Wichtel UMAUMA bearbeitet nun #23 
+ --> Thermo-Ski-Unterwaesche [2.33] (Eleganz: 23)
+Gelber Wichtel XULJOLA bearbeitet nun #24 
+ --> Leckere Papaya [14.17] (Ziemlich gesund)
+----------------------------------------
+Runde 2
+Roter Wichtel  KOOPO bearbeitet nun #25 
+ --> Spannendes Buch [2.02] 
+Roter Wichtel  NORZOTOUMA bearbeitet nun #26 
+ --> Rasende Eisenbahn [7.0] (Spannung: 11.9)
+Roter Wichtel  ROMIWEL bearbeitet nun #27 
+ --> Warme Socken [0.94] (Eleganz: 12)
+Roter Wichtel  YIFICAR bearbeitet nun #28 
+ --> Niedliche Puppe [2.29] (Spannung: 3.4)
+Roter Wichtel  XULHATIOPO bearbeitet nun #29 
+ --> Rasende Eisenbahn [6.34] (Spannung: 10.7)
+Roter Wichtel  TAZZOTO bearbeitet nun #30 
+ --> Stacheliger Kaktus [23.66] 
+----------------------------------------
+Runde 3
+Roter Wichtel  KOOPO bearbeitet nun #31 
+ --> Grosser Bagger [4.28] (Spannung: 5.9)
+Roter Wichtel  ROMIWEL bearbeitet nun #32 
+ --> Spannendes Buch [1.03] 
+Roter Wichtel  MUHATIXUL bearbeitet nun #33 
+ --> Thermo-Ski-Unterwaesche [0.21] (Eleganz: 23)
+----------------------------------------
+Runde 4
+Roter Wichtel  ROMIWEL bearbeitet nun #34 
+ --> Schnelles Auto [5.22] (Spannung: 7.3)
+Roter Wichtel  MUHATIXUL bearbeitet nun #35 
+ --> Rasende Eisenbahn [3.56] (Spannung: 6.0)
+Gelber Wichtel VARNOR bearbeitet nun #36 
+ --> Stacheliger Kaktus [4.21] 
+Roter Wichtel  XULFRIBOR bearbeitet nun #37 
+ --> Rote Unterbuxe [2.71] (Eleganz: 14)
+----------------------------------------
+Runde 5
+Roter Wichtel  YIFICAR bearbeitet nun #38 
+ --> Niedliche Puppe [0.83] (Spannung: 1.2)
+Blauer Wichtel UMADUR bearbeitet nun #39 
+ --> Rasende Eisenbahn [1.49] (Spannung: 2.5)
+Roter Wichtel  XULFRIBOR bearbeitet nun #40 
+ --> Zipfelige Muetze [1.98] (Eleganz: 16)
+----------------------------------------
+Runde 6
+Gelber Wichtel DURJOLA bearbeitet nun #41 
+ --> Rote Unterbuxe [2.25] (Eleganz: 14)
+Roter Wichtel  YIFICAR bearbeitet nun #42 
+ --> Interessantes Brettspiel [1.3] (Spannung: 3.1)
+Blauer Wichtel SETIMUFRI bearbeitet nun #43 
+ --> Duftende Badesalze [11.12] 
+Roter Wichtel  XULFRIBOR bearbeitet nun #44 
+ --> Duftende Badesalze [17.98] 
+----------------------------------------
+Runde 7
+Blauer Wichtel OPOEORL bearbeitet nun #45 
+ --> Dicker Pullover [4.13] (Eleganz: 15)
+Roter Wichtel  VARIOTI bearbeitet nun #46 
+ --> Niedliche Puppe [6.07] (Spannung: 9.1)
+Gelber Wichtel YIFIROMI bearbeitet nun #47 
+ --> Saftige Kekse [9.18] (nicht unbedingt gesund)
+Blauer Wichtel UMAUMA bearbeitet nun #48 
+ --> Duftende Badesalze [11.11] 
+----------------------------------------
+Runde 8
+Roter Wichtel  KOOPO bearbeitet nun #49 
+ --> Interessantes Brettspiel [0.78] (Spannung: 1.8)
+Roter Wichtel  MUHATIXUL bearbeitet nun #50 
+ --> Selbstgemachtes Pesto [2.63] (Ziemlich gesund)
+Roter Wichtel  YIFICAR bearbeitet nun #51 
+ --> Dicker Pullover [0.27] (Eleganz: 15)
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #52 
+ --> Grosser Bagger [3.07] (Spannung: 4.2)
+Blauer Wichtel LEWEL bearbeitet nun #53 
+ --> Niedliche Puppe [3.18] (Spannung: 4.7)
+----------------------------------------
+Runde 9
+Roter Wichtel  KOOPO bearbeitet nun #54 
+ --> Knusprige Kekse [13.1] (nicht unbedingt gesund)
+Roter Wichtel  MUHATIXUL bearbeitet nun #55 
+ --> Rote Unterbuxe [4.07] (Eleganz: 14)
+Roter Wichtel  YIFICAR bearbeitet nun #56 
+ --> Dicker Pullover [2.92] (Eleganz: 15)
+Roter Wichtel  XULHATIOPO bearbeitet nun #57 
+ --> Leckere Papaya [4.87] (Ziemlich gesund)
+----------------------------------------
+Runde 10
+Roter Wichtel  NORZOTOUMA bearbeitet nun #58 
+ --> Bequeme Hose [3.79] (Eleganz: 12)
+Roter Wichtel  ROMIWEL bearbeitet nun #59 
+ --> Rasende Eisenbahn [6.89] (Spannung: 11.7)
+Roter Wichtel  YIFICAR bearbeitet nun #60 
+ --> Schnelles Auto [2.36] 
+Gelber Wichtel VARNOR bearbeitet nun #61 
+ --> Leckerer Essensgutschein [14.28] 
+Blauer Wichtel UMADUR bearbeitet nun #62 
+ --> Lange Struempfe [1.86] (Eleganz: 15)
+----------------------------------------
+Runde 11
+Gelber Wichtel DURJOLA bearbeitet nun #63 
+ --> Knusprige Kekse [3.33] (nicht unbedingt gesund)
+Roter Wichtel  YIFICAR bearbeitet nun #64 
+ --> Selbstgemachtes Pesto [11.94] (nicht unbedingt gesund)
+Blauer Wichtel VARXUL bearbeitet nun #65 
+ --> Robuster Nussknacker [24.1] 
+----------------------------------------
+Runde 12
+Roter Wichtel  UMAARIYIFI bearbeitet nun #66 
+ --> Stacheliger Kaktus [15.93] 
+Roter Wichtel  NORZOTOUMA bearbeitet nun #67 
+ --> Rote Unterbuxe [4.22] (Eleganz: 14)
+Roter Wichtel  MUHATIXUL bearbeitet nun #68 
+ --> Schnelles Auto [7.56] (Spannung: 10.5)
+Roter Wichtel  XULHATIOPO bearbeitet nun #69 
+ --> Knusprige Kekse [3.93] (nicht unbedingt gesund)
+----------------------------------------
+Runde 13
+Roter Wichtel  WELIOTIOPO bearbeitet nun #70 
+ --> Leckere Papaya [13.46] (nicht unbedingt gesund)
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #71 
+ --> Niedliche Puppe [0.81] (Spannung: 1.2)
+----------------------------------------
+Runde 14
+Roter Wichtel  VARIOTI bearbeitet nun #72 
+ --> Spannendes Buch [3.0] 
+Roter Wichtel  XULHATIOPO bearbeitet nun #73 
+ --> Knusprige Kekse [11.72] (nicht unbedingt gesund)
+----------------------------------------
+Runde 15
+Blauer Wichtel OPOEORL bearbeitet nun #74 
+ --> Thermo-Ski-Unterwaesche [0.06] (Eleganz: 23)
+Roter Wichtel  NORZOTOUMA bearbeitet nun #75 
+ --> Duftende Badesalze [5.38] 
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #76 
+ --> Kuscheliger Schal [2.06] (Eleganz: 17)
+Blauer Wichtel UMADUR bearbeitet nun #77 
+ --> Schnelles Auto [0.46] (Spannung: 0.6)
+Blauer Wichtel LEWEL bearbeitet nun #78 
+ --> Duftende Badesalze [9.74] 
+----------------------------------------
+Runde 16
+Roter Wichtel  VARIOTI bearbeitet nun #79 
+ --> Rote Unterbuxe [2.7] (Eleganz: 14)
+Gelber Wichtel DURJOLA bearbeitet nun #80 
+ --> Niedliche Puppe [2.77] (Spannung: 4.1)
+Gelber Wichtel EORLLE bearbeitet nun #81 
+ --> Kuscheliger Schal [2.44] (Eleganz: 17)
+----------------------------------------
+Runde 17
+Roter Wichtel  ROMIWEL bearbeitet nun #82 
+ --> Interessantes Brettspiel [8.71] (Spannung: 20.9)
+Roter Wichtel  VARIOTI bearbeitet nun #83 
+ --> Kuscheliger Schal [4.18] (Eleganz: 17)
+Gelber Wichtel XULJOLA bearbeitet nun #84 
+ --> Robuster Nussknacker [24.65] 
+----------------------------------------
+Runde 18
+Gelber Wichtel GEROSXUL bearbeitet nun #85 
+ --> Leckerer Essensgutschein [15.17] 
+Gelber Wichtel YIFIROMI bearbeitet nun #86 
+ --> Schnelles Kartenspiel [8.42] (Spannung: 17.6)
+----------------------------------------
+Runde 19
+Blauer Wichtel OPOEORL bearbeitet nun #87 
+ --> Thermo-Ski-Unterwaesche [3.4] (Eleganz: 23)
+Roter Wichtel  NORZOTOUMA bearbeitet nun #88 
+ --> Gemaltes Memory [4.26] (Spannung: 6.3)
+Blauer Wichtel UMADUR bearbeitet nun #89 
+ --> Stacheliger Kaktus [2.39] 
+----------------------------------------
+Runde 20
+Roter Wichtel  VARIOTI bearbeitet nun #90 
+ --> Leckerer Essensgutschein [23.23] 
+Roter Wichtel  MUHATIXUL bearbeitet nun #91 
+ --> Gemaltes Memory [2.02] (Spannung: 3.0)
+Gelber Wichtel DURJOLA bearbeitet nun #92 
+ --> Saftige Kekse [6.43] (Ziemlich gesund)
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #93 
+ --> Robuster Nussknacker [4.5] 
+----------------------------------------
+Runde 21
+Roter Wichtel  KOOPO bearbeitet nun #94 
+ --> Lange Struempfe [4.48] (Eleganz: 15)
+Roter Wichtel  YIFICAR bearbeitet nun #95 
+ --> Selbstgemachtes Pesto [13.09] (nicht unbedingt gesund)
+Blauer Wichtel SETIMUFRI bearbeitet nun #96 
+ --> Schoko-Nikolaus [0.37] (Ziemlich gesund)
+Gelber Wichtel EORLLE bearbeitet nun #97 
+ --> Warme Socken [3.75] (Eleganz: 12)
+----------------------------------------
+Runde 22
+Gelber Wichtel ZOTOLE bearbeitet nun #98 
+ --> Schoko-Nikolaus [8.65] (Ziemlich gesund)
+Blauer Wichtel SETIMUFRI bearbeitet nun #99 
+ --> Aromatischer Tee [13.26] (nicht unbedingt gesund)
+Roter Wichtel  XULFRIBOR bearbeitet nun #100 
+ --> Aromatischer Tee [1.61] (nicht unbedingt gesund)
+Blauer Wichtel UMAUMA bearbeitet nun #101 
+ --> Niedliche Puppe [7.96] (Spannung: 11.9)
+----------------------------------------
+Runde 23
+Roter Wichtel  MUHATIXUL bearbeitet nun #102 
+ --> Kuscheliger Schal [2.43] (Eleganz: 17)
+Roter Wichtel  XULFRIBOR bearbeitet nun #103 
+ --> Kuscheliger Schal [3.99] (Eleganz: 17)
+----------------------------------------
+Runde 24
+Roter Wichtel  KOOPO bearbeitet nun #104 
+ --> Warme Socken [1.56] (Eleganz: 12)
+Roter Wichtel  NORZOTOUMA bearbeitet nun #105 
+ --> Aromatischer Tee [9.86] (nicht unbedingt gesund)
+Roter Wichtel  MUHATIXUL bearbeitet nun #106 
+ --> Gemaltes Memory [4.41] (Spannung: 6.6)
+Roter Wichtel  XULHATIOPO bearbeitet nun #107 
+ --> Selbstgemachtes Pesto [2.61] (Ziemlich gesund)
+Roter Wichtel  TAZZOTO bearbeitet nun #108 
+ --> Kuscheliger Schal [0.91] (Eleganz: 17)
+----------------------------------------
+Runde 25
+Roter Wichtel  KOOPO bearbeitet nun #109 
+ --> Stacheliger Kaktus [5.92] 
+Roter Wichtel  WELIOTIOPO bearbeitet nun #110 
+ --> Duftende Badesalze [10.31] 
+Roter Wichtel  XULHATIOPO bearbeitet nun #111 
+ --> Robuster Nussknacker [2.52] 
+Blauer Wichtel UMADUR bearbeitet nun #112 
+ --> Schnelles Kartenspiel [0.48] (Spannung: 1.0)
+Roter Wichtel  TAZZOTO bearbeitet nun #113 
+ --> Saftige Kekse [8.11] (Ziemlich gesund)
+Roter Wichtel  XULFRIBOR bearbeitet nun #114 
+ --> Dicker Pullover [1.77] (Eleganz: 15)
+----------------------------------------
+Runde 26
+Roter Wichtel  UMAARIYIFI bearbeitet nun #115 
+ --> Niedliche Puppe [4.28] (Spannung: 6.4)
+Blauer Wichtel OPOEORL bearbeitet nun #116 
+ --> Grosser Bagger [0.41] (Spannung: 0.5)
+Roter Wichtel  ROMIWEL bearbeitet nun #117 
+ --> Knusprige Kekse [11.3] (nicht unbedingt gesund)
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #118 
+ --> Gemaltes Memory [9.94] (Spannung: 14.9)
+Roter Wichtel  XULHATIOPO bearbeitet nun #119 
+ --> Saftige Kekse [7.01] (nicht unbedingt gesund)
+Gelber Wichtel VARNOR bearbeitet nun #120 
+ --> Warme Socken [2.78] (Eleganz: 12)
+Roter Wichtel  XULFRIBOR bearbeitet nun #121 
+ --> Zipfelige Muetze [0.14] (Eleganz: 16)
+----------------------------------------
+Runde 27
+Gelber Wichtel EORLLE bearbeitet nun #122 
+ --> Grosser Bagger [4.5] (Spannung: 6.3)
+Roter Wichtel  XULFRIBOR bearbeitet nun #123 
+ --> Stacheliger Kaktus [3.8] 
+----------------------------------------
+Runde 28
+Gelber Wichtel DURJOLA bearbeitet nun #124 
+ --> Schnelles Auto [21.29] 
+Gelber Wichtel YIFIROMI bearbeitet nun #125 
+ --> Selbstgemachtes Pesto [4.9] (Ziemlich gesund)
+Blauer Wichtel LEWEL bearbeitet nun #126 
+ --> Saftige Kekse [3.81] (nicht unbedingt gesund)
+----------------------------------------
+Runde 29
+Roter Wichtel  KOOPO bearbeitet nun #127 
+ --> Selbstgemachtes Pesto [3.32] (nicht unbedingt gesund)
+Roter Wichtel  MUHATIXUL bearbeitet nun #128 
+ --> Bequeme Hose [4.32] (Eleganz: 12)
+Blauer Wichtel SETIMUFRI bearbeitet nun #129 
+ --> Rote Unterbuxe [0.02] (Eleganz: 14)
+Blauer Wichtel UMADUR bearbeitet nun #130 
+ --> Niedliche Puppe [9.49] (Spannung: 14.2)
+Roter Wichtel  XULFRIBOR bearbeitet nun #131 
+ --> Spannendes Buch [20.74] 
+----------------------------------------
+Runde 30
+Blauer Wichtel OPOEORL bearbeitet nun #132 
+ --> Interessantes Brettspiel [3.48] (Spannung: 8.3)
+Blauer Wichtel LEWEL bearbeitet nun #133 
+ --> Dicker Pullover [4.51] (Eleganz: 15)
+----------------------------------------
+Runde 31
+Roter Wichtel  KOOPO bearbeitet nun #134 
+ --> Schnelles Kartenspiel [4.08] (Spannung: 8.5)
+Roter Wichtel  UMAARIYIFI bearbeitet nun #135 
+ --> Leckerer Essensgutschein [10.38] 
+Gelber Wichtel VARNOR bearbeitet nun #136 
+ --> Schoko-Nikolaus [9.51] (nicht unbedingt gesund)
+----------------------------------------
+Runde 32
+Roter Wichtel  NORZOTOUMA bearbeitet nun #137 
+ --> Duftende Badesalze [1.01] 
+Gelber Wichtel ZOTOLE bearbeitet nun #138 
+ --> Leckere Papaya [14.71] (Ziemlich gesund)
+Roter Wichtel  MUHATIXUL bearbeitet nun #139 
+ --> Duftende Badesalze [18.07] 
+Roter Wichtel  XULHATIOPO bearbeitet nun #140 
+ --> Aromatischer Tee [12.73] (Ziemlich gesund)
+Roter Wichtel  TAZZOTO bearbeitet nun #141 
+ --> Aromatischer Tee [0.93] (Ziemlich gesund)
+----------------------------------------
+Runde 33
+Roter Wichtel  NORZOTOUMA bearbeitet nun #142 
+ --> Dicker Pullover [4.04] (Eleganz: 15)
+Roter Wichtel  YIFICAR bearbeitet nun #143 
+ --> Knusprige Kekse [11.49] (nicht unbedingt gesund)
+Blauer Wichtel SETIMUFRI bearbeitet nun #144 
+ --> Grosser Bagger [9.89] (Spannung: 13.8)
+Roter Wichtel  TAZZOTO bearbeitet nun #145 
+ --> Schnelles Auto [1.11] (Spannung: 1.5)
+Gelber Wichtel EORLLE bearbeitet nun #146 
+ --> Rasende Eisenbahn [5.29] (Spannung: 8.9)
+Blauer Wichtel UMAUMA bearbeitet nun #147 
+ --> Leckerer Essensgutschein [13.34] 
+----------------------------------------
+Runde 34
+Roter Wichtel  WELIOTIOPO bearbeitet nun #148 
+ --> Saftige Kekse [2.88] (Ziemlich gesund)
+Gelber Wichtel YIFIROMI bearbeitet nun #149 
+ --> Schoko-Nikolaus [0.94] (Ziemlich gesund)
+----------------------------------------
+Runde 35
+Roter Wichtel  WELIOTIOPO bearbeitet nun #150 
+ --> Spannendes Buch [0.98] 
+Gelber Wichtel GEROSXUL bearbeitet nun #151 
+ --> Aromatischer Tee [10.56] (Ziemlich gesund)
+Roter Wichtel  TAZZOTO bearbeitet nun #152 
+ --> Schnelles Auto [3.8] 
+----------------------------------------
+Runde 36
+Roter Wichtel  KOOPO bearbeitet nun #153 
+ --> Schnelles Kartenspiel [3.25] (Spannung: 6.8)
+Roter Wichtel  NORZOTOUMA bearbeitet nun #154 
+ --> Schnelles Kartenspiel [5.27] (Spannung: 11.0)
+Roter Wichtel  ROMIWEL bearbeitet nun #155 
+ --> Niedliche Puppe [3.11] (Spannung: 4.6)
+Roter Wichtel  WELIOTIOPO bearbeitet nun #156 
+ --> Niedliche Puppe [0.45] (Spannung: 0.6)
+Gelber Wichtel YIFIROMI bearbeitet nun #157 
+ --> Lange Struempfe [0.22] (Eleganz: 15)
+----------------------------------------
+Runde 37
+Blauer Wichtel OPOEORL bearbeitet nun #158 
+ --> Dicker Pullover [4.26] (Eleganz: 15)
+Roter Wichtel  WELIOTIOPO bearbeitet nun #159 
+ --> Robuster Nussknacker [11.82] 
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #160 
+ --> Warme Socken [1.38] (Eleganz: 12)
+Roter Wichtel  TAZZOTO bearbeitet nun #161 
+ --> Leckere Papaya [3.11] (nicht unbedingt gesund)
+----------------------------------------
+Runde 38
+Blauer Wichtel LEWEL bearbeitet nun #162 
+ --> Selbstgemachtes Pesto [10.94] (Ziemlich gesund)
+----------------------------------------
+Runde 39
+Blauer Wichtel VARXUL bearbeitet nun #163 
+ --> Leckerer Essensgutschein [14.47] 
+Gelber Wichtel YIFIROMI bearbeitet nun #164 
+ --> Spannendes Buch [19.44] 
+Roter Wichtel  TAZZOTO bearbeitet nun #165 
+ --> Schoko-Nikolaus [5.78] (nicht unbedingt gesund)
+----------------------------------------
+Runde 40
+Roter Wichtel  KOOPO bearbeitet nun #166 
+ --> Saftige Kekse [6.49] (Ziemlich gesund)
+Roter Wichtel  UMAARIYIFI bearbeitet nun #167 
+ --> Robuster Nussknacker [7.69] 
+Roter Wichtel  ROMIWEL bearbeitet nun #168 
+ --> Robuster Nussknacker [22.6] 
+Gelber Wichtel EORLLE bearbeitet nun #169 
+ --> Schnelles Auto [4.97] (Spannung: 6.9)
+----------------------------------------
+Runde 41
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #170 
+ --> Aromatischer Tee [2.7] (Ziemlich gesund)
+----------------------------------------
+Runde 42
+Roter Wichtel  NORZOTOUMA bearbeitet nun #171 
+ --> Rote Unterbuxe [4.98] (Eleganz: 14)
+Roter Wichtel  VARIOTI bearbeitet nun #172 
+ --> Schnelles Auto [20.94] 
+Gelber Wichtel VARNOR bearbeitet nun #173 
+ --> Knusprige Kekse [12.3] (Ziemlich gesund)
+Blauer Wichtel UMADUR bearbeitet nun #174 
+ --> Niedliche Puppe [4.21] (Spannung: 6.3)
+----------------------------------------
+Runde 43
+Roter Wichtel  YIFICAR bearbeitet nun #175 
+ --> Leckerer Essensgutschein [13.25] 
+Roter Wichtel  XULHATIOPO bearbeitet nun #176 
+ --> Schnelles Auto [15.9] 
+Roter Wichtel  TAZZOTO bearbeitet nun #177 
+ --> Robuster Nussknacker [5.84] 
+Gelber Wichtel XULJOLA bearbeitet nun #178 
+ --> Saftige Kekse [9.65] (nicht unbedingt gesund)
+----------------------------------------
+Runde 44
+Blauer Wichtel LEWEL bearbeitet nun #179 
+ --> Duftende Badesalze [1.06] 
+----------------------------------------
+Runde 45
+Roter Wichtel  KOOPO bearbeitet nun #180 
+ --> Schoko-Nikolaus [12.23] (Ziemlich gesund)
+Blauer Wichtel OPOEORL bearbeitet nun #181 
+ --> Schnelles Auto [12.9] 
+Roter Wichtel  NORZOTOUMA bearbeitet nun #182 
+ --> Leckerer Essensgutschein [21.05] 
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #183 
+ --> Selbstgemachtes Pesto [9.64] (nicht unbedingt gesund)
+----------------------------------------
+Runde 46
+Roter Wichtel  UMAARIYIFI bearbeitet nun #184 
+ --> Schoko-Nikolaus [8.48] (Ziemlich gesund)
+Blauer Wichtel SETIMUFRI bearbeitet nun #185 
+ --> Zipfelige Muetze [2.5] (Eleganz: 16)
+Gelber Wichtel EORLLE bearbeitet nun #186 
+ --> Rote Unterbuxe [3.67] (Eleganz: 14)
+----------------------------------------
+Runde 47
+Roter Wichtel  WELIOTIOPO bearbeitet nun #187 
+ --> Spannendes Buch [7.06] 
+Gelber Wichtel GEROSXUL bearbeitet nun #188 
+ --> Duftende Badesalze [0.74] 
+Roter Wichtel  TAZZOTO bearbeitet nun #189 
+ --> Grosser Bagger [2.12] (Spannung: 2.9)
+----------------------------------------
+Runde 48
+Gelber Wichtel ZOTOLE bearbeitet nun #190 
+ --> Dicker Pullover [0.85] (Eleganz: 15)
+Roter Wichtel  XULFRIBOR bearbeitet nun #191 
+ --> Thermo-Ski-Unterwaesche [3.01] (Eleganz: 23)
+----------------------------------------
+Runde 49
+Roter Wichtel  MUHATIXUL bearbeitet nun #192 
+ --> Selbstgemachtes Pesto [4.74] (Ziemlich gesund)
+Gelber Wichtel GEROSXUL bearbeitet nun #193 
+ --> Robuster Nussknacker [2.61] 
+Blauer Wichtel LEWEL bearbeitet nun #194 
+ --> Leckere Papaya [1.98] (nicht unbedingt gesund)
+----------------------------------------
+Runde 50
+Blauer Wichtel UMADUR bearbeitet nun #195 
+ --> Gemaltes Memory [9.49] (Spannung: 14.2)
+Blauer Wichtel LEWEL bearbeitet nun #196 
+ --> Stacheliger Kaktus [6.23] 
+Roter Wichtel  TAZZOTO bearbeitet nun #197 
+ --> Bequeme Hose [1.56] (Eleganz: 12)
+Roter Wichtel  XULFRIBOR bearbeitet nun #198 
+ --> Stacheliger Kaktus [8.01] 
+Blauer Wichtel UMAUMA bearbeitet nun #199 
+ --> Schnelles Auto [15.63] 
+----------------------------------------
+Runde 51
+Gelber Wichtel ZOTOLE bearbeitet nun #200 
+ --> Leckerer Essensgutschein [23.73] 
+Gelber Wichtel DURJOLA bearbeitet nun #201 
+ --> Leckere Papaya [13.34] (nicht unbedingt gesund)
+Roter Wichtel  TAZZOTO bearbeitet nun #202 
+ --> Interessantes Brettspiel [1.35] (Spannung: 3.2)
+----------------------------------------
+Runde 52
+Roter Wichtel  MUHATIXUL bearbeitet nun #203 
+ --> Warme Socken [1.12] (Eleganz: 12)
+Blauer Wichtel SETIMUFRI bearbeitet nun #204 
+ --> Schnelles Kartenspiel [1.66] (Spannung: 3.4)
+Gelber Wichtel EORLLE bearbeitet nun #205 
+ --> Robuster Nussknacker [15.26] 
+----------------------------------------
+Runde 53
+Roter Wichtel  UMAARIYIFI bearbeitet nun #206 
+ --> Niedliche Puppe [9.59] (Spannung: 14.3)
+Roter Wichtel  WELIOTIOPO bearbeitet nun #207 
+ --> Schoko-Nikolaus [6.23] (Ziemlich gesund)
+Roter Wichtel  MUHATIXUL bearbeitet nun #208 
+ --> Leckere Papaya [2.66] (Ziemlich gesund)
+Gelber Wichtel GEROSXUL bearbeitet nun #209 
+ --> Stacheliger Kaktus [18.42] 
+Roter Wichtel  TAZZOTO bearbeitet nun #210 
+ --> Leckere Papaya [5.38] (nicht unbedingt gesund)
+----------------------------------------
+Runde 54
+Roter Wichtel  MUHATIXUL bearbeitet nun #211 
+ --> Stacheliger Kaktus [0.7] 
+Gelber Wichtel XULJOLA bearbeitet nun #212 
+ --> Selbstgemachtes Pesto [12.61] (Ziemlich gesund)
+----------------------------------------
+Runde 55
+Roter Wichtel  MUHATIXUL bearbeitet nun #213 
+ --> Aromatischer Tee [13.9] (nicht unbedingt gesund)
+Roter Wichtel  YIFICAR bearbeitet nun #214 
+ --> Gemaltes Memory [9.94] (Spannung: 14.9)
+----------------------------------------
+Runde 56
+Roter Wichtel  KOOPO bearbeitet nun #215 
+ --> Warme Socken [4.51] (Eleganz: 12)
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #216 
+ --> Leckere Papaya [8.92] (Ziemlich gesund)
+Gelber Wichtel VARNOR bearbeitet nun #217 
+ --> Gemaltes Memory [0.17] (Spannung: 0.2)
+----------------------------------------
+Runde 57
+Blauer Wichtel VARXUL bearbeitet nun #218 
+ --> Selbstgemachtes Pesto [13.05] (nicht unbedingt gesund)
+Roter Wichtel  XULHATIOPO bearbeitet nun #219 
+ --> Schnelles Kartenspiel [0.11] (Spannung: 0.2)
+Blauer Wichtel SETIMUFRI bearbeitet nun #220 
+ --> Rote Unterbuxe [3.87] (Eleganz: 14)
+Roter Wichtel  TAZZOTO bearbeitet nun #221 
+ --> Robuster Nussknacker [13.36] 
+Roter Wichtel  XULFRIBOR bearbeitet nun #222 
+ --> Leckere Papaya [3.87] (nicht unbedingt gesund)
+----------------------------------------
+Runde 58
+Roter Wichtel  WELIOTIOPO bearbeitet nun #223 
+ --> Interessantes Brettspiel [6.65] (Spannung: 15.9)
+Roter Wichtel  XULHATIOPO bearbeitet nun #224 
+ --> Leckere Papaya [1.12] (nicht unbedingt gesund)
+Gelber Wichtel VARNOR bearbeitet nun #225 
+ --> Niedliche Puppe [3.96] (Spannung: 5.9)
+----------------------------------------
+Runde 59
+Roter Wichtel  KOOPO bearbeitet nun #226 
+ --> Aromatischer Tee [11.41] (nicht unbedingt gesund)
+Roter Wichtel  XULHATIOPO bearbeitet nun #227 
+ --> Selbstgemachtes Pesto [13.73] (nicht unbedingt gesund)
+Roter Wichtel  XULFRIBOR bearbeitet nun #228 
+ --> Robuster Nussknacker [21.29] 
+----------------------------------------
+Runde 60
+Gelber Wichtel YIFIROMI bearbeitet nun #229 
+ --> Niedliche Puppe [1.15] (Spannung: 1.7)
+Blauer Wichtel LEWEL bearbeitet nun #230 
+ --> Leckere Papaya [10.15] (Ziemlich gesund)
+----------------------------------------
+Runde 61
+Blauer Wichtel OPOEORL bearbeitet nun #231 
+ --> Warme Socken [0.15] (Eleganz: 12)
+Roter Wichtel  ROMIWEL bearbeitet nun #232 
+ --> Gemaltes Memory [5.2] (Spannung: 7.8)
+Roter Wichtel  VARIOTI bearbeitet nun #233 
+ --> Interessantes Brettspiel [2.96] (Spannung: 7.1)
+----------------------------------------
+Runde 62
+----------------------------------------
+Runde 63
+Roter Wichtel  UMAARIYIFI bearbeitet nun #234 
+ --> Interessantes Brettspiel [5.93] (Spannung: 14.2)
+Gelber Wichtel VARNOR bearbeitet nun #235 
+ --> Schnelles Auto [1.92] (Spannung: 2.6)
+Gelber Wichtel YIFIROMI bearbeitet nun #236 
+ --> Schnelles Kartenspiel [1.08] (Spannung: 2.2)
+Blauer Wichtel UMADUR bearbeitet nun #237 
+ --> Rasende Eisenbahn [9.5] (Spannung: 16.1)
+----------------------------------------
+Runde 64
+Roter Wichtel  VARIOTI bearbeitet nun #238 
+ --> Schnelles Auto [0.03] (Spannung: 0.0)
+Blauer Wichtel VARXUL bearbeitet nun #239 
+ --> Grosser Bagger [3.39] (Spannung: 4.7)
+Blauer Wichtel SETIMUFRI bearbeitet nun #240 
+ --> Aromatischer Tee [8.44] (Ziemlich gesund)
+----------------------------------------
+Runde 65
+Blauer Wichtel OPOEORL bearbeitet nun #241 
+ --> Interessantes Brettspiel [7.83] (Spannung: 18.7)
+Roter Wichtel  NORZOTOUMA bearbeitet nun #242 
+ --> Spannendes Buch [12.38] 
+Roter Wichtel  WELIOTIOPO bearbeitet nun #243 
+ --> Spannendes Buch [15.22] 
+Roter Wichtel  VARIOTI bearbeitet nun #244 
+ --> Interessantes Brettspiel [7.51] (Spannung: 18.0)
+Roter Wichtel  YIFICAR bearbeitet nun #245 
+ --> Leckere Papaya [12.85] (Ziemlich gesund)
+----------------------------------------
+Runde 66
+Gelber Wichtel DURJOLA bearbeitet nun #246 
+ --> Aromatischer Tee [8.59] (Ziemlich gesund)
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #247 
+ --> Robuster Nussknacker [4.54] 
+Gelber Wichtel VARNOR bearbeitet nun #248 
+ --> Schoko-Nikolaus [13.73] (nicht unbedingt gesund)
+Gelber Wichtel YIFIROMI bearbeitet nun #249 
+ --> Saftige Kekse [10.85] (Ziemlich gesund)
+Blauer Wichtel LEWEL bearbeitet nun #250 
+ --> Schnelles Kartenspiel [9.35] (Spannung: 19.6)
+----------------------------------------
+Runde 67
+Roter Wichtel  ROMIWEL bearbeitet nun #251 
+ --> Dicker Pullover [0.28] (Eleganz: 15)
+Roter Wichtel  MUHATIXUL bearbeitet nun #252 
+ --> Warme Socken [4.61] (Eleganz: 12)
+----------------------------------------
+Runde 68
+Roter Wichtel  ROMIWEL bearbeitet nun #253 
+ --> Grosser Bagger [4.26] (Spannung: 5.9)
+Gelber Wichtel XULJOLA bearbeitet nun #254 
+ --> Stacheliger Kaktus [24.99] 
+----------------------------------------
+Runde 69
+Roter Wichtel  KOOPO bearbeitet nun #255 
+ --> Stacheliger Kaktus [5.89] 
+Roter Wichtel  UMAARIYIFI bearbeitet nun #256 
+ --> Schnelles Auto [15.01] 
+Blauer Wichtel SETIMUFRI bearbeitet nun #257 
+ --> Knusprige Kekse [10.42] (Ziemlich gesund)
+Roter Wichtel  TAZZOTO bearbeitet nun #258 
+ --> Stacheliger Kaktus [17.36] 
+Gelber Wichtel EORLLE bearbeitet nun #259 
+ --> Knusprige Kekse [10.64] (Ziemlich gesund)
+Blauer Wichtel UMAUMA bearbeitet nun #260 
+ --> Saftige Kekse [7.29] (nicht unbedingt gesund)
+----------------------------------------
+Runde 70
+Roter Wichtel  MUHATIXUL bearbeitet nun #261 
+ --> Selbstgemachtes Pesto [6.93] (Ziemlich gesund)
+----------------------------------------
+Runde 71
+Blauer Wichtel VARXUL bearbeitet nun #262 
+ --> Rote Unterbuxe [1.22] (Eleganz: 14)
+Roter Wichtel  XULHATIOPO bearbeitet nun #263 
+ --> Spannendes Buch [20.71] 
+----------------------------------------
+Runde 72
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #264 
+ --> Kuscheliger Schal [4.38] (Eleganz: 17)
+----------------------------------------
+Runde 73
+Roter Wichtel  KOOPO bearbeitet nun #265 
+ --> Warme Socken [0.86] (Eleganz: 12)
+Roter Wichtel  ROMIWEL bearbeitet nun #266 
+ --> Warme Socken [0.01] (Eleganz: 12)
+Roter Wichtel  VARIOTI bearbeitet nun #267 
+ --> Rasende Eisenbahn [7.67] (Spannung: 13.0)
+Gelber Wichtel GEROSXUL bearbeitet nun #268 
+ --> Bequeme Hose [0.06] (Eleganz: 12)
+Blauer Wichtel UMAUMA bearbeitet nun #269 
+ --> Gemaltes Memory [2.16] (Spannung: 3.2)
+----------------------------------------
+Runde 74
+Roter Wichtel  KOOPO bearbeitet nun #270 
+ --> Schnelles Kartenspiel [6.86] (Spannung: 14.4)
+Roter Wichtel  ROMIWEL bearbeitet nun #271 
+ --> Schnelles Kartenspiel [0.15] (Spannung: 0.3)
+----------------------------------------
+Runde 75
+Roter Wichtel  ROMIWEL bearbeitet nun #272 
+ --> Robuster Nussknacker [0.85] 
+Roter Wichtel  MUHATIXUL bearbeitet nun #273 
+ --> Leckere Papaya [6.38] (Ziemlich gesund)
+Blauer Wichtel SETIMUFRI bearbeitet nun #274 
+ --> Saftige Kekse [13.91] (nicht unbedingt gesund)
+----------------------------------------
+Runde 76
+Blauer Wichtel OPOEORL bearbeitet nun #275 
+ --> Duftende Badesalze [17.02] 
+Roter Wichtel  NORZOTOUMA bearbeitet nun #276 
+ --> Niedliche Puppe [1.7] (Spannung: 2.5)
+Roter Wichtel  ROMIWEL bearbeitet nun #277 
+ --> Aromatischer Tee [4.26] (Ziemlich gesund)
+Gelber Wichtel ZOTOLE bearbeitet nun #278 
+ --> Robuster Nussknacker [20.2] 
+Gelber Wichtel DURJOLA bearbeitet nun #279 
+ --> Saftige Kekse [1.29] (nicht unbedingt gesund)
+Roter Wichtel  YIFICAR bearbeitet nun #280 
+ --> Knusprige Kekse [10.45] (Ziemlich gesund)
+Blauer Wichtel VARXUL bearbeitet nun #281 
+ --> Gemaltes Memory [6.62] (Spannung: 9.9)
+Gelber Wichtel GEROSXUL bearbeitet nun #282 
+ --> Rasende Eisenbahn [4.84] (Spannung: 8.2)
+Blauer Wichtel UMADUR bearbeitet nun #283 
+ --> Aromatischer Tee [1.35] (nicht unbedingt gesund)
+----------------------------------------
+Runde 77
+Blauer Wichtel UMADUR bearbeitet nun #284 
+ --> Lange Struempfe [1.11] (Eleganz: 15)
+----------------------------------------
+Runde 78
+Roter Wichtel  NORZOTOUMA bearbeitet nun #285 
+ --> Warme Socken [2.78] (Eleganz: 12)
+Gelber Wichtel YIFIROMI bearbeitet nun #286 
+ --> Spannendes Buch [23.2] 
+----------------------------------------
+Runde 79
+Roter Wichtel  NORZOTOUMA bearbeitet nun #287 
+ --> Selbstgemachtes Pesto [6.07] (Ziemlich gesund)
+Roter Wichtel  ROMIWEL bearbeitet nun #288 
+ --> Schnelles Kartenspiel [5.15] (Spannung: 10.8)
+Roter Wichtel  WELIOTIOPO bearbeitet nun #289 
+ --> Schoko-Nikolaus [7.4] (nicht unbedingt gesund)
+Gelber Wichtel DURJOLA bearbeitet nun #290 
+ --> Lange Struempfe [4.42] (Eleganz: 15)
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #291 
+ --> Robuster Nussknacker [13.71] 
+Blauer Wichtel LEWEL bearbeitet nun #292 
+ --> Aromatischer Tee [1.88] (nicht unbedingt gesund)
+Roter Wichtel  XULFRIBOR bearbeitet nun #293 
+ --> Saftige Kekse [5.37] (nicht unbedingt gesund)
+Blauer Wichtel UMAUMA bearbeitet nun #294 
+ --> Saftige Kekse [3.91] (nicht unbedingt gesund)
+----------------------------------------
+Runde 80
+Roter Wichtel  MUHATIXUL bearbeitet nun #295 
+ --> Schnelles Kartenspiel [4.01] (Spannung: 8.4)
+Blauer Wichtel LEWEL bearbeitet nun #296 
+ --> Schoko-Nikolaus [4.8] (Ziemlich gesund)
+----------------------------------------
+Runde 81
+Roter Wichtel  KOOPO bearbeitet nun #297 
+ --> Spannendes Buch [12.14] 
+Roter Wichtel  VARIOTI bearbeitet nun #298 
+ --> Bequeme Hose [2.49] (Eleganz: 12)
+Gelber Wichtel VARNOR bearbeitet nun #299 
+ --> Leckerer Essensgutschein [23.4] 
+Gelber Wichtel EORLLE bearbeitet nun #300 
+ --> Rote Unterbuxe [4.24] (Eleganz: 14)
+Blauer Wichtel UMAUMA bearbeitet nun #301 
+ --> Interessantes Brettspiel [2.08] (Spannung: 4.9)
+----------------------------------------
+Runde 82
+Roter Wichtel  VARIOTI bearbeitet nun #302 
+ --> Zipfelige Muetze [4.28] (Eleganz: 16)
+Gelber Wichtel GEROSXUL bearbeitet nun #303 
+ --> Duftende Badesalze [18.09] 
+Blauer Wichtel SETIMUFRI bearbeitet nun #304 
+ --> Aromatischer Tee [2.52] (Ziemlich gesund)
+Blauer Wichtel UMADUR bearbeitet nun #305 
+ --> Warme Socken [1.65] (Eleganz: 12)
+----------------------------------------
+Runde 83
+Roter Wichtel  UMAARIYIFI bearbeitet nun #306 
+ --> Lange Struempfe [4.53] (Eleganz: 15)
+Blauer Wichtel LEWEL bearbeitet nun #307 
+ --> Rasende Eisenbahn [4.21] (Spannung: 7.1)
+Roter Wichtel  XULFRIBOR bearbeitet nun #308 
+ --> Rasende Eisenbahn [5.78] (Spannung: 9.8)
+----------------------------------------
+Runde 84
+Roter Wichtel  NORZOTOUMA bearbeitet nun #309 
+ --> Knusprige Kekse [13.46] (nicht unbedingt gesund)
+Blauer Wichtel SETIMUFRI bearbeitet nun #310 
+ --> Stacheliger Kaktus [22.62] 
+----------------------------------------
+Runde 85
+Roter Wichtel  ROMIWEL bearbeitet nun #311 
+ --> Lange Struempfe [3.07] (Eleganz: 15)
+Roter Wichtel  WELIOTIOPO bearbeitet nun #312 
+ --> Stacheliger Kaktus [23.0] 
+Roter Wichtel  VARIOTI bearbeitet nun #313 
+ --> Niedliche Puppe [2.33] (Spannung: 3.4)
+Roter Wichtel  MUHATIXUL bearbeitet nun #314 
+ --> Gemaltes Memory [5.95] (Spannung: 8.9)
+Roter Wichtel  YIFICAR bearbeitet nun #315 
+ --> Spannendes Buch [17.57] 
+Roter Wichtel  TAZZOTO bearbeitet nun #316 
+ --> Schoko-Nikolaus [12.18] (Ziemlich gesund)
+----------------------------------------
+Runde 86
+Roter Wichtel  UMAARIYIFI bearbeitet nun #317 
+ --> Warme Socken [0.9] (Eleganz: 12)
+Gelber Wichtel DURJOLA bearbeitet nun #318 
+ --> Saftige Kekse [5.31] (nicht unbedingt gesund)
+Blauer Wichtel VARXUL bearbeitet nun #319 
+ --> Grosser Bagger [3.22] (Spannung: 4.5)
+----------------------------------------
+Runde 87
+Roter Wichtel  UMAARIYIFI bearbeitet nun #320 
+ --> Stacheliger Kaktus [8.3] 
+Roter Wichtel  ROMIWEL bearbeitet nun #321 
+ --> Stacheliger Kaktus [1.47] 
+Blauer Wichtel UMADUR bearbeitet nun #322 
+ --> Stacheliger Kaktus [18.8] 
+Blauer Wichtel UMAUMA bearbeitet nun #323 
+ --> Stacheliger Kaktus [8.39] 
+----------------------------------------
+Runde 88
+Roter Wichtel  ROMIWEL bearbeitet nun #324 
+ --> Saftige Kekse [6.19] (Ziemlich gesund)
+Roter Wichtel  VARIOTI bearbeitet nun #325 
+ --> Robuster Nussknacker [22.08] 
+Gelber Wichtel EORLLE bearbeitet nun #326 
+ --> Schoko-Nikolaus [3.73] (nicht unbedingt gesund)
+----------------------------------------
+Runde 89
+Roter Wichtel  XULFRIBOR bearbeitet nun #327 
+ --> Lange Struempfe [2.42] (Eleganz: 15)
+----------------------------------------
+Runde 90
+Roter Wichtel  XULHATIOPO bearbeitet nun #328 
+ --> Saftige Kekse [6.8] (Ziemlich gesund)
+Roter Wichtel  XULFRIBOR bearbeitet nun #329 
+ --> Niedliche Puppe [0.12] (Spannung: 0.1)
+----------------------------------------
+Runde 91
+Roter Wichtel  MUHATIXUL bearbeitet nun #330 
+ --> Lange Struempfe [4.38] (Eleganz: 15)
+Blauer Wichtel LEWEL bearbeitet nun #331 
+ --> Zipfelige Muetze [3.68] (Eleganz: 16)
+Roter Wichtel  XULFRIBOR bearbeitet nun #332 
+ --> Rasende Eisenbahn [7.21] (Spannung: 12.2)
+----------------------------------------
+Runde 92
+Roter Wichtel  KOOPO bearbeitet nun #333 
+ --> Duftende Badesalze [6.07] 
+----------------------------------------
+Runde 93
+Roter Wichtel  ROMIWEL bearbeitet nun #334 
+ --> Dicker Pullover [3.64] (Eleganz: 15)
+Gelber Wichtel DURJOLA bearbeitet nun #335 
+ --> Stacheliger Kaktus [18.1] 
+Blauer Wichtel VARXUL bearbeitet nun #336 
+ --> Robuster Nussknacker [18.92] 
+Gelber Wichtel EORLLE bearbeitet nun #337 
+ --> Schnelles Auto [13.78] 
+----------------------------------------
+Runde 94
+Roter Wichtel  UMAARIYIFI bearbeitet nun #338 
+ --> Bequeme Hose [1.82] (Eleganz: 12)
+Roter Wichtel  MUHATIXUL bearbeitet nun #339 
+ --> Stacheliger Kaktus [1.96] 
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #340 
+ --> Warme Socken [0.65] (Eleganz: 12)
+Gelber Wichtel XULJOLA bearbeitet nun #341 
+ --> Zipfelige Muetze [4.21] (Eleganz: 16)
+----------------------------------------
+Runde 95
+Roter Wichtel  UMAARIYIFI bearbeitet nun #342 
+ --> Niedliche Puppe [9.56] (Spannung: 14.3)
+Roter Wichtel  ROMIWEL bearbeitet nun #343 
+ --> Thermo-Ski-Unterwaesche [4.73] (Eleganz: 23)
+Roter Wichtel  MUHATIXUL bearbeitet nun #344 
+ --> Duftende Badesalze [13.73] 
+Roter Wichtel  XULHATIOPO bearbeitet nun #345 
+ --> Leckerer Essensgutschein [0.95] 
+----------------------------------------
+Runde 96
+Roter Wichtel  NORZOTOUMA bearbeitet nun #346 
+ --> Kuscheliger Schal [3.21] (Eleganz: 17)
+Roter Wichtel  XULHATIOPO bearbeitet nun #347 
+ --> Stacheliger Kaktus [13.22] 
+Roter Wichtel  TAZZOTO bearbeitet nun #348 
+ --> Kuscheliger Schal [2.27] (Eleganz: 17)
+----------------------------------------
+Runde 97
+Roter Wichtel  KOOPO bearbeitet nun #349 
+ --> Lange Struempfe [0.2] (Eleganz: 15)
+Blauer Wichtel OPOEORL bearbeitet nun #350 
+ --> Knusprige Kekse [14.53] (Ziemlich gesund)
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #351 
+ --> Grosser Bagger [9.64] (Spannung: 13.4)
+Roter Wichtel  TAZZOTO bearbeitet nun #352 
+ --> Aromatischer Tee [14.18] (Ziemlich gesund)
+----------------------------------------
+Runde 98
+Roter Wichtel  KOOPO bearbeitet nun #353 
+ --> Robuster Nussknacker [20.16] 
+Roter Wichtel  NORZOTOUMA bearbeitet nun #354 
+ --> Schoko-Nikolaus [13.14] (nicht unbedingt gesund)
+Roter Wichtel  ROMIWEL bearbeitet nun #355 
+ --> Interessantes Brettspiel [2.61] (Spannung: 6.2)
+Gelber Wichtel ZOTOLE bearbeitet nun #356 
+ --> Bequeme Hose [4.63] (Eleganz: 12)
+Blauer Wichtel LEWEL bearbeitet nun #357 
+ --> Zipfelige Muetze [0.99] (Eleganz: 16)
+----------------------------------------
+Runde 99
+Roter Wichtel  XULFRIBOR bearbeitet nun #358 
+ --> Leckere Papaya [14.8] (Ziemlich gesund)
+Blauer Wichtel UMAUMA bearbeitet nun #359 
+ --> Lange Struempfe [1.06] (Eleganz: 15)
+----------------------------------------
+Runde 100
+----------------------------------------
+Runde 101
+Roter Wichtel  ROMIWEL bearbeitet nun #360 
+ --> Rasende Eisenbahn [5.33] (Spannung: 9.0)
+Roter Wichtel  YIFICAR bearbeitet nun #361 
+ --> Rote Unterbuxe [4.76] (Eleganz: 14)
+Gelber Wichtel XULJOLA bearbeitet nun #362 
+ --> Interessantes Brettspiel [4.57] (Spannung: 10.9)
+----------------------------------------
+Runde 102
+Gelber Wichtel GEROSXUL bearbeitet nun #363 
+ --> Leckerer Essensgutschein [3.1] 
+Blauer Wichtel LEWEL bearbeitet nun #364 
+ --> Interessantes Brettspiel [8.3] (Spannung: 19.9)
+----------------------------------------
+Runde 103
+Gelber Wichtel YIFIROMI bearbeitet nun #365 
+ --> Rasende Eisenbahn [8.02] (Spannung: 13.6)
+----------------------------------------
+Runde 104
+Roter Wichtel  YIFICAR bearbeitet nun #366 
+ --> Spannendes Buch [3.99] 
+Blauer Wichtel UMAUMA bearbeitet nun #367 
+ --> Rote Unterbuxe [4.95] (Eleganz: 14)
+----------------------------------------
+Runde 105
+Roter Wichtel  UMAARIYIFI bearbeitet nun #368 
+ --> Leckere Papaya [8.01] (Ziemlich gesund)
+Blauer Wichtel OPOEORL bearbeitet nun #369 
+ --> Grosser Bagger [6.63] (Spannung: 9.2)
+Gelber Wichtel ZOTOLE bearbeitet nun #370 
+ --> Knusprige Kekse [10.47] (Ziemlich gesund)
+----------------------------------------
+Runde 106
+Roter Wichtel  YIFICAR bearbeitet nun #371 
+ --> Leckerer Essensgutschein [5.85] 
+Gelber Wichtel VARNOR bearbeitet nun #372 
+ --> Niedliche Puppe [5.73] (Spannung: 8.5)
+----------------------------------------
+Runde 107
+Roter Wichtel  ROMIWEL bearbeitet nun #373 
+ --> Duftende Badesalze [11.73] 
+Roter Wichtel  WELIOTIOPO bearbeitet nun #374 
+ --> Thermo-Ski-Unterwaesche [3.72] (Eleganz: 23)
+Roter Wichtel  MUHATIXUL bearbeitet nun #375 
+ --> Aromatischer Tee [6.82] (Ziemlich gesund)
+Gelber Wichtel GEROSXUL bearbeitet nun #376 
+ --> Rote Unterbuxe [0.96] (Eleganz: 14)
+Gelber Wichtel XULJOLA bearbeitet nun #377 
+ --> Rote Unterbuxe [1.09] (Eleganz: 14)
+----------------------------------------
+Runde 108
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #378 
+ --> Gemaltes Memory [9.07] (Spannung: 13.6)
+Roter Wichtel  XULHATIOPO bearbeitet nun #379 
+ --> Robuster Nussknacker [7.18] 
+Gelber Wichtel EORLLE bearbeitet nun #380 
+ --> Leckerer Essensgutschein [13.8] 
+----------------------------------------
+Runde 109
+Roter Wichtel  WELIOTIOPO bearbeitet nun #381 
+ --> Leckerer Essensgutschein [8.92] 
+Roter Wichtel  VARIOTI bearbeitet nun #382 
+ --> Schoko-Nikolaus [2.87] (Ziemlich gesund)
+Blauer Wichtel UMADUR bearbeitet nun #383 
+ --> Stacheliger Kaktus [11.04] 
+----------------------------------------
+Runde 110
+Roter Wichtel  NORZOTOUMA bearbeitet nun #384 
+ --> Spannendes Buch [6.73] 
+Roter Wichtel  VARIOTI bearbeitet nun #385 
+ --> Schnelles Auto [23.42] 
+Roter Wichtel  YIFICAR bearbeitet nun #386 
+ --> Leckerer Essensgutschein [6.62] 
+Gelber Wichtel GEROSXUL bearbeitet nun #387 
+ --> Saftige Kekse [10.33] (Ziemlich gesund)
+Blauer Wichtel SETIMUFRI bearbeitet nun #388 
+ --> Bequeme Hose [4.48] (Eleganz: 12)
+Roter Wichtel  TAZZOTO bearbeitet nun #389 
+ --> Knusprige Kekse [14.79] (Ziemlich gesund)
+----------------------------------------
+Runde 111
+Gelber Wichtel XULJOLA bearbeitet nun #390 
+ --> Gemaltes Memory [1.3] (Spannung: 1.9)
+----------------------------------------
+Runde 112
+Roter Wichtel  UMAARIYIFI bearbeitet nun #391 
+ --> Spannendes Buch [23.38] 
+Roter Wichtel  MUHATIXUL bearbeitet nun #392 
+ --> Schnelles Auto [21.9] 
+Roter Wichtel  XULFRIBOR bearbeitet nun #393 
+ --> Schnelles Kartenspiel [0.22] (Spannung: 0.4)
+Blauer Wichtel UMAUMA bearbeitet nun #394 
+ --> Selbstgemachtes Pesto [0.11] (Ziemlich gesund)
+----------------------------------------
+Runde 113
+Gelber Wichtel DURJOLA bearbeitet nun #395 
+ --> Spannendes Buch [17.48] 
+Gelber Wichtel VARNOR bearbeitet nun #396 
+ --> Leckerer Essensgutschein [0.09] 
+Gelber Wichtel YIFIROMI bearbeitet nun #397 
+ --> Aromatischer Tee [11.73] (nicht unbedingt gesund)
+Roter Wichtel  XULFRIBOR bearbeitet nun #398 
+ --> Schnelles Auto [17.73] 
+Blauer Wichtel UMAUMA bearbeitet nun #399 
+ --> Spannendes Buch [16.41] 
+----------------------------------------
+Runde 114
+Roter Wichtel  XULHATIOPO bearbeitet nun #400 
+ --> Kuscheliger Schal [4.54] (Eleganz: 17)
+Blauer Wichtel LEWEL bearbeitet nun #401 
+ --> Schoko-Nikolaus [4.78] (Ziemlich gesund)
+Gelber Wichtel XULJOLA bearbeitet nun #402 
+ --> Interessantes Brettspiel [0.17] (Spannung: 0.4)
+----------------------------------------
+Runde 115
+Blauer Wichtel OPOEORL bearbeitet nun #403 
+ --> Spannendes Buch [15.4] 
+Roter Wichtel  NORZOTOUMA bearbeitet nun #404 
+ --> Bequeme Hose [1.68] (Eleganz: 12)
+Roter Wichtel  YIFICAR bearbeitet nun #405 
+ --> Kuscheliger Schal [0.85] (Eleganz: 17)
+Blauer Wichtel VARXUL bearbeitet nun #406 
+ --> Robuster Nussknacker [13.66] 
+Gelber Wichtel VARNOR bearbeitet nun #407 
+ --> Zipfelige Muetze [0.56] (Eleganz: 16)
+----------------------------------------
+Runde 116
+Roter Wichtel  NORZOTOUMA bearbeitet nun #408 
+ --> Schoko-Nikolaus [4.59] (Ziemlich gesund)
+Roter Wichtel  WELIOTIOPO bearbeitet nun #409 
+ --> Leckere Papaya [14.38] (Ziemlich gesund)
+Roter Wichtel  YIFICAR bearbeitet nun #410 
+ --> Duftende Badesalze [4.2] 
+Gelber Wichtel XULJOLA bearbeitet nun #411 
+ --> Schoko-Nikolaus [6.7] (Ziemlich gesund)
+----------------------------------------
+Runde 117
+Roter Wichtel  KOOPO bearbeitet nun #412 
+ --> Schnelles Kartenspiel [6.24] (Spannung: 13.1)
+Roter Wichtel  ROMIWEL bearbeitet nun #413 
+ --> Spannendes Buch [16.3] 
+Gelber Wichtel ZOTOLE bearbeitet nun #414 
+ --> Spannendes Buch [17.84] 
+Roter Wichtel  XULHATIOPO bearbeitet nun #415 
+ --> Stacheliger Kaktus [0.08] 
+Blauer Wichtel LEWEL bearbeitet nun #416 
+ --> Gemaltes Memory [7.52] (Spannung: 11.2)
+----------------------------------------
+Runde 118
+Roter Wichtel  XULHATIOPO bearbeitet nun #417 
+ --> Thermo-Ski-Unterwaesche [3.48] (Eleganz: 23)
+Gelber Wichtel VARNOR bearbeitet nun #418 
+ --> Rasende Eisenbahn [7.98] (Spannung: 13.5)
+Blauer Wichtel SETIMUFRI bearbeitet nun #419 
+ --> Schnelles Kartenspiel [5.75] (Spannung: 12.0)
+----------------------------------------
+Runde 119
+Roter Wichtel  NORZOTOUMA bearbeitet nun #420 
+ --> Selbstgemachtes Pesto [4.3] (Ziemlich gesund)
+Roter Wichtel  YIFICAR bearbeitet nun #421 
+ --> Robuster Nussknacker [19.21] 
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #422 
+ --> Leckere Papaya [6.92] (Ziemlich gesund)
+----------------------------------------
+Runde 120
+Roter Wichtel  XULHATIOPO bearbeitet nun #423 
+ --> Duftende Badesalze [10.5] 
+----------------------------------------
+Runde 121
+----------------------------------------
+Runde 122
+Roter Wichtel  NORZOTOUMA bearbeitet nun #424 
+ --> Dicker Pullover [1.74] (Eleganz: 15)
+Gelber Wichtel GEROSXUL bearbeitet nun #425 
+ --> Schnelles Auto [3.81] 
+----------------------------------------
+Runde 123
+Roter Wichtel  NORZOTOUMA bearbeitet nun #426 
+ --> Leckerer Essensgutschein [21.8] 
+Roter Wichtel  TAZZOTO bearbeitet nun #427 
+ --> Lange Struempfe [4.36] (Eleganz: 15)
+Gelber Wichtel EORLLE bearbeitet nun #428 
+ --> Saftige Kekse [14.9] (Ziemlich gesund)
+----------------------------------------
+Runde 124
+Roter Wichtel  KOOPO bearbeitet nun #429 
+ --> Interessantes Brettspiel [4.97] (Spannung: 11.9)
+Blauer Wichtel UMADUR bearbeitet nun #430 
+ --> Robuster Nussknacker [0.74] 
+Gelber Wichtel XULJOLA bearbeitet nun #431 
+ --> Gemaltes Memory [9.53] (Spannung: 14.3)
+----------------------------------------
+Runde 125
+----------------------------------------
+Runde 126
+Gelber Wichtel YIFIROMI bearbeitet nun #432 
+ --> Saftige Kekse [7.61] (nicht unbedingt gesund)
+Roter Wichtel  TAZZOTO bearbeitet nun #433 
+ --> Rote Unterbuxe [4.19] (Eleganz: 14)
+----------------------------------------
+Runde 127
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #434 
+ --> Lange Struempfe [3.77] (Eleganz: 15)
+Gelber Wichtel VARNOR bearbeitet nun #435 
+ --> Zipfelige Muetze [1.15] (Eleganz: 16)
+Gelber Wichtel GEROSXUL bearbeitet nun #436 
+ --> Grosser Bagger [2.68] (Spannung: 3.7)
+Blauer Wichtel SETIMUFRI bearbeitet nun #437 
+ --> Schoko-Nikolaus [13.67] (nicht unbedingt gesund)
+----------------------------------------
+Runde 128
+Blauer Wichtel UMADUR bearbeitet nun #438 
+ --> Schnelles Auto [4.99] 
+Blauer Wichtel LEWEL bearbeitet nun #439 
+ --> Rote Unterbuxe [4.74] (Eleganz: 14)
+----------------------------------------
+Runde 129
+Roter Wichtel  KOOPO bearbeitet nun #440 
+ --> Dicker Pullover [1.25] (Eleganz: 15)
+Roter Wichtel  WELIOTIOPO bearbeitet nun #441 
+ --> Dicker Pullover [1.24] (Eleganz: 15)
+Roter Wichtel  XULHATIOPO bearbeitet nun #442 
+ --> Knusprige Kekse [12.65] (Ziemlich gesund)
+Roter Wichtel  TAZZOTO bearbeitet nun #443 
+ --> Stacheliger Kaktus [20.81] 
+Roter Wichtel  XULFRIBOR bearbeitet nun #444 
+ --> Niedliche Puppe [2.52] (Spannung: 3.7)
+----------------------------------------
+Runde 130
+Roter Wichtel  KOOPO bearbeitet nun #445 
+ --> Dicker Pullover [3.4] (Eleganz: 15)
+Roter Wichtel  WELIOTIOPO bearbeitet nun #446 
+ --> Schnelles Auto [5.37] 
+----------------------------------------
+Runde 131
+Gelber Wichtel VARNOR bearbeitet nun #447 
+ --> Schnelles Kartenspiel [9.83] (Spannung: 20.6)
+Gelber Wichtel GEROSXUL bearbeitet nun #448 
+ --> Leckere Papaya [14.98] (Ziemlich gesund)
+----------------------------------------
+Runde 132
+Roter Wichtel  KOOPO bearbeitet nun #449 
+ --> Leckerer Essensgutschein [23.12] 
+Roter Wichtel  ROMIWEL bearbeitet nun #450 
+ --> Zipfelige Muetze [4.7] (Eleganz: 16)
+Roter Wichtel  VARIOTI bearbeitet nun #451 
+ --> Saftige Kekse [6.77] (Ziemlich gesund)
+Roter Wichtel  MUHATIXUL bearbeitet nun #452 
+ --> Leckere Papaya [12.19] (Ziemlich gesund)
+Gelber Wichtel DURJOLA bearbeitet nun #453 
+ --> Schnelles Auto [7.05] (Spannung: 9.8)
+Blauer Wichtel VARXUL bearbeitet nun #454 
+ --> Rote Unterbuxe [4.01] (Eleganz: 14)
+Roter Wichtel  XULFRIBOR bearbeitet nun #455 
+ --> Interessantes Brettspiel [6.32] (Spannung: 15.1)
+----------------------------------------
+Runde 133
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #456 
+ --> Schoko-Nikolaus [3.75] (nicht unbedingt gesund)
+Blauer Wichtel UMAUMA bearbeitet nun #457 
+ --> Interessantes Brettspiel [2.85] (Spannung: 6.8)
+----------------------------------------
+Runde 134
+Roter Wichtel  UMAARIYIFI bearbeitet nun #458 
+ --> Lange Struempfe [4.59] (Eleganz: 15)
+Blauer Wichtel OPOEORL bearbeitet nun #459 
+ --> Saftige Kekse [8.18] (Ziemlich gesund)
+Roter Wichtel  WELIOTIOPO bearbeitet nun #460 
+ --> Schnelles Kartenspiel [1.42] (Spannung: 2.9)
+Blauer Wichtel SETIMUFRI bearbeitet nun #461 
+ --> Schnelles Auto [4.2] (Spannung: 5.8)
+----------------------------------------
+Runde 135
+Roter Wichtel  ROMIWEL bearbeitet nun #462 
+ --> Thermo-Ski-Unterwaesche [3.55] (Eleganz: 23)
+Gelber Wichtel YIFIROMI bearbeitet nun #463 
+ --> Robuster Nussknacker [1.38] 
+Gelber Wichtel XULJOLA bearbeitet nun #464 
+ --> Schnelles Auto [0.01] (Spannung: 0.0)
+----------------------------------------
+Runde 136
+Gelber Wichtel ZOTOLE bearbeitet nun #465 
+ --> Leckerer Essensgutschein [4.32] 
+Roter Wichtel  WELIOTIOPO bearbeitet nun #466 
+ --> Aromatischer Tee [5.33] (nicht unbedingt gesund)
+Blauer Wichtel UMADUR bearbeitet nun #467 
+ --> Schnelles Auto [1.68] (Spannung: 2.3)
+Blauer Wichtel LEWEL bearbeitet nun #468 
+ --> Grosser Bagger [3.62] (Spannung: 5.0)
+----------------------------------------
+Runde 137
+Roter Wichtel  UMAARIYIFI bearbeitet nun #469 
+ --> Schnelles Kartenspiel [7.1] (Spannung: 14.9)
+Roter Wichtel  ROMIWEL bearbeitet nun #470 
+ --> Robuster Nussknacker [17.94] 
+Roter Wichtel  VARIOTI bearbeitet nun #471 
+ --> Schoko-Nikolaus [10.36] (Ziemlich gesund)
+Roter Wichtel  YIFICAR bearbeitet nun #472 
+ --> Grosser Bagger [0.7] (Spannung: 0.9)
+Gelber Wichtel XULJOLA bearbeitet nun #473 
+ --> Thermo-Ski-Unterwaesche [0.67] (Eleganz: 23)
+----------------------------------------
+Runde 138
+Roter Wichtel  YIFICAR bearbeitet nun #474 
+ --> Robuster Nussknacker [18.12] 
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #475 
+ --> Thermo-Ski-Unterwaesche [4.25] (Eleganz: 23)
+Gelber Wichtel YIFIROMI bearbeitet nun #476 
+ --> Grosser Bagger [0.93] (Spannung: 1.3)
+----------------------------------------
+Runde 139
+Blauer Wichtel OPOEORL bearbeitet nun #477 
+ --> Kuscheliger Schal [3.33] (Eleganz: 17)
+Gelber Wichtel EORLLE bearbeitet nun #478 
+ --> Schoko-Nikolaus [10.52] (Ziemlich gesund)
+Roter Wichtel  XULFRIBOR bearbeitet nun #479 
+ --> Leckerer Essensgutschein [17.02] 
+Blauer Wichtel UMAUMA bearbeitet nun #480 
+ --> Schnelles Kartenspiel [4.48] (Spannung: 9.4)
+----------------------------------------
+Runde 140
+Roter Wichtel  WELIOTIOPO bearbeitet nun #481 
+ --> Gemaltes Memory [4.51] (Spannung: 6.7)
+Blauer Wichtel VARXUL bearbeitet nun #482 
+ --> Bequeme Hose [2.02] (Eleganz: 12)
+Roter Wichtel  XULHATIOPO bearbeitet nun #483 
+ --> Duftende Badesalze [17.55] 
+Gelber Wichtel YIFIROMI bearbeitet nun #484 
+ --> Bequeme Hose [4.28] (Eleganz: 12)
+Gelber Wichtel XULJOLA bearbeitet nun #485 
+ --> Spannendes Buch [22.97] 
+----------------------------------------
+Runde 141
+Gelber Wichtel DURJOLA bearbeitet nun #486 
+ --> Stacheliger Kaktus [19.57] 
+Blauer Wichtel UMADUR bearbeitet nun #487 
+ --> Zipfelige Muetze [3.14] (Eleganz: 16)
+----------------------------------------
+Runde 142
+Gelber Wichtel ZOTOLE bearbeitet nun #488 
+ --> Niedliche Puppe [0.57] (Spannung: 0.8)
+Gelber Wichtel VARNOR bearbeitet nun #489 
+ --> Kuscheliger Schal [0.94] (Eleganz: 17)
+Blauer Wichtel SETIMUFRI bearbeitet nun #490 
+ --> Knusprige Kekse [4.61] (Ziemlich gesund)
+----------------------------------------
+Runde 143
+Roter Wichtel  NORZOTOUMA bearbeitet nun #491 
+ --> Schnelles Auto [23.93] 
+Roter Wichtel  MUHATIXUL bearbeitet nun #492 
+ --> Aromatischer Tee [8.14] (Ziemlich gesund)
+Blauer Wichtel LEWEL bearbeitet nun #493 
+ --> Niedliche Puppe [4.68] (Spannung: 7.0)
+----------------------------------------
+Runde 144
+Gelber Wichtel ZOTOLE bearbeitet nun #494 
+ --> Thermo-Ski-Unterwaesche [2.71] (Eleganz: 23)
+----------------------------------------
+Runde 145
+Roter Wichtel  UMAARIYIFI bearbeitet nun #495 
+ --> Rasende Eisenbahn [6.83] (Spannung: 11.6)
+Roter Wichtel  WELIOTIOPO bearbeitet nun #496 
+ --> Spannendes Buch [7.57] 
+Gelber Wichtel JOLAKOJOLA bearbeitet nun #497 
+ --> Leckere Papaya [14.3] (Ziemlich gesund)
+Gelber Wichtel VARNOR bearbeitet nun #498 
+ --> Aromatischer Tee [14.48] (Ziemlich gesund)
+Blauer Wichtel SETIMUFRI bearbeitet nun #499 
+ --> Leckerer Essensgutschein [22.01] 
+----------------------------------------
+Runde 146
+----------------------------------------
+Runde 147
+----------------------------------------
+Runde 148
+----------------------------------------
+Runde 149
+----------------------------------------
+Runde 150
+----------------------------------------
+Runde 151
+----------------------------------------
+Runde 152
+----------------------------------------
+Runde 153
+----------------------------------------
+Runde 154
+----------------------------------------
+Runde 155
+----------------------------------------
+Runde 156
+----------------------------------------
+Runde 157
+----------------------------------------
+Runde 158
+----------------------------------------
+Runde 159
+----------------------------------------
+Runde 160
+----------------------------------------
+Runde 161
+----------------------------------------
+Runde 162
+----------------------------------------
+Runde 163
+----------------------------------------
+Runde 164
+----------------------------------------
+Runde 165
+----------------------------------------
+Runde 166
+----------------------------------------
+Runde 167
+----------------------------------------
+Runde 168
+----------------------------------------
+Runde 169
+----------------------------------------
+Runde 170
+----------------------------------------
+Leistungsindex: 
+1. Platz: Roter Wichtel  ROMIWEL mit einer Effizienz von 0.25663716814159293 Geschenke pro Runde.
+2. Platz: Roter Wichtel  MUHATIXUL mit einer Effizienz von 0.24347826086956523 Geschenke pro Runde.
+3. Platz: Roter Wichtel  KOOPO mit einer Effizienz von 0.2288135593220339 Geschenke pro Runde.
+----------------------------------------
+4. Platz: Roter Wichtel  XULFRIBOR mit einer Effizienz von 0.20161290322580644 Geschenke pro Runde.
+5. Platz: Roter Wichtel  NORZOTOUMA mit einer Effizienz von 0.19548872180451127 Geschenke pro Runde.
+6. Platz: Roter Wichtel  TAZZOTO mit einer Effizienz von 0.19491525423728814 Geschenke pro Runde.
+7. Platz: Roter Wichtel  XULHATIOPO mit einer Effizienz von 0.1935483870967742 Geschenke pro Runde.
+8. Platz: Roter Wichtel  YIFICAR mit einer Effizienz von 0.19047619047619047 Geschenke pro Runde.
+9. Platz: Roter Wichtel  WELIOTIOPO mit einer Effizienz von 0.176 Geschenke pro Runde.
+10. Platz: Blauer Wichtel LEWEL mit einer Effizienz von 0.171875 Geschenke pro Runde.
+11. Platz: Gelber Wichtel JOLAKOJOLA mit einer Effizienz von 0.1510791366906475 Geschenke pro Runde.
+12. Platz: Roter Wichtel  VARIOTI mit einer Effizienz von 0.15079365079365079 Geschenke pro Runde.
+13. Platz: Blauer Wichtel UMADUR mit einer Effizienz von 0.1484375 Geschenke pro Runde.
+14. Platz: Roter Wichtel  UMAARIYIFI mit einer Effizienz von 0.14728682170542637 Geschenke pro Runde.
+15. Platz: Gelber Wichtel VARNOR mit einer Effizienz von 0.1347517730496454 Geschenke pro Runde.
+16. Platz: Blauer Wichtel SETIMUFRI mit einer Effizienz von 0.13333333333333333 Geschenke pro Runde.
+17. Platz: Gelber Wichtel YIFIROMI mit einer Effizienz von 0.13178294573643412 Geschenke pro Runde.
+18. Platz: Blauer Wichtel OPOEORL mit einer Effizienz von 0.12403100775193798 Geschenke pro Runde.
+19. Platz: Blauer Wichtel UMAUMA mit einer Effizienz von 0.12307692307692308 Geschenke pro Runde.
+20. Platz: Gelber Wichtel GEROSXUL mit einer Effizienz von 0.11450381679389313 Geschenke pro Runde.
+21. Platz: Gelber Wichtel EORLLE mit einer Effizienz von 0.1111111111111111 Geschenke pro Runde.
+22. Platz: Gelber Wichtel DURJOLA mit einer Effizienz von 0.10273972602739725 Geschenke pro Runde.
+23. Platz: Gelber Wichtel XULJOLA mit einer Effizienz von 0.10135135135135136 Geschenke pro Runde.
+24. Platz: Blauer Wichtel VARXUL mit einer Effizienz von 0.09022556390977443 Geschenke pro Runde.
+25. Platz: Gelber Wichtel ZOTOLE mit einer Effizienz von 0.08823529411764706 Geschenke pro Runde.
+----------------------------------------
+Roter Wichtel  ROMIWEL (gearbeiteteZeit = 113, anzahlGefertigterGeschenke = 29) wurde geklont.
+Blauer Wichtel LEWEL (gearbeiteteZeit = 128, anzahlGefertigterGeschenke = 22) wurde geklont.
+Gelber Wichtel JOLAKOJOLA (gearbeiteteZeit = 139, anzahlGefertigterGeschenke = 21) wurde geklont.

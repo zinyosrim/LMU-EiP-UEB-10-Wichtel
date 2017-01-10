@@ -11,6 +11,10 @@ public class RoterWichtel extends Wichtel {
         super();
     }
 
+    public RoterWichtel(Wichtel w) {
+        super(w);
+    }
+
     // Methoden
 
     /**

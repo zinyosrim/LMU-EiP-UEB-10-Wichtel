@@ -10,6 +10,9 @@ public class GelberWichtel extends Wichtel {
     public GelberWichtel(){
         super();
     }
+    public GelberWichtel(Wichtel w) {
+        super(w);
+    }
 
     // Methoden
 
