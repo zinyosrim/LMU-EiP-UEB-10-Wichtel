@@ -111,7 +111,12 @@ public abstract class Wichtel implements Comparable<Wichtel> {
     *  @param andererWichtel
      * @return -1, 0, or 1 sofern die eigene Effizienz kleiner, gleich oder grösser ist.
      */
-    public abstract int compareTo(Wichtel andererWichtel);
+    public int compareTo(Wichtel andererWichtel){
+        double delta = this.effizienz() - andererWichtel.effizienz();
+        if (delta < 0) return -1;
+        if (delta > 0) return 1;
+        return 0;
+    };
 
 }
 

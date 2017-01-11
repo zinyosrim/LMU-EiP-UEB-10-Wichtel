@@ -42,20 +42,4 @@ public class GelberWichtel extends Wichtel {
         this.gearbeiteteZeit += this.dauer;
         this.anzahlgefertigterGeschenke++;
     }
-
-
-    // Interface Implemetierungen
-
-    @Override public int compareTo(Wichtel andererWichtel) {
-        if ( this.effizienz() > andererWichtel.effizienz() ) {
-            return 1;
-        }
-        else if ( this.effizienz() < andererWichtel.effizienz() ){
-            return -1;
-        }
-        else {
-            return 0;
-        }
-    }
-
 }

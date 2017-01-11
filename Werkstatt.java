@@ -1,11 +1,12 @@
 
 
 import java.io.*;
+import java.util.Arrays;
 
 public class Werkstatt {
 	
-	private final int anzahlGeschenke = 500;
-	private final int anzahlWichtel = 25;
+	private final int anzahlGeschenke = 1000;
+	private final int anzahlWichtel = 50;
 	
 	// Die gesamte Wunschliste
 	private Geschenk[] geschenke;
@@ -81,23 +82,10 @@ public class Werkstatt {
 	}
 
 	/**
-	 * Selection sort nach:
-	 * https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.html
+	 * sortiere Wichtel nach Effizienz
 	 */
 	private void sortiere(){
-		Wichtel tmpWichtel; //temporäres Wichtel zum Vertauschen
-		for ( int i = 0; i < wichtel.length-1; i++ ){
-			for ( int j = i+1; j < wichtel.length; j++ ){
-				// wenn das andere Wichtel "größer" ist ...
-				if (wichtel[i].compareTo(wichtel[j]) > 0 ){
-					// vertausche die beiden Wichtel im Array
-					tmpWichtel	= wichtel[i];
-					wichtel[i] 	= wichtel[j];
-					wichtel[j] 	= tmpWichtel;
-				}
-			}
-		}
-
+       Arrays.sort(wichtel);
 	}
 
     private Wichtel getHighPerformer (String color){
