@@ -6,6 +6,7 @@ public class BlauerWichtel extends Wichtel {
 
     // Konstruktor
 
+
     public BlauerWichtel(){
         super();
     }
